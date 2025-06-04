@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
