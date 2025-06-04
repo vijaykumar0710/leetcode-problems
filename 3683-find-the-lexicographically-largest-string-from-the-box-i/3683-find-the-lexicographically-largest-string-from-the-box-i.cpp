@@ -15,7 +15,7 @@ public:
                 res=tmp;
             }
            }else{
-            string tmp=word.substr(0,maxi);
+            string tmp=word.substr(0,i+1);
             if(tmp>res){
                 res=tmp;
              }
