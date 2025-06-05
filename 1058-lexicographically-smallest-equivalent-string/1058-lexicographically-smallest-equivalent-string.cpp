@@ -1,13 +1,21 @@
 class Solution {
 public:
-char dfs(unordered_map<char,vector<char>>&adj,char ch,vector<int>&visited){
-    if(visited[ch-'a']==1) return ch;
+char bfs(unordered_map<char,vector<char>>&adj,char ch){
+    vector<int>visited(26,0);
+    queue<char>q;
+    q.push(ch);
     visited[ch-'a']=1;
     char minChar=ch;
-    for(auto &v:adj[minChar]){
-         if(visited[v-'a']==0){
-            minChar=min(minChar,dfs(adj,v,visited));
-         }
+    while(!q.empty()){
+        char u=q.front();
+        q.pop();
+        minChar=min(minChar,u);
+        for(auto &v:adj[u]){
+            if(visited[v-'a']==0){
+                q.push(v);
+                visited[v-'a']=1;
+            }
+        }
     }
     return minChar;
 }
@@ -20,8 +28,7 @@ char dfs(unordered_map<char,vector<char>>&adj,char ch,vector<int>&visited){
         }
         string res="";
         for(auto &ch:baseStr){
-            vector<int>visited(26,0);
-            char minChar=dfs(adj,ch,visited);
+            char minChar=bfs(adj,ch);
             res+=minChar;
         }
         return res;
