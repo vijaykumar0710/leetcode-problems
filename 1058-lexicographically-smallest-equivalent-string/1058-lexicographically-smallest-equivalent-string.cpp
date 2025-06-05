@@ -1,6 +1,7 @@
 class Solution {
 public:
 char dfs(unordered_map<char,vector<char>>&adj,char ch,vector<int>&visited){
+    if(visited[ch-'a']==1) return ch;
     visited[ch-'a']=1;
     char minChar=ch;
     for(auto &v:adj[minChar]){
