@@ -4,9 +4,7 @@ public:
         int n=s.size();
         vector<char>minChar(n+1);
         minChar[n]='z';
-        for(int i=n-1;i>=0;i--){
-            minChar[i]=min(s[i],minChar[i+1]);
-        }
+        for(int i=n-1;i>=0;i--) minChar[i]=min(s[i],minChar[i+1]);
         string p="";
         stack<char>st;
         for(int i=0;i<n;i++){
