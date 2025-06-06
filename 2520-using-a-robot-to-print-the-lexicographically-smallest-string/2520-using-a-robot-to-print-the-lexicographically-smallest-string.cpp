@@ -16,10 +16,6 @@ public:
             st.pop();
            }
         }
-        while(!st.empty()){
-            p+=st.top();
-            st.pop();
-        }
         return p;
     }
 };
