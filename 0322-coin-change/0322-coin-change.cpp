@@ -16,7 +16,7 @@ int knapsack(vector<int>&coins,int amount,int n){
         }
        }
   for(int i=2;i<n+1;i++){
-    for(int j=1;j<amount+1;j++){
+    for(int j=0;j<amount+1;j++){
     if(coins[i-1]<=j){
         t[i][j]=min(t[i-1][j],1+t[i][j-coins[i-1]]);
       }else{
