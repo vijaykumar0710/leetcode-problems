@@ -1,7 +1,7 @@
 class Solution {
 public:
 struct Compare {
-    bool operator()(const pair<char, int>& a, const pair<char, int>& b) {
+    bool operator()( auto& a,  auto& b) {
         if (a.first == b.first) {
             // For same character, prioritize the larger index (i.e., reverse the comparison)
             return a.second < b.second;
