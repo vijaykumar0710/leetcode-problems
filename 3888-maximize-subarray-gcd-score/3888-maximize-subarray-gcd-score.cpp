@@ -10,9 +10,9 @@ public:
                 val/=2;
             }
         }
-        long long maxGcd=0ll;
+        long long maxGcd=0LL;
         for(int i=0;i<n;i++){
-            int currentGcd=0ll;
+            int currentGcd=0LL;
             int minTwoDivisor=1e9;
             int minTwoDivisorCount=0;
             for(int j=i;j<n;j++){
