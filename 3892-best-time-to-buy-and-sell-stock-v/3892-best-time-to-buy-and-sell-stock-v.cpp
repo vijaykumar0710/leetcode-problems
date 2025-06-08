@@ -2,8 +2,8 @@ class Solution {
 public:
 long long t[1001][3][501];
 long long f(int i,int state,int k,vector<int>&prices,int n){
-if(i==n) return (state==0)?0:INT_MIN/2;
-if(k==0) return (state==0)?0:INT_MIN/2;
+if((i==n || k==0)&& state==2) return INT_MIN/2;
+if(i==n || k==0) return 0;
 if(t[i][state][k]!=-1) return t[i][state][k];
 long long profit=0;
 if(state==0){
