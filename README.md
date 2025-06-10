@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
