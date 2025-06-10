@@ -22,8 +22,8 @@ public:
                return ; 
         }
         
-        if(result.size() != 0 && temp.size() >= result.size()) 
-            return; 
+        // if(result.size() != 0 && temp.size() >= result.size()) 
+        //     return; 
         
         solve(people_skill , idx + 1 , temp , mask ); // no
 
