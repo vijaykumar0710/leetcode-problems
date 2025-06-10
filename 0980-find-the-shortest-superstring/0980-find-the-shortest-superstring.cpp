@@ -16,27 +16,6 @@ int getOverlap(const string &a, const string &b) {
     }
     return maxOverlap;
 }
-
-int helper(int mask, int last) {
-    if (mask == (1 << n) - 1) return 0; // base case: all words used
-
-    if (dp[mask][last] != -1) return dp[mask][last];
-
-    int minLen = INT_MAX;
-
-    for (int i = 0; i < n; ++i) {
-        if (!(mask & (1 << i))) { // if word i not used yet
-            int newMask = mask | (1 << i);
-            int cost = words[i].size() - overlap[last][i] + helper(newMask, i);
-            if (cost < minLen) {
-                minLen = cost;
-                parent[mask][last] = i;
-            }
-        }
-    }
-
-    return dp[mask][last] = minLen;
-}
     string shortestSuperstring(vector<string>& words) {
        int n = words.size();
 
