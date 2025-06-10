@@ -1,31 +1,37 @@
 class Solution {
 public:
-bool f(vector<int>&nums,long long target,long long sum,int mask,int k,int n,unordered_map<int,bool>&t){
-    if(k==0) return true;
-    if(t.count(mask)) return t[mask];
-    for(int i=0;i<n;i++){ 
-    if(!(mask&(1<<i)) && sum+nums[i]<=target){
-        long long newSum=sum+nums[i];
-        int newMask=mask|(1<<i);
-        if(newSum==target){
-            if(f(nums,target,0,newMask,k-1,n,t))
-               return t[mask]=true;
-        }else{
-            if(f(nums,target,newSum,newMask,k,n,t))
-               return t[mask]=true;
+    bool f(vector<int>& nums, long long target, long long sum, int mask, int k, int n, vector<int>& dp) {
+        if (k == 0) return true;
+        if (dp[mask] != -1) return dp[mask];
+        
+        for (int i = 0; i < n; i++) {
+            // if element i is unused and adding it doesn't exceed target
+            if (!(mask & (1 << i)) && sum + nums[i] <= target) {
+                long long newSum = sum + nums[i];
+                int newMask = mask | (1 << i);
+                
+                if (newSum == target) {
+                    // start a new subset
+                    if (f(nums, target, 0, newMask, k - 1, n, dp))
+                        return dp[mask] = 1;
+                } else {
+                    if (f(nums, target, newSum, newMask, k, n, dp))
+                        return dp[mask] = 1;
+                }
+            }
         }
-       }
+        return dp[mask] = 0;
     }
-    return t[mask]=false;
-}
+
     bool canPartitionKSubsets(vector<int>& nums, int k) {
-        int n=nums.size();
-        long long total=accumulate(nums.begin(),nums.end(),0);
-        if(total%k!=0) return false;
-        long long target=total/k;
-        long long sum=0;
-        int mask=0;
-          unordered_map<int, bool> t;
-        return f(nums,target,sum,mask,k,n,t);
+        int n = nums.size();
+        long long total = accumulate(nums.begin(), nums.end(), 0LL);
+        if (total % k != 0) return false;
+        
+        long long target = total / k;
+        int mask = 0;
+        vector<int> dp(1 << n, -1); // memoize by mask only
+
+        return f(nums, target, 0, mask, k, n, dp);
     }
 };
