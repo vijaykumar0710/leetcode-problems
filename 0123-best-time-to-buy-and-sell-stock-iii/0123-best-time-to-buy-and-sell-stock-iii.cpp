@@ -2,8 +2,7 @@ class Solution {
 public:
 int t[100000+1][2][3];
 int f(int idx,int buy,int tran,vector<int>&prices,int n){
-    if(tran==0) return 0;
-    if(idx==n) return 0;
+    if(tran==0 || idx==n) return 0;
     if(t[idx][buy][tran]!=-1) return t[idx][buy][tran];
     long long profit=0;
     if(buy){
