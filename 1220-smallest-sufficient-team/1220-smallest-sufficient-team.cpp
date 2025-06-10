@@ -32,7 +32,7 @@ public:
             solve(people_skill, idx + 1, temp , mask | people_skill[idx]);
 
             temp.pop_back();
-            dp[s] = (temp.size() != 0 ) ? temp.size() : -1;
+            dp[s] =  temp.size();
         }
     }
     
