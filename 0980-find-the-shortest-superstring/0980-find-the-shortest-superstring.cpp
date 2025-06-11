@@ -1,7 +1,6 @@
 class Solution {
 public:
 int n;
-vector<string> words;
 vector<vector<int>> overlap;
 vector<vector<int>> dp;
 vector<vector<int>> parent;
