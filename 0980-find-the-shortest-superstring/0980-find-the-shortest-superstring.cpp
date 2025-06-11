@@ -2,9 +2,6 @@ class Solution {
 public:
 int n;
 vector<vector<int>> overlap;
-vector<vector<int>> dp;
-vector<vector<int>> parent;
-
 int getOverlap(const string &a, const string &b) {
     int maxOverlap = 0;
     int minLen = min(a.size(), b.size());
@@ -35,14 +32,24 @@ int getOverlap(const string &a, const string &b) {
         dp[1 << i][i] = words[i].size();
 
     // 4. DP Filling
-    for (int mask = 1; mask < N; ++mask) {
-        for (int last = 0; last < n; ++last) {
+    for (int mask = 1; mask < N; mask++) {
+        for (int last = 0; last < n; last++) {
+            /* hum is word (words[last]) ko last mein rakhna chahte hain isiliye pahle check karo kya ye word mask(subset) mein hain ya nahi
+              agar nahi hain toh skip karo aur dusre word ko dekho
+             */
             if (!(mask & (1 << last))) continue;
 
+              /* last word ke pahle prevWord hoga jisse wo judega agar nahi hua matlab us subset mein ek hi word hain matalb base case 
+              toh skip karo dusra word dekho
+              */
             int prevMask = mask ^ (1 << last);
             if (prevMask == 0) continue;
 
+          /* now its time make prevWord->lastWord*/
             for (int i = 0; i < n; ++i) {
+                // same word last and previous nahi ban skta
+                if(last==i) continue;
+                /*check karo ki jis word ko hum prev banane ja rahe hain kya wo prevMask mein present hain ya nahi*/
                 if (!(prevMask & (1 << i))) continue;
 
                 int val = dp[prevMask][i] + words[last].size() - overlap[i][last];
