@@ -39,16 +39,14 @@ int getOverlap(const string &a, const string &b) {
              */
             if (!(mask & (1 << last))) continue;
 
-              /* last word ke pahle prevWord hoga jisse wo judega agar nahi hua matlab us subset mein ek hi word hain matalb base case 
+              /* last word ke pahle prevWord hoga jisse wo judega, agar nahi hua matlab us subset mein ek hi word hain matalb base case 
               toh skip karo dusra word dekho
               */
-            int prevMask = mask ^ (1 << last);
+            int prevMask = mask &~(1 << last);
             if (prevMask == 0) continue;
 
           /* now its time make prevWord->lastWord*/
             for (int i = 0; i < n; ++i) {
-                // same word last and previous nahi ban skta
-                if(last==i) continue;
                 /*check karo ki jis word ko hum prev banane ja rahe hain kya wo prevMask mein present hain ya nahi*/
                 if (!(prevMask & (1 << i))) continue;
 
@@ -76,6 +74,7 @@ int getOverlap(const string &a, const string &b) {
     while (last != -1) {
         path.push_back(last);
         int temp = parent[mask][last];
+        // prevMask pe le jao matal iske parent ke pass
         mask ^= (1 << last);
         last = temp;
     }
