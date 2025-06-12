@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -192,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
