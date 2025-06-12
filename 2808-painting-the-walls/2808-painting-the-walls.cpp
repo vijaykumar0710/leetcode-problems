@@ -1,7 +1,7 @@
 class Solution {
 public:
     int n;
-    const long long INF = 1e18;
+    const long long INF = INT_MAX;
     vector<vector<long long>> dp;
 
     long long solve(int i, int freetime, vector<int>& cost, vector<int>& time) {
