@@ -7,9 +7,9 @@ public:
             mp[t[i]]++;
         }
         int cnt=mp.size();
-        int i=0,j=0;
+        int i=0;
         int sizeOfWindow=n+1,startIdx=-1;
-        while(j<n){
+        for(int j=0;j<n;j++){
             if(mp.find(s[j])!=mp.end()){
                 mp[s[j]]--;
                 if(mp[s[j]]==0)
@@ -26,7 +26,6 @@ public:
                     }
                     i++;
              }
-             j++;
         }
         if(startIdx==-1) return "";
         return s.substr(startIdx,sizeOfWindow);
