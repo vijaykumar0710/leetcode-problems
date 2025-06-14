@@ -1,57 +1,53 @@
 class Solution {
 public:
-    vector<int> findSubstring(string S, vector<string>& L) {
-        bool flag1=true;
-        for(auto & x:S){
-          if(x!='a'){
-            flag1=false;
-            break;
-          }
-        }
-        bool flag2=true;
-        for(auto &x:L){
-          if(x!="a"){
-            flag2=false;
-            break;
-          }
-        }
-        if(flag1==true && flag2==true && S.size()==10000 && L.size()==5000){ 
-        vector<int>tr;
-        for(int i=0;i<=5000;i++){
-            tr.push_back(i);
-          }
-       return tr;
-     }
-    int size_word = L[0].size();
-    int word_count = L.size();
-    int size_L = size_word * word_count;
+    vector<int> findSubstring(string s, vector<string>& words) {
+        vector<int> res;
+        if (s.empty() || words.empty()) return res;
 
-    vector<int> res;
-    if (size_L > S.size())
+        int word_len = words[0].size();
+        int word_count = words.size();
+        int total_len = word_len * word_count;
+        int n = s.size();
+
+        unordered_map<string, int> word_map;
+        for (const string& word : words)
+            word_map[word]++;
+
+        // Try all possible starting offsets (0 to word_len - 1)
+        for (int offset = 0; offset < word_len; ++offset) {
+            unordered_map<string, int> window_map;
+            int left = offset, right = offset, matched = 0;
+
+            while (right + word_len <= n) {
+                string word = s.substr(right, word_len);
+                right += word_len;
+
+                // Word is part of target
+                if (word_map.count(word)) {
+                    window_map[word]++;
+                    matched++;
+
+                    // If word occurs too many times, shrink window
+                    while (window_map[word] > word_map[word]) {
+                        string left_word = s.substr(left, word_len);
+                        window_map[left_word]--;
+                        left += word_len;
+                        matched--;
+                    }
+
+                    // If full match
+                    if (matched == word_count)
+                        res.push_back(left);
+                }
+                // Word not in list → reset window
+                else {
+                    window_map.clear();
+                    matched = 0;
+                    left = right;
+                }
+            }
+        }
+
         return res;
-
-    unordered_map<string, int> hash_map;
-
-    for (int i = 0; i < word_count; i++) 
-        hash_map[L[i]]++;    
-
-    for (int i = 0; i <= S.size() - size_L; i++) {
-        unordered_map<string, int> temp_hash_map(hash_map);
-        int j = i,count=word_count;
-        while (j < i + size_L) {
-            string word = S.substr(j, size_word);
-            if (temp_hash_map.find(word) == temp_hash_map.end())
-                break;
-            else { 
-                temp_hash_map[word]--;
-                if(temp_hash_map[word]==0) temp_hash_map.erase(word);
-                count--;
-               } 
-            j += size_word;
-        }
-        if (count == 0)
-            res.push_back(i);
-    }
-    return res;
     }
 };
