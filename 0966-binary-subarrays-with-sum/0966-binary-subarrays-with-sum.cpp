@@ -1,19 +1,15 @@
 class Solution {
 public:
-int atmost(vector<int>&nums,int goal){
-    int n=nums.size(),i=0,j=0,sum=0,subarray=0;
-    while(j<n){
+int atMost(vector<int>& nums, int goal){
+    int n=nums.size(),i=0,sum=0,subarray_cnt=0;
+    for(int j=0;j<n;j++){
         sum+=nums[j];
-        while(i<=j && sum>goal){
-            sum-=nums[i];
-            i++;
-        }
-        subarray+=j-i+1;
-        j++;
+        while(i<=j && sum>goal) sum-=nums[i++];
+        subarray_cnt+=(j-i+1);
     }
-    return subarray;
+     return subarray_cnt;
 }
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return atmost(nums,goal)-atmost(nums,goal-1);
+        return atMost(nums,goal)-atMost(nums,goal-1);
     }
 };
