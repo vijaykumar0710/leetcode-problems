@@ -23,7 +23,6 @@ tuple<int,int,int>dfs(TreeNode* root){
 
 }
     int averageOfSubtree(TreeNode* root) {
-        tuple<int,int,int>vec=dfs(root);
-        return get<2>(vec);
+        return get<2>(dfs(root));
     }
 };
