@@ -1,6 +1,6 @@
 class Solution {
 public:
- unordered_map<int,vector<int>>adj;
+ vector<vector<int>>adj;
  vector<int>res;
  vector<int>subtree_size;
  vector<int>dp;
@@ -39,6 +39,7 @@ void dfs2(int node,int parent){
     }
 }
     vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
+        adj.resize(n);
         res.resize(n);
         subtree_size.resize(n);
         dp.resize(n);
