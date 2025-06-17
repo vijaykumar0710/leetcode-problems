@@ -17,12 +17,10 @@ long long total=0;
  
  void dfs2(TreeNode* node, TreeNode* parent) {
         for (TreeNode* child : {node->left, node->right}) {
-            if (!child) continue;
-    long long left_sum=subtree_sum[node->left];
-    long long right_sum=subtree_sum[node->right];
-    long long product_left_sum=left_sum*(total-left_sum);
-    long long product_right_sum=right_sum*(total-right_sum);
-    product=max({product,product_left_sum,product_right_sum});
+          if (!child) continue;
+    long long part1=subtree_sum[child];
+    long long part2=(total-part1);
+    product=max(product,part1*part2);
 
             // Backup
             int sz_node = subtree_sum[node], sz_child = subtree_sum[child];
