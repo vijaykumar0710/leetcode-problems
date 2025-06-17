@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
