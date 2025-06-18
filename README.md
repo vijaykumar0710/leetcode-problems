@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2808-painting-the-walls) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2808-painting-the-walls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2808-painting-the-walls) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
