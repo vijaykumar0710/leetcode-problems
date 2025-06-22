@@ -1,78 +1,58 @@
 class Solution {
 public:
-    long long maxArea(vector<vector<int>>& pts) {
-         long long maxArea = -1LL;
-        
-        if (pts.size() < 3) {
-            return -1LL;
-        }
-
-        std::map<int, std::pair<int, int>> xMap; // {x: {min_y, max_y}}
-        std::map<int, std::pair<int, int>> yMap; // {y: {min_x, max_x}}
-
-        int minX = std::numeric_limits<int>::max();
-        int maxX = std::numeric_limits<int>::min();
-        int minY = std::numeric_limits<int>::max();
-        int maxY = std::numeric_limits<int>::min();
-
-        for (const auto& p : pts) {
-            int x = p[0];
-            int y = p[1];
-
-            minX = std::min(minX, x);
-            maxX = std::max(maxX, x);
-            minY = std::min(minY, y);
-            maxY = std::max(maxY, y);
-
-            if (xMap.find(x) == xMap.end()) {
-                xMap[x] = {y, y};
-            } else {
-                xMap[x].first = std::min(xMap[x].first, y);
-                xMap[x].second = std::max(xMap[x].second, y);
+    long long maxArea(vector<vector<int>>& coords) {
+        int n=coords.size();
+        if(n<3) return -1LL;
+        int minX=INT_MAX,minY=INT_MAX,maxX=-1,maxY=-1;
+        unordered_map<int,pair<int,int>>mp_x_to_y; // x->{min_y,max_y}on this x
+        unordered_map<int,pair<int,int>>mp_y_to_x; //y->{min_x,max_x} on this y
+        for(auto &cor:coords){
+            int x=cor[0];
+            int y=cor[1];
+            minX=min(minX,x);
+            minY=min(minY,y);
+            maxX=max(maxX,x);
+            maxY=max(maxY,y);
+            if(mp_x_to_y.find(x)==mp_x_to_y.end()){
+              mp_x_to_y[x]={y,y};
+            }else{
+              mp_x_to_y[x].first=min(mp_x_to_y[x].first,y);
+              mp_x_to_y[x].second=max(mp_x_to_y[x].second,y);
             }
-
-            if (yMap.find(y) == yMap.end()) {
-                yMap[y] = {x, x};
-            } else {
-                yMap[y].first = std::min(yMap[y].first, x);
-                yMap[y].second = std::max(yMap[y].second, x);
+             if(mp_y_to_x.find(y)==mp_y_to_x.end()){
+              mp_y_to_x[y]={x,x};
+            }else{
+              mp_y_to_x[y].first=min(mp_y_to_x[y].first,x);
+              mp_y_to_x[y].second=max(mp_y_to_x[y].second,x);
             }
         }
-
-        for (const auto& entry : yMap) {
-            int yVal = entry.first;
-            int minXOnY = entry.second.first;
-            int maxXOnY = entry.second.second;
-
-            long long baseLen = maxXOnY - minXOnY;
-            if (baseLen == 0) continue;
-
-            long long h1 = std::abs(minY - yVal);
-            long long h2 = std::abs(maxY - yVal);
-            long long maxH = std::max(h1, h2);
-
-            if (maxH == 0) continue;
-
-            maxArea = std::max(maxArea, baseLen * maxH);
-        }
-
-        for (const auto& entry : xMap) {
-            int xVal = entry.first;
-            int minYOnX = entry.second.first;
-            int maxYOnX = entry.second.second;
-
-            long long baseLen = maxYOnX - minYOnX;
-            if (baseLen == 0) continue;
-
-            long long h1 = std::abs(minX - xVal);
-            long long h2 = std::abs(maxX - xVal);
-            long long maxH = std::max(h1, h2);
-            
-            if (maxH == 0) continue;
-
-            maxArea = std::max(maxArea, baseLen * maxH);
-        }
-
-        return maxArea;
+       long long maxArea=-1LL;
+       // processing vertical base
+       for(auto &entry:mp_x_to_y){
+        int key=entry.first;
+        int y_min=entry.second.first;
+        int y_max=entry.second.second;
+        long long base=y_max-y_min;
+        if(base==0) continue;
+        long long h1=abs(minX-key);
+        long long h2=abs(maxX-key);
+        long long maxH=max(h1,h2);
+       if(maxH==0) continue;
+       maxArea=max(maxArea,base*maxH);
+       }
+      //processing horizontal base
+      for(auto &entry:mp_y_to_x){
+        int key=entry.first;
+        int x_min=entry.second.first;
+        int x_max=entry.second.second;
+        long long base=x_max-x_min;
+        if(base==0) continue;
+        long long h1=abs(minY-key);
+        long long h2=abs(maxY-key);
+       long long maxH=max(h1,h2);
+       if(maxH==0) continue;
+       maxArea=max(maxArea,base*maxH);
+       }
+       return maxArea;
     }
 };
