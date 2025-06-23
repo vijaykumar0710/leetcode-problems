@@ -19,7 +19,7 @@ int change(int target,vector<int>&coin){
     vector<int> findCoins(vector<int>& numWays) {
        int n = numWays.size();
         vector<int> res;
-        for(int i = 0;i<n;i++){
+        for(int i=0;i<n;i++){
             int ways = change(i+1,res);
             if(ways+1==numWays[i]) res.push_back(i+1);
             else if(ways!=numWays[i]) return {};
