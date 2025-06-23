@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Trie
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
 |  |
 | ------- |
