@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
