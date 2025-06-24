@@ -19,7 +19,7 @@ public:
         if(isPalindrome(s,i,k)){ 
         int temp=1+solve(s,k+1,j);
         mini=min(mini,temp);
-         t[i][j]=mini;
+       //  t[i][j]=mini;
         }
      }
      return t[i][j]=mini;
