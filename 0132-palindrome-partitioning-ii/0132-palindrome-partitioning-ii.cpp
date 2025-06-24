@@ -2,7 +2,7 @@ class Solution {
 public:
   int t[2001][2001];
   bool isPalindrome(string &s,int i,int j){
-     while(i<j){
+     while(i<=j){
        if(s[i]!=s[j]){
         return false;
        }
@@ -19,7 +19,6 @@ public:
         if(isPalindrome(s,i,k)){ 
         int temp=1+solve(s,k+1,j);
         mini=min(mini,temp);
-       //  t[i][j]=mini;
         }
      }
      return t[i][j]=mini;
