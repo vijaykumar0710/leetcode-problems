@@ -15,7 +15,7 @@ public:
     if(t[i][j]!=-1) return t[i][j];
     if(i>=j || isPalindrome(s,i,j)) return 0;
      int mini=INT_MAX;
-     for(int k=i;k<j;k++){ 
+     for(int k=i;k<=j-1;k++){ 
         if(isPalindrome(s,i,k)){ 
         mini=min(mini,1+solve(s,k+1,j));
          t[i][j]=mini;
