@@ -3,7 +3,7 @@ public:
 unordered_map<string,bool>t;
 bool solve(string s1,string s2){
    if(s1.compare(s2)==0) return true;
-   if(s1.length()<=1) return false;
+  // if(s1.length()<=1) return false;
    string key=s1+"#"+s2;
    if(t.find(key)!=t.end()){
     return t[key];
