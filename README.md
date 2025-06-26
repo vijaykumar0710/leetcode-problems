@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0087-scramble-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
