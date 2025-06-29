@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
