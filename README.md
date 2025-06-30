@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0518-coin-change-ii) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -449,4 +452,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
