@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0863-sum-of-distances-in-tree) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
