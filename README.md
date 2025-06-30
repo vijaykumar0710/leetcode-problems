@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -444,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
