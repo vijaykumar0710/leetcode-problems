@@ -6,7 +6,7 @@ int solve(vector<int>& piles,int mid,int h){
         hour+=(pile/mid);
         if(pile%mid!=0) hour++;
     }
-    return hour<=h;
+    return hour>h;
 }
     int minEatingSpeed(vector<int>& piles, int h) {
         int n=piles.size();
@@ -17,9 +17,11 @@ int solve(vector<int>& piles,int mid,int h){
         while(l<=r){
             int mid=l+(r-l)/2; // itne kele khila kar dekhta hu kitna samay legi
             if(solve(piles,mid,h)){
-                res=min(res,mid);
-                r=mid-1;
-            }else l=mid+1;
+                l=mid+1;
+            }else{
+               res=min(res,mid);
+               r=mid-1;
+            }
         }
         return res;
     }
