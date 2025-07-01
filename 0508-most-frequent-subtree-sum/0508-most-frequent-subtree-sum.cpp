@@ -5,7 +5,7 @@ public:
     long long sum=root->val;
     long long left_sum=solve(root->left,mp,max_freq);
     long long right_sum=solve(root->right,mp,max_freq);
-     sum+=left_sum+right_sum;
+    long long sum=curr_sum+left_sum+right_sum;
     mp[sum]++;
     max_freq=max(max_freq,mp[sum]);
     return sum;
