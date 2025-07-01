@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 ## Database
 |  |
 | ------- |
