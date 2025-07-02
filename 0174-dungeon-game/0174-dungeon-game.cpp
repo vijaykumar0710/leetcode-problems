@@ -3,10 +3,10 @@ public:
     int m, n;
     unordered_map<string, int> memo;
 vector<vector<int>>directions={{0,1},{1,0}};
-    bool canSurvive(int i, int j, vector<vector<int>>& grid, int currHealth) {
+    bool canSurvive(int i, int j, vector<vector<int>>& dungeon, int currHealth) {
         if (i >= m || j >= n) return false;
 
-        currHealth += grid[i][j];
+        currHealth += dungeon[i][j];
         if (currHealth <= 0) 
             return false;
 
@@ -20,7 +20,7 @@ vector<vector<int>>directions={{0,1},{1,0}};
        for(auto &dir:directions){
         int new_r=dir[0]+i;
         int new_c=dir[1]+j;
-       if(canSurvive(new_r,new_c,grid,currHealth)) return memo[key]=true;
+       if(canSurvive(new_r,new_c,dungeon,currHealth)) return memo[key]=true;
     }
     return memo[key]=false;
     }
@@ -35,8 +35,6 @@ vector<vector<int>>directions={{0,1},{1,0}};
 
         while (left <= right) {
             int mid = left + (right - left) / 2;
-
-           // memo.clear();  // clear for new health level
 
             if (canSurvive(0, 0, dungeon, mid)) {
                 result = mid;
