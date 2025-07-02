@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3903-inverse-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
 |  |
