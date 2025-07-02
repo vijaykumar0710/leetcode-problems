@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0135-candy) |
+| [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 ## Database
