@@ -1,50 +1,30 @@
 class Solution {
 public:
-    int m, n;
-    unordered_map<string, int> memo;
-vector<vector<int>>directions={{0,1},{1,0}};
-    bool canSurvive(int i, int j, vector<vector<int>>& dungeon, int currHealth) {
-        if (i >= m || j >= n) return false;
+int m,n;
+int t[201][201];
+int solve(int i,int j,vector<vector<int>>& grid){
+    if(i>=m || j>=n) return INT_MAX;
 
-        currHealth += dungeon[i][j];
-        if (currHealth <= 0) 
-            return false;
+    if(t[i][j]!=-1) return t[i][j];
 
-        if (i == m - 1 && j == n - 1) 
-            return true;
+    int right=solve(i,j+1,grid);
+    int down=solve(i+1,j,grid);
 
-        string key = to_string(i) + "_" + to_string(j) + "_" + to_string(currHealth);
-        if (memo.count(key))
-            return memo[key];
-
-       for(auto &dir:directions){
-        int new_r=dir[0]+i;
-        int new_c=dir[1]+j;
-       if(canSurvive(new_r,new_c,dungeon,currHealth)) return memo[key]=true;
-    }
-    return memo[key]=false;
-    }
-
-    int calculateMinimumHP(vector<vector<int>>& dungeon) {
-        m = dungeon.size();
-        n = dungeon[0].size();
-
-        int left = 1;
-        int right = 4 * 1e7;
-        int result = right;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (canSurvive(0, 0, dungeon, mid)) {
-                result = mid;
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
+   if(i==m-1 && j==n-1){
+        if(grid[i][j]>=0)
+          return 1;
+        else{
+            return abs(grid[i][j])+1;
         }
+    }
 
-        return result;
+    int res=min(right,down)-grid[i][j]; 
+    return t[i][j]=res>0?res:1;
+}
+    int calculateMinimumHP(vector<vector<int>>& grid) {
+        m=grid.size();
+        n=grid[0].size();
+        memset(t,-1,sizeof(t));
+        return solve(0,0,grid);
     }
 };
-
