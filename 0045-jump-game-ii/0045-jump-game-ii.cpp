@@ -2,14 +2,15 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         int n=nums.size();
-        if(n==1) return 0;
-        int max_idx=0;
-        int min_jump=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=0 && max_idx<nums[i]+i) min_jump++;
-            max_idx=max(max_idx,nums[i]+i);
-            if(max_idx>=n-1) return min_jump;
+        int max_jump=0,curr_end=0;
+        int jump_cnt=0;
+        for(int i=0;i<n-1;i++){
+           max_jump=max(max_jump,nums[i]+i);
+           if(i==curr_end){
+             jump_cnt++;
+             curr_end=max_jump;
+           }
         }
-        return -1;
+        return jump_cnt;
     }
 };
