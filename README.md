@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0135-candy) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0072-edit-distance) |
