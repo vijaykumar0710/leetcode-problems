@@ -16,7 +16,6 @@ public:
         while(!pq.empty()){
             int time=pq.top().first;
             int node=pq.top().second;
-            if(node==n-1) return res[node];
             pq.pop();
             for(auto &v:adj[node]){
                 int adjNode=v[0];
