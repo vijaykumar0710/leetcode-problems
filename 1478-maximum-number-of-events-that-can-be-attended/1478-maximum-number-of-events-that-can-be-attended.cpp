@@ -2,9 +2,8 @@ class Solution {
 public:
     vector<int> parent;
     int find(int day) {
-        if (parent[day] != day)
-            parent[day] = find(parent[day]);
-        return parent[day];
+        if (parent[day] == day) return parent[day];
+        return parent[day] = find(parent[day]);
     }
 void Union(int x,int y){
     parent[x]=y;
