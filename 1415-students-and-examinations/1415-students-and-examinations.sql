@@ -10,7 +10,6 @@ LEFT JOIN Examinations e
   AND su.subject_name = e.subject_name
 GROUP BY
   st.student_id,
-  st.student_name,
   su.subject_name
 ORDER BY
   st.student_id,
