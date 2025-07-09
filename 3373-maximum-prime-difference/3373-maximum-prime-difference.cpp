@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumPrimeDifference(vector<int>& nums) {
-    const static int N = 3e5 + 1;
+    int N = 3e5 + 1;
     vector<bool>isPrime(N,true);
         isPrime[0]=isPrime[1]=false;
         for (int i = 2; i * i < N; i++) {
