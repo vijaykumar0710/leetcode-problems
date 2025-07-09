@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
@@ -459,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Number Theory
