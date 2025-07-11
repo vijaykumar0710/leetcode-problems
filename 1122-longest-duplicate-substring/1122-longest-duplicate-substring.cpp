@@ -14,7 +14,7 @@ struct RollingHash{
       }
     }
     long long get_hash(int l,int r){
-        return (prefix_hash[r+1]+mod-(prefix_hash[l]*power[r-l+1])%mod)%mod;
+        return (prefix_hash[r+1]+mod-(prefix_hash[l]*power[r-l+1]+mod)%mod)%mod;
     }
 };
 int start=-1;
