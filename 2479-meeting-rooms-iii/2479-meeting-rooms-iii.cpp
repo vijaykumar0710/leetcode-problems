@@ -1,59 +1,40 @@
 class Solution {
 public:
-    typedef pair<long long, int> P;
-
     int mostBooked(int n, vector<vector<int>>& meetings) {
-        int m = meetings.size();
-
-        sort(begin(meetings), end(meetings)); //sort by starting time of meetings
-
-        vector<int> roomsUsedCount(n, 0); //Each room is used 0 times in the beginning
-
-        priority_queue<P, vector<P>, greater<P>> usedRooms;
-        //To store {earliest room empty time, room No.}
-        
-        priority_queue<int, vector<int>, greater<int>> unusedRooms;
-        //To store rooms that are used
-        for(int room = 0; room < n; room++) {
-            unusedRooms.push(room); //All rooms are unused in the beginning
-        }
-
-        for(vector<int>& meet : meetings) {
-            int start  = meet[0];
-            int end    = meet[1];
-
-            //First see, by this time, which rooms can be empty now
-            //And move them to unusedRooms
-            while(!usedRooms.empty() && usedRooms.top().first <= start) {
-                int room = usedRooms.top().second;
-                usedRooms.pop();
-                unusedRooms.push(room);
+        sort(meetings.begin(), meetings.end());
+        vector<long long> rooms(n, 0);
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>,
+                       greater<pair<long long, int>>>
+            occupiedRoom;
+        priority_queue<int, vector<int>, greater<int>> freeRoom;
+        for (int i = 0; i < n; i++)
+            freeRoom.push(i);
+        for (auto& meet : meetings) {
+            long long start = meet[0];
+            long long end = meet[1];
+            while (!occupiedRoom.empty() && start >= occupiedRoom.top().first) {
+                freeRoom.push(occupiedRoom.top().second);
+                occupiedRoom.pop();
             }
-
-            if(!unusedRooms.empty()) {
-                int room = unusedRooms.top();
-                unusedRooms.pop();
-                usedRooms.push({end, room});
-                roomsUsedCount[room]++;
-            } else { //We don't have any room available now. Pick earliest end room
-                int room          = usedRooms.top().second;
-                long long endTime = usedRooms.top().first;
-                usedRooms.pop();
-                usedRooms.push({endTime + (end-start), room});
-                roomsUsedCount[room]++;
-            }
-
-        }
-
-        int resultRoom = -1;
-        int maxUse     = 0;  
-        for(int room = 0; room < n; room++) {
-            if(roomsUsedCount[room] > maxUse) {
-                maxUse = roomsUsedCount[room];
-                resultRoom = room;
+            if (!freeRoom.empty()) {
+                int free = freeRoom.top();
+                freeRoom.pop();
+                rooms[free]++;
+                occupiedRoom.push({end, free});
+            } else {
+                auto [finish, room_no] = occupiedRoom.top();
+                occupiedRoom.pop();
+                rooms[room_no]++;
+                occupiedRoom.push({finish + end - start, room_no});
             }
         }
-
-        return resultRoom;
+        long long room = -1, idx = -1;
+        for (int i = 0; i < n; i++) {
+            if (rooms[i] > room) {
+                idx = i;
+                room = rooms[i];
+            }
+        }
+        return idx;
     }
 };
