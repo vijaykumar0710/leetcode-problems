@@ -1,12 +1,12 @@
 class Solution {
 public:
-unordered_map<string,multiset<string>>adj;
+unordered_map<string,priority_queue<string,vector<string>,greater<string>>>adj;
  vector<string>res;
 void dfs(string u){
-    auto &st=adj[u];
-    while(!st.empty()){
-        string v=*st.begin();
-       st.erase(st.begin());
+    auto &pq=adj[u];
+    while(!pq.empty()){
+        string v=pq.top();
+       pq.pop();
        dfs(v);
     }
     res.push_back(u);
@@ -15,7 +15,7 @@ void dfs(string u){
         for(auto &ticket:tickets){
             string u=ticket[0];
             string v=ticket[1];
-            adj[u].insert(v);
+            adj[u].push(v);
         }
        dfs("JFK");
        reverse(res.begin(),res.end());
