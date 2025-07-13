@@ -1,36 +1,52 @@
 class Solution {
 public:
-typedef pair<int,int>pii;
-int prims_algo(int n,unordered_map<int,vector<pair<int,int>>>&adj){
-    priority_queue<pii,vector<pii>,greater<pii>>pq;
-    int totalCost=0;
-    pq.push({0,0});
-    vector<bool>inMST(n,false);
-    while(!pq.empty()){
-      int cost=pq.top().first;
-      int node=pq.top().second;
-      pq.pop();
-      if(inMST[node]==true) continue;
-      inMST[node]=true;
-       totalCost+=cost;
-      for(auto &neigh:adj[node]){
-        int v=neigh.first;
-        int wt=neigh.second;
-        if(!inMST[v]) pq.push({wt,v});
-      }
+vector<int>parent,rank;
+int find(int i){
+    if(i==parent[i]) return i;
+    return parent[i]=find(parent[i]);
+}
+void Union(int x,int y){
+    int parent_x=find(x);
+    int parent_y=find(y);
+    if(parent_x==parent_y) return;
+    if(rank[parent_x]>rank[parent_y]) parent[parent_y]=parent_x;
+    else if(rank[parent_x]<rank[parent_y]) parent[parent_x]=parent_y;
+    else{
+        parent[parent_x]=parent_y;
+        rank[parent_y]++;
     }
-    return totalCost;
+}
+int kruskal_algo(vector<vector<int>>&vec){
+int totalCost=0;
+for(auto &temp:vec){
+int u=temp[0];
+int v=temp[1];
+int cost=temp[2];
+  int parent_u=find(u);
+  int parent_v=find(v);
+  if(parent_u!=parent_v){
+    Union(u,v);
+    totalCost+=cost;
+  }
+  }
+  return totalCost;
 }
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n=points.size();
-        unordered_map<int,vector<pair<int,int>>>adj;
+        rank.assign(n,0);
+        parent.assign(n,0);
+        for(int i=0;i<n;i++) parent[i]=i;
+       vector<vector<int>>vec;
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
               int cost=abs(points[i][0]-points[j][0])+abs(points[i][1]-points[j][1]);
-              adj[i].push_back({j,cost});
-              adj[j].push_back({i,cost});
+              vec.push_back({i,j,cost});
+              vec.push_back({j,i,cost});
             }
         }
-        return prims_algo(n,adj);
+      sort(vec.begin(),vec.end(),[](auto &a,auto &b){
+         return a[2]<b[2];
+      });
+        return kruskal_algo(vec);
     }
 };
