@@ -33,8 +33,8 @@ int cost=temp[2];
 }
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n=points.size();
-        rank.assign(n,0);
-        parent.assign(n,0);
+        rank.resize(n,0);
+        parent.resize(n);
         for(int i=0;i<n;i++) parent[i]=i;
        vector<vector<int>>vec;
         for(int i=0;i<n;i++){
