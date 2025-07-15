@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3903-inverse-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3903-inverse-coin-change) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Trie
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
+| [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
+| [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
+| [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
 |  |
