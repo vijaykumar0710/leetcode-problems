@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long ans = 0;
-    long long dfs(int u,int mask,string& s,unordered_map<int,int>&seen,unordered_map<int,vector<int>>& graph,vector<int>&parent){
+    long long dfs(int u,int mask,string& s,unordered_map<int,int>&seen,unordered_map<int,vector<int>>& graph){
         long long res = 0;
         if (u != 0) {
             mask ^= 1 << (s[u] - 'a');
@@ -13,7 +13,7 @@ public:
             seen[mask]++;
         }
         for (auto v : graph[u]){ 
-               res += dfs(v, mask, s, seen,graph,parent);
+               res += dfs(v, mask, s, seen,graph);
         }
         return res;
     }
@@ -26,6 +26,6 @@ public:
            graph[parent[i]].push_back(i);
         }
        seen[0]=1;
-        return dfs(0, 0, s,seen,graph,parent);
+        return dfs(0, 0, s,seen,graph);
     }
 };
