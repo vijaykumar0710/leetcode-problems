@@ -33,7 +33,7 @@ void Union(int x,int y){
         for(auto &[root,indices]:groups){
             string temp="";
             for(auto &idx:indices) temp+=s[idx];
-            sort(indices.begin(),indices.end());
+           // sort(indices.begin(),indices.end());
             sort(temp.begin(),temp.end());
             for(int i=0;i<indices.size();i++){
                 res[indices[i]]=temp[i];
