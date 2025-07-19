@@ -15,6 +15,7 @@ public:
                 if(st.find(str)!=st.end()){
                     flag=true;
                 }
+                if(flag==true) break;
             }
             if(flag==false){
                     st.insert(subfolder);
