@@ -17,7 +17,6 @@ public:
             int end=min(vec[i][1],prev_end);
             res.push_back({st,end});
           }
-          prev_st=max(prev_st,vec[i][0]);
           prev_end=max(prev_end,vec[i][1]);
         }
         return res;
