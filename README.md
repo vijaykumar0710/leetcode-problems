@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -747,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
