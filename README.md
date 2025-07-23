@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
