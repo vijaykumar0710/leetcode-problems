@@ -1,17 +1,14 @@
 class Solution {
 public:
-int t[101];
-int f(int i,vector<int>&nums){
-    if(i<0) return 0;
-    if(i==0) return nums[i];
-    if(t[i]!=-1) return t[i];
-    int take=nums[i]+f(i-2,nums);
-    int skip=f(i-1,nums);
-    return t[i]=max(take,skip);
-}
     int rob(vector<int>& nums) {
         int n=nums.size();
-        memset(t,-1,sizeof(t));
-        return f(n-1,nums);
+        if(n<=2) return *max_element(nums.begin(),nums.end());
+        vector<int>t(n+1);
+        t[0]=0;
+        t[1]=nums[0];
+        for(int i=2;i<=n;i++){
+            t[i]=max(nums[i-1]+t[i-2],t[i-1]);
+        }
+        return t[n];
     }
 };
