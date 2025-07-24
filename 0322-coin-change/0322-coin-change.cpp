@@ -1,26 +1,17 @@
 class Solution {
 public:
-int t[13][10001];
-int f(int n,vector<int>& coins, int amount){
-    if(n==0 && amount>0) return 1e9;
-    if(amount==0) return 0;
-    if(n==1){ 
-        if(amount%coins[0]==0) return amount/coins[0];
-         return 1e9;
-    }
-    if(t[n][amount]!=-1) return t[n][amount];
-    int take=1e9;
-    if(coins[n-1]<=amount){
-        take=1+f(n,coins,amount-coins[n-1]);
-    }
-    int skip=f(n-1,coins,amount);
-    return t[n][amount]=min(take ,skip);
-}
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
-        memset(t,-1,sizeof(t));
-        int ans=f(n,coins,amount);
-        if(ans>=1e9) return -1;
-        return ans;
+        vector<vector<int>>t(n+1,vector<int>(amount+1,0));
+        for(int j=1;j<=amount;j++) t[0][j]=1e9;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<=amount;j++){
+                if(coins[i-1]<=j){
+                    t[i][j]=min(1+t[i][j-coins[i-1]],t[i-1][j]);
+                }
+                else t[i][j]=t[i-1][j];
+            }
+        }
+      return t[n][amount]==1e9?-1:t[n][amount];
     }
 };
