@@ -1,18 +1,21 @@
 class Solution {
 public:
 typedef unsigned long long ll;
+int t[301][5001];
+int f(int n,int amount,vector<int>&coins){
+    if(amount==0) return 1;
+    if(n<=0) return 0;
+    if(t[n][amount]!=-1) return t[n][amount];
+    ll take=0;
+    if(coins[n-1]<=amount){
+        take=f(n,amount-coins[n-1],coins);
+    }
+    ll skip=f(n-1,amount,coins);
+    return t[n][amount]=(ll)take+skip;
+}
     int change(int amount, vector<int>& coins) {
         int n=coins.size();
-        vector<vector<ll>>t(n+1,vector<ll>(amount+1,0));
-        for(int i=0;i<=n;i++) t[i][0]=1;
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<=amount;j++){
-                if(coins[i-1]<=j){
-                    t[i][j]=t[i][j-coins[i-1]]+t[i-1][j];
-                }
-                else t[i][j]=t[i-1][j];
-            }
-        }
-        return t[n][amount];
+        memset(t,-1,sizeof(t));
+        return f(n,amount,coins);
     }
 };
