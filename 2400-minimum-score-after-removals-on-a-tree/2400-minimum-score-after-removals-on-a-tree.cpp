@@ -1,20 +1,18 @@
 class Solution {
 public:
 vector<int>subtree_xor,inTime,outTime;
-int dfs(int u,int par,int &timer,vector<int>&nums,vector<vector<int>>&adj){
-  int xor_val=nums[u];
+void dfs(int u,int par,int &timer,vector<int>&nums,vector<vector<int>>&adj){
+  subtree_xor[u]=nums[u];
   inTime[u]=timer;
   timer++;
   for(auto &v:adj[u]){
     if(v!=par){ 
-    int child_xor=dfs(v,u,timer,nums,adj);
-     xor_val^=child_xor;
+    dfs(v,u,timer,nums,adj);
+    subtree_xor[u]^=subtree_xor[v];
     }
   }
   outTime[u]=timer;
   timer++;
-  subtree_xor[u]=xor_val;
-  return xor_val;
 }
 bool isAncestor(int u,int v){
    return inTime[u]<=inTime[v] && outTime[u]>=outTime[v];
@@ -29,7 +27,8 @@ bool isAncestor(int u,int v){
         int timer=0;
         dfs(0,-1,timer,nums,adj);
         int score=INT_MAX;
-        for(int u=1;u<n;u++){ // 0 is root so start at 1
+        for(int u=1;u<n;u++){ //node 0 is the root,and it's never a child in any edge,starting from u = 1
+        // if we take 0 as then we only can make 2 components which is not desirable
             for(int v=u+1;v<n;v++){
                 int xor1,xor2,xor3;
                 if(isAncestor(u,v)){
