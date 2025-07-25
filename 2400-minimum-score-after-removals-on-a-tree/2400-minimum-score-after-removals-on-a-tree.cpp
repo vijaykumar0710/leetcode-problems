@@ -1,68 +1,55 @@
 class Solution {
 public:
-    vector<int> subtree_xor;
-    vector<int> in, out; // Time-in and Time-out for ancestor checking
-    int timer = 0;
-    void dfs(int u, int par, vector<vector<int>>& adj, vector<int>& nums) {
-        in[u] = ++timer;
-        subtree_xor[u] = nums[u];
-        for (int v : adj[u]) {
-            if (v != par) {
-                dfs(v, u, adj, nums);
-                subtree_xor[u] ^= subtree_xor[v];
-            }
-        }
-        out[u] = ++timer;
+vector<int>subtree_xor,inTime,outTime;
+int dfs(int u,int par,int &timer,vector<int>&nums,vector<vector<int>>&adj){
+  int xor_val=nums[u];
+  inTime[u]=timer;
+  timer++;
+  for(auto &v:adj[u]){
+    if(v!=par){ 
+    int child_xor=dfs(v,u,timer,nums,adj);
+     xor_val^=child_xor;
     }
-
-    bool isAncestor(int u, int v) {
-        // Returns true if u is ancestor of v
-        return in[u] <= in[v] && out[v] <= out[u];
-    }
-
+  }
+  outTime[u]=timer;
+  timer++;
+  subtree_xor[u]=xor_val;
+  return xor_val;
+}
+bool isAncestor(int u,int v){
+   return inTime[u]<=inTime[v] && outTime[u]>=outTime[v];
+}
     int minimumScore(vector<int>& nums, vector<vector<int>>& edges) {
-        int n = nums.size();
-        vector<vector<int>> adj(n);
-        for (auto& e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);  // It’s undirected
-        }
-
-        subtree_xor.assign(n, 0);
-        in.assign(n, 0);
-        out.assign(n, 0);
-        dfs(0, -1, adj, nums);
-       int total_xor = subtree_xor[0];
-
-        int res = INT_MAX;
-
-        // Try all pairs of nodes to simulate removing 2 edges (on their subtree roots)
-        for (int i = 1; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                int a, b, c;
-
-                if (isAncestor(i, j)) {
-                    // j is in i's subtree
-                    a = subtree_xor[j];
-                    b = subtree_xor[i] ^ subtree_xor[j];
-                    c = total_xor ^ subtree_xor[i];
-                } else if (isAncestor(j, i)) {
-                    // i is in j's subtree
-                    a = subtree_xor[i];
-                    b = subtree_xor[j] ^ subtree_xor[i];
-                    c = total_xor ^ subtree_xor[j];
-                } else {
-                    // i and j are in different subtrees
-                    a = subtree_xor[i];
-                    b = subtree_xor[j];
-                    c = total_xor ^ a ^ b;
+        int n=nums.size();
+        subtree_xor.resize(n);
+        inTime.resize(n);
+        outTime.resize(n);
+        vector<vector<int>>adj(n);
+        for(auto &e:edges){adj[e[0]].push_back(e[1]); adj[e[1]].push_back(e[0]); }
+        int timer=0;
+        dfs(0,-1,timer,nums,adj);
+        int score=INT_MAX;
+        for(int u=1;u<n;u++){ // 0 is root so start at 1
+            for(int v=u+1;v<n;v++){
+                int xor1,xor2,xor3;
+                if(isAncestor(u,v)){
+                  xor1=subtree_xor[v];
+                  xor2=subtree_xor[u]^xor1;
+                  xor3=subtree_xor[0]^xor1^xor2;
+                }else if(isAncestor(v,u)){
+                  xor1=subtree_xor[u];
+                  xor2=subtree_xor[v]^xor1;
+                  xor3=subtree_xor[0]^xor1^xor2;
+                }else{
+                  xor1=subtree_xor[u];
+                  xor2=subtree_xor[v];
+                  xor3=subtree_xor[0]^xor1^xor2;
                 }
-
-                int maxi = max({a, b, c});
-                int mini = min({a, b, c});
-                res = min(res, maxi - mini);
+                int mini=min({xor1,xor2,xor3});
+                int maxi=max({xor1,xor2,xor3});
+                score=min(score,maxi-mini);
             }
         }
-        return res;
+        return score;
     }
 };
