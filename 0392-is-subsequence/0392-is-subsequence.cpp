@@ -7,7 +7,7 @@ public:
             if(s[i]==t[j]) i++,j++;
             else j++;
         }
-        if(i<m && j>=n) return false;
+        if(i<m) return false;
         return true;
     }
 };
