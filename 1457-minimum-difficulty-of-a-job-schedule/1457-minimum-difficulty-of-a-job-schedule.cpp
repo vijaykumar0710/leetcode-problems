@@ -6,8 +6,8 @@ int solve(int i,vector<int>& jobDifficulty,int d,int n){
     int res=INT_MAX;
     if(t[i][d]!=-1) return t[i][d];
     for(int k=i;k<=n-d;k++){
-        int maxi=*max_element(jobDifficulty.begin()+i,jobDifficulty.begin()+k);
-        maxi=max(maxi,jobDifficulty[k]);
+        int maxi=*max_element(jobDifficulty.begin()+i,jobDifficulty.begin()+k+1);
+       // maxi=max(maxi,jobDifficulty[k]);
         int temp=maxi+solve(k+1,jobDifficulty,d-1,n);
         res=min(res,temp);
     }
