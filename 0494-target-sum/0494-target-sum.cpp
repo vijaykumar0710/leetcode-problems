@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         int total_sum=accumulate(nums.begin(),nums.end(),0);
         if((total_sum+target)%2==1) return 0;
-        if((total_sum+target)<0 || (total_sum<target)) return 0;
+        if((total_sum+target)<0) return 0;
         int s1=(total_sum+target)/2;
         vector<vector<int>>t(n+1,vector<int>(s1+1,0));
         for(int i=0;i<=n;i++) t[i][0]=1;
