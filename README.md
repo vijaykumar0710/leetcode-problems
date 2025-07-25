@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
