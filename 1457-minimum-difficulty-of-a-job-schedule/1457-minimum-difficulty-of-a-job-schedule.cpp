@@ -5,9 +5,12 @@ int solve(int i,vector<int>& jobDifficulty,int d,int n){
     if(d==1) return *max_element(jobDifficulty.begin()+i,jobDifficulty.end());
     int res=INT_MAX;
     if(t[i][d]!=-1) return t[i][d];
+    int maxi=0;
     for(int k=i;k<=n-d;k++){
-        int maxi=*max_element(jobDifficulty.begin()+i,jobDifficulty.begin()+k+1);
-       // maxi=max(maxi,jobDifficulty[k]);
+       // int maxi=*max_element(jobDifficulty.begin()+i,jobDifficulty.begin()+k+1);
+        for(int j=i;j<=k;j++){
+            maxi=max(maxi,jobDifficulty[j]);
+        }
         int temp=maxi+solve(k+1,jobDifficulty,d-1,n);
         res=min(res,temp);
     }
