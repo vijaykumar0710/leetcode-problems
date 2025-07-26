@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
