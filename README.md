@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
