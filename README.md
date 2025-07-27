@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
