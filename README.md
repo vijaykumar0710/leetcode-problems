@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -839,9 +841,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
