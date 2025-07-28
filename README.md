@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
