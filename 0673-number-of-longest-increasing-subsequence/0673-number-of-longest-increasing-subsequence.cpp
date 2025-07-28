@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lis(vector<int>& nums) {
+    int findNumberOfLIS(vector<int>& nums) {
         int n = nums.size();
         int max_len = 1;
         vector<int> t(n, 1);
@@ -24,9 +24,5 @@ public:
                 res += cnt[i];
         }
         return res;
-    }
-    int findNumberOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        return lis(nums);
     }
 };
