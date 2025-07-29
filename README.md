@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3881-minimize-maximum-component-cost) |
 ## Backtracking
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3919-network-recovery-pathways](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3919-network-recovery-pathways) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3881-minimize-maximum-component-cost) |
@@ -750,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
