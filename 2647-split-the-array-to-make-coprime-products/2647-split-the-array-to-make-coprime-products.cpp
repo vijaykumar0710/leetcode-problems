@@ -29,13 +29,11 @@ vector<int>get_prime_factors(int num){
             for(auto &p:prime_factors)
             last_index[p]=i;
         }
-        unordered_set<int>seen;
         int max_reach=0;
         for(int i=0;i<n-1;i++){
             vector<int> prime_factors = get_prime_factors(nums[i]);
             for(auto &p:prime_factors){ 
                 max_reach=max(max_reach,last_index[p]);
-                seen.insert(p);
             }
             if(max_reach==i) return i;
         }
