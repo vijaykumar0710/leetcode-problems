@@ -15,7 +15,7 @@ typedef long long ll;
         long long max_elegance=val_sum+1LL*used_cat.size()*used_cat.size();
         for(int i=k;i<n;i++){
             if(used_cat.count(items[i][1])) continue;
-            if(duplicates.empty()) break;
+            if(duplicates.empty()) break; // jitne duplicates honge bas utne hi check karenge for getting maximise
             int dup_val=duplicates.top();
             duplicates.pop();
             val_sum=val_sum-dup_val+items[i][0];
