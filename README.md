@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Number Theory
 |  |
