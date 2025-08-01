@@ -61,9 +61,11 @@ void Union(int x,int y){// Union by size compression
         vector<long long> branch_sizes;
         for(auto &neigh:adj[i]){
         // if neigh is non-prime then find size of non-prime components the neigh belongs to
+        if(!isPrime[neigh]){ 
         long long size=component_size[find(neigh)];
          branch_sizes.push_back(size);
          sum_of_branch_sizes+=size;
+           }
         }
        // path type 1.(NP--P)
        // Each non-prime node in branch sizes forms a valid path with prime nodes
