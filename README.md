@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 ## Tree
 |  |
@@ -761,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
