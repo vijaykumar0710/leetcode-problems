@@ -13,6 +13,7 @@ bool bfs(int row,int col,vector<vector<int>>& grid, int health){
             int r=vec[0],c=vec[1],h=vec[2];
              q.pop();
             if(h>=1 && r==m-1 && c==n-1) return true;
+            if(h<1) continue;
             for(auto &dir:directions){
                int n_r=r+dir[0];
                int n_c=c+dir[1];
