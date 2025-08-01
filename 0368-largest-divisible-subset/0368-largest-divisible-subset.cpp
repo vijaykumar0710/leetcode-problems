@@ -7,7 +7,7 @@ public:
         int max_len=1,lis_idx=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
-              if(nums[j]%nums[i]==0 || nums[i]%nums[j]==0){
+              if(nums[i]%nums[j]==0){
                 if(t[i]<t[j]+1){
                   t[i]=t[j]+1;
                   parent[i]=j;
