@@ -9,8 +9,6 @@ bool bfs(int row,int col,vector<vector<int>>& grid, int health){
     q.push({0,0,health});
     visited_min[0][0]=health;
     while(!q.empty()){
-        int sz=q.size();
-        while(sz--){ 
             auto vec=q.front();
             int r=vec[0],c=vec[1],h=vec[2];
              q.pop();
@@ -25,7 +23,6 @@ bool bfs(int row,int col,vector<vector<int>>& grid, int health){
                 q.push({n_r,n_c,new_h});
                 }
                }
-            }
           }
         }
     return false;
