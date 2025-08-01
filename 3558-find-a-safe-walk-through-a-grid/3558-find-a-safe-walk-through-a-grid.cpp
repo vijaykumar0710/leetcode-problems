@@ -4,14 +4,14 @@ int m,n;
 vector<vector<int>>directions={{1,0},{-1,0},{0,1},{0,-1}};
 bool bfs(int row,int col,vector<vector<int>>& grid, int health){
     vector<vector<int>>visited_min(m,vector<int>(n,-1));
-    queue<vector<int>>q;
+    deque<vector<int>>dq;
     if(grid[0][0]==1) health--;
-    q.push({0,0,health});
+    dq.push_back({0,0,health});
     visited_min[0][0]=health;
-    while(!q.empty()){
-            auto vec=q.front();
+    while(!dq.empty()){
+            auto vec=dq.front();
             int r=vec[0],c=vec[1],h=vec[2];
-             q.pop();
+            dq.pop_front();
             if(h>=1 && r==m-1 && c==n-1) return true;
             if(h<1) continue;
             for(auto &dir:directions){
@@ -21,10 +21,11 @@ bool bfs(int row,int col,vector<vector<int>>& grid, int health){
                 int new_h=h-grid[n_r][n_c];
                 if(new_h>=1 && new_h>visited_min[n_r][n_c]){ 
                 visited_min[n_r][n_c]=new_h;
-                q.push({n_r,n_c,new_h});
+                if(grid[n_r][n_c]==0) dq.push_front({n_r,n_c,new_h});
+                else dq.push_back({n_r,n_c,new_h});
                 }
                }
-          }
+            }
         }
     return false;
 }
