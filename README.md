@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
