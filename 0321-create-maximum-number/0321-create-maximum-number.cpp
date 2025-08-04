@@ -2,17 +2,11 @@ class Solution {
 public:
     vector<int> max_subs(vector<int>& vec, int t) {
         int n=vec.size();
-        stack<int> st;
         vector<int> temp;
         for (int i = 0; i < n; i++) {
-            while (!st.empty() && n - i-1 + st.size() >= t && st.top() < vec[i]) st.pop();
-            st.push(vec[i]);
+            while (!temp.empty() && n - i-1 + temp.size() >= t && temp.back() < vec[i]) temp.pop_back();
+            temp.push_back(vec[i]);
         }
-        while(!st.empty()){
-            temp.push_back(st.top());
-            st.pop();
-        }
-        reverse(temp.begin(),temp.end());
         temp.resize(t);
         return temp;
     }
