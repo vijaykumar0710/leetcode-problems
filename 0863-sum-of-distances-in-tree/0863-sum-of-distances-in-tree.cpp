@@ -19,6 +19,8 @@ void dfs2(int node,int par){
 
         int subtree_size_node=subtree_size[node];
         int dp_node=dp[node];
+        int subtree_size_child=subtree_size[child];
+        int dp_child=dp[child];
 
         subtree_size[node]-=subtree_size[child];
         dp[node]-=(dp[child]+subtree_size[child]);
@@ -30,6 +32,8 @@ void dfs2(int node,int par){
 
        subtree_size[node]=subtree_size_node;
        dp[node]=dp_node;
+       subtree_size[child]=subtree_size_child;
+       dp[child]=dp_child;
     }
 }
     vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
