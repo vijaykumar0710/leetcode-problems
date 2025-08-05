@@ -5,10 +5,10 @@ int dfs(TreeNode *node,int dir,int cnt){
     if(!node) return 0;
     if(dir==0){
          dfs(node->left,1,cnt+1);
-         dfs(node->right,0,1);
+         dfs(node->right,0,cnt);
     }else{
          dfs(node->right,0,cnt+1);
-         dfs(node->left,1,1);
+         dfs(node->left,1,cnt);
     }
    return res=max(res,cnt);
 }
