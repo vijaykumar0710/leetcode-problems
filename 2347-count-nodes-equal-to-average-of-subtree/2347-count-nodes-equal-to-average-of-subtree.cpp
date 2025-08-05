@@ -18,10 +18,8 @@ pair<int,int>dfs(TreeNode *node){
 
     if(total_sum/total==node->val){
         res++;
-        return {total,total_sum};
-    }else{
-        return {total,total_sum};
     }
+    return {total,total_sum};
 }
     int averageOfSubtree(TreeNode* root) {
         dfs(root);
