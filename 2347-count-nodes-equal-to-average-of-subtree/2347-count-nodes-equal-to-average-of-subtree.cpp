@@ -1,28 +1,30 @@
 class Solution {
 public:
-tuple<int,int,int>dfs(TreeNode* root){
-    if(!root) return {0,0,0};
+int res=0;
+pair<int,int>dfs(TreeNode *node){
+    if(!node) return {0,0};
 
-    auto left=dfs(root->left);
-    auto right=dfs(root->right);
+    auto left=dfs(node->left);
+    auto right=dfs(node->right);
 
-    int left_sum=get<0>(left);
-    int right_sum=get<0>(right);
+    int left_cnt=left.first;
+    int right_cnt=right.first;
 
-    int left_child_cnt=get<1>(left);
-    int right_child_cnt=get<1>(right);
+    int left_sum=left.second;
+    int right_sum=right.second;
 
-    int cnt=get<2>(left)+get<2>(right);
+    int total=left_cnt+right_cnt+1;
+    int total_sum=node->val+left_sum+right_sum;
 
-    int subtree_sum=left_sum+right_sum+root->val;
-    int total_nodes=left_child_cnt+right_child_cnt+1;
-    
-    int average=subtree_sum/total_nodes;
-    if(average==root->val) return {subtree_sum,total_nodes,cnt+1};
-      return {subtree_sum,total_nodes,cnt};
-
+    if(total_sum/total==node->val){
+        res++;
+        return {total,total_sum};
+    }else{
+        return {total,total_sum};
+    }
 }
     int averageOfSubtree(TreeNode* root) {
-        return get<2>(dfs(root));
+        dfs(root);
+        return res;
     }
 };
