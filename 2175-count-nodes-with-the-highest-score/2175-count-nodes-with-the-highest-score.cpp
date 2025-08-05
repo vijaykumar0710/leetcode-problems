@@ -10,7 +10,7 @@ void dfs1(int node,int par){
         subtree_size[node]+=subtree_size[child];
     }
 }
-map<int,int>mp;
+map<long long,long long>mp;
 void dfs2(int node,int par){
    long long pro=1;
    for(auto &child:adj[node]){
