@@ -1,19 +1,17 @@
 class Solution {
 public:
-  unordered_map<TreeNode* ,vector<int>>dp;
-  vector<int>dfs(TreeNode* root){
-    if(!root) return {0,0};
+pair<int,int> dfs(TreeNode* node){
+    if(!node) return {0,0};
+    auto left=dfs(node->left);
+    auto right=dfs(node->right);
 
-    auto left=dfs(root->left);
-    auto right=dfs(root->right);
+    auto include=node->val+left.first+right.first;
+    auto exclude=max(left.first,left.second)+max(right.first,right.second);
 
-    int exclude=max(left[0],left[1])+max(right[0],right[1]);
-    int include=root->val+left[0]+right[0];
-
-    return {exclude,include};
-  }
+   return {exclude,include};
+}
     int rob(TreeNode* root) {
-      auto res=dfs(root);
-      return max(res[0],res[1]);
+        auto ans=dfs(root);
+       return max(ans.first,ans.second);
     }
 };
