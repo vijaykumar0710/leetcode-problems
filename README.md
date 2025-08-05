@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1428-jump-game-iii) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1428-jump-game-iii) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1428-jump-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1428-jump-game-iii) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
