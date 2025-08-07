@@ -10,7 +10,7 @@ public:
                 if(i-1>=0 && j-1>=0) x1=t[i-1][j-1];
                 if(i-1>=0) x2=t[i-1][j];
                 if(i-1>=0 && j+1<n) x3=t[i-1][j+1];
-                t[i][j]=matrix[i][j]+min({x1,x2,x3});
+                t[i][j]+=matrix[i][j]+min({x1,x2,x3});
             }
         }
         int mini=INT_MAX;
