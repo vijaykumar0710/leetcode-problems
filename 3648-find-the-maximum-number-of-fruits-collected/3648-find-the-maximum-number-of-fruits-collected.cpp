@@ -1,39 +1,48 @@
 class Solution {
 public:
-int n;
-int t[1001][1001];
-int child1(vector<vector<int>>& fruits){
-   int sum=0;
-   for(int i=0;i<n;i++) sum+=fruits[i][i];
-   return sum;
-}
-int child2(int i,int j,vector<vector<int>>& fruits){
-  if(i>=n || j<0 || j>=n || i>=j) return 0;
-  if(i==n-1 && j==n-1) return 0;
-  if(t[i][j]!=-1) return t[i][j];
-  int x1=fruits[i][j]+child2(i+1,j-1,fruits);
-  int x2=fruits[i][j]+child2(i+1,j,fruits);
-  int x3=fruits[i][j]+child2(i+1,j+1,fruits);
-
-  return t[i][j]=max({x1,x2,x3});
-}
-int child3(int i,int j,vector<vector<int>>& fruits){
-  if(i>=n || i<0 || j>=n || i<=j) return 0;
-  if(i==n-1 && j==n-1) return 0;
-  if(t[i][j]!=-1) return t[i][j];
-  int x1=fruits[i][j]+child3(i-1,j+1,fruits);
-  int x2=fruits[i][j]+child3(i,j+1,fruits);
-  int x3=fruits[i][j]+child3(i+1,j+1,fruits);
-
-  return t[i][j]=max({x1,x2,x3});
-}
     int maxCollectedFruits(vector<vector<int>>& fruits) {
-        n=fruits.size();
-        int c1=child1(fruits);
-        memset(t,-1,sizeof(t));
-        int c2=child2(0,n-1,fruits);
-         memset(t,-1,sizeof(t));
-        int c3=child3(n-1,0,fruits);
-        return c1+c2+c3;
+        int n = fruits.size();
+        vector<vector<int>> t(n, vector<int>(n, 0));
+        //t[i][j] = max fruits collected till [i][j]
+
+        //child1Collect - Diagonal elements
+        int result = 0;
+        for(int i = 0; i < n; i++) {
+            result += fruits[i][i];
+        }
+
+
+        //Before child2 and child3, nullify the cells which can't be visited by child2 and child3
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                if(i < j && i+j < n-1) {
+                    t[i][j] = 0;
+                } else if(i > j && i+j < n-1) {
+                    t[i][j] = 0;
+                } else {
+                    t[i][j] = fruits[i][j];
+                }
+            }
+        }
+
+
+        //child2 collect fruits
+        //cells upper to diagonal : i < j
+        for(int i = 1; i < n; i++) {
+            for(int j = i+1; j < n; j++) {
+                t[i][j] += max({t[i-1][j-1], t[i-1][j], (j+1 < n) ? t[i-1][j+1] : 0});
+            }
+        }
+
+        //child3 collect fruits
+        //cells upper to diagonal : i > j
+        for(int j = 1; j < n; j++) {
+            for(int i = j+1; i < n; i++) {
+                t[i][j] += max({t[i-1][j-1], t[i][j-1], (i+1 < n) ? t[i+1][j-1] : 0});
+            }
+        }
+
+        return result + t[n-2][n-1] + t[n-1][n-2];
+
     }
 };
