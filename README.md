@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
