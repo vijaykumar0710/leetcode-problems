@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
