@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3791-fruits-into-baskets-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3881-minimize-maximum-component-cost) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
