@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2808-painting-the-walls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2808-painting-the-walls) |
+| [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
