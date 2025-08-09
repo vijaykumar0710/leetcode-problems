@@ -5,7 +5,7 @@ public:
         int len=0;
         vector<vector<int>>pos(n+1);
         for(int i=0;i<n;i++) pos[nums[i]].push_back(i);
-        for(int i=1;i<=n;i++){
+        for(int i=1;i<pos.size();i++){
             auto &vec=pos[i];
             int m=vec.size();
             int l=0;
