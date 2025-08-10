@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0884-k-similar-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0884-k-similar-strings) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0826-soup-servings) |
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -657,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bit Manipulation
@@ -729,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
