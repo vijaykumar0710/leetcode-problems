@@ -1,20 +1,17 @@
 class Solution {
 public:
-int n,m;
-int dp[1001][1001];
-int f(string &s,string &t,int i,int j){
-    if(j>=m) return 1;
-    if(i>=n) return 0;
-    if(dp[i][j]!=-1) return dp[i][j];
-    int ways=0;
-    ways+=f(s,t,i+1,j);
-    if(s[i]==t[j]) ways+=f(s,t,i+1,j+1);
-    return dp[i][j]=ways;
-}
+typedef unsigned long long ll;
     int numDistinct(string s, string t) {
-        n=s.size();
-        m=t.size();
-        memset(dp,-1,sizeof(dp));
-        return f(s,t,0,0);        
+        int n = s.size(), m = t.size();
+        vector<vector<ll>> dp(n+1, vector<ll>(m+1, 0));
+        for (int i = 0; i <= n; i++) dp[i][0] = 1;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                if (s[i-1] == t[j-1]) {
+                    dp[i][j] += (ll)dp[i-1][j-1]+dp[i-1][j];
+                }else dp[i][j] = dp[i-1][j];
+            }
+        }
+        return dp[n][m];
     }
 };
