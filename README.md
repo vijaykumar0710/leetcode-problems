@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2904-sorting-three-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2904-sorting-three-groups) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
