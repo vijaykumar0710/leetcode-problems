@@ -10,6 +10,7 @@ int f(int i,ll sum,int n,int x){
     if(dp[i][sum]!=-1) return dp[i][sum];
     int skip=f(i+1,sum,n,x);
     ll new_sum=sum-(pow(i,x));
+    //if(new_sum<0) return 0;
     int take=f(i+1,new_sum,n,x);
     return dp[i][sum]=(take+skip)%M;
 }
