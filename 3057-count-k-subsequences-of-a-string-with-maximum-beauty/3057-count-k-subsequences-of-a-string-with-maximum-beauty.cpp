@@ -2,7 +2,6 @@ const int M=1e9+7;
 class Solution {
 public:
 typedef long long ll;
-int N=2*1e5+1;
 vector<ll>fact;
 
 ll mod_power(ll b,ll e){
@@ -24,12 +23,12 @@ ll nCr(int n,int r){
 }
 
     int countKSubsequencesWithMaxBeauty(string s, int k) {
-        fact.resize(N);
+        int n=s.size();
+        fact.resize(n+1);
         fact[0]=1;
-        for(int i=1;i<N;i++){
+        for(int i=1;i<=n;i++){
            fact[i]=(fact[i-1]*i)%M;
         }
-        int n=s.size();
         vector<int>fre(26,0);
 
         for(auto &ch:s) fre[ch-'a']++;
