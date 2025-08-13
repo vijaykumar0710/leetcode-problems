@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
+| [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Matrix
 |  |
