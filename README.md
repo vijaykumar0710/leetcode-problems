@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2808-painting-the-walls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2808-painting-the-walls) |
