@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
