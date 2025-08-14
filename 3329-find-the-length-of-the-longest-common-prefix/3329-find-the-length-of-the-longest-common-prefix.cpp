@@ -2,11 +2,9 @@ class Solution {
 public:
 struct trieNode{
    trieNode* children[10];
-   bool isEndofWord;
 };
 trieNode* getNode(){
     trieNode *newNode=new trieNode();
-    newNode->isEndofWord=false;
     for(int i=0;i<10;i++){
         newNode->children[i]=NULL;
     }
@@ -22,7 +20,6 @@ void insert(string &word,trieNode* root){
     }
     crawler=crawler->children[idx];
   }
-  crawler->isEndofWord=true;
 }
 int prefix(trieNode* root,string &word){
     trieNode* crawler=root;
