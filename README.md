@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
