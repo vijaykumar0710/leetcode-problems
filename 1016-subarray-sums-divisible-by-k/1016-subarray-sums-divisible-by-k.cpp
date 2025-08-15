@@ -8,8 +8,8 @@ public:
         for(int i=0;i<n;i++){
            sum+=nums[i];
            int r1=sum%k;
-           if(r1==0) cnt++;
            if(r1<0) r1+=k;
+           if(r1==0) cnt++;
            int r2=(r1+k)%k;
            if(mp.count(r2)) cnt+=mp[r2];
            mp[r1]++;
