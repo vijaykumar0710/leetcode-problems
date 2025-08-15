@@ -19,7 +19,7 @@ void dfs(int u,int p){
         }
         dfs(0,-1);
         for(int k=1;k<LOG;k++){
-            for(int u=1;u<=N;u++){
+            for(int u=0;u<N;u++){
                 if(up[k-1][u]!=-1)
                   up[k][u]=up[k-1][up[k-1][u]];
             }
