@@ -1,86 +1,89 @@
 class Solution {
 public:
-    static const int LOG = 17;
+    static const int MAXN = 10005;
+    static const int LOG = 15;
+
+    vector<pair<int,int>> adj[MAXN]; // adjacency list: {neighbor, weight}
+    int up[LOG][MAXN];               // Binary lifting table
+    int depth[MAXN];                 // depth from root
+    int cnt[MAXN][27];               // prefix count of each weight (weights 1..26)
+
+    void dfs(int u, int parent) {
+        up[0][u] = parent;
+        for(auto &[v, w] : adj[u]) {
+            if(v == parent) continue;
+            depth[v] = depth[u] + 1;
+            for(int i = 1; i <= 26; i++) cnt[v][i] = cnt[u][i];
+            cnt[v][w]++;
+            dfs(v, u);
+        }
+    }
+
+    void build_lca(int n) {
+        for(int k = 1; k < LOG; k++) {
+            for(int v = 0; v < n; v++) {
+                if(up[k-1][v] != -1)
+                    up[k][v] = up[k-1][up[k-1][v]];
+                else
+                    up[k][v] = -1;
+            }
+        }
+    }
+
+    int get_lca(int u, int v) {
+        if(depth[u] < depth[v]) swap(u, v);
+
+        int diff = depth[u] - depth[v];
+        for(int k = LOG-1; k >= 0; k--) {
+            if((diff >> k) & 1) u = up[k][u];
+        }
+
+        if(u == v) return u;
+
+        for(int k = LOG-1; k >= 0; k--) {
+            if(up[k][u] != -1 && up[k][u] != up[k][v]) {
+                u = up[k][u];
+                v = up[k][v];
+            }
+        }
+
+        return up[0][u];
+    }
+
+    int minOperations(int u, int v) {
+        int lca = get_lca(u, v);
+        int path_len = depth[u] + depth[v] - 2 * depth[lca];
+
+        int max_freq = 0;
+        for(int w = 1; w <= 26; w++) {
+            int freq = cnt[u][w] + cnt[v][w] - 2 * cnt[lca][w];
+            max_freq = max(max_freq, freq);
+        }
+
+        return path_len - max_freq;
+    }
+
     vector<int> minOperationsQueries(int n, vector<vector<int>>& edges, vector<vector<int>>& queries) {
-        vector<vector<pair<int,int>>> adj(n);
-        for (auto &e : edges) {
-           int u = e[0], v = e[1], w = e[2] - 1;
+        for(int i = 0; i < n; i++) adj[i].clear();
+        memset(cnt, 0, sizeof(cnt));
+        memset(up, -1, sizeof(up));
+        memset(depth, 0, sizeof(depth));
+
+        for(auto &e : edges) {
+            int u = e[0], v = e[1], w = e[2];
             adj[u].push_back({v, w});
             adj[v].push_back({u, w});
         }
 
-        vector<int> depth(n);
-        vector<vector<int>> up(LOG, vector<int>(n));
-        vector<vector<vector<int>>> cost(LOG, vector<vector<int>>(n, vector<int>(26, 0)));
-
-        function<void(int,int,int)> dfs = [&](int u, int p, int d) {
-            up[0][u] = p;
-            depth[u] = d;
-            for (auto &nx : adj[u]) {
-                int v = nx.first, w = nx.second;
-                if (v == p) continue;
-                cost[0][v][w]++;
-                dfs(v, u, d + 1);
-            }
-        };
-        dfs(0, 0, 0);
-
-        for (int i = 1; i < LOG; i++) {
-            for (int v = 0; v < n; v++) {
-                int par = up[i-1][v];
-                up[i][v] = up[i-1][par];
-                for (int b = 0; b < 26; b++) {
-                    cost[i][v][b] = cost[i-1][v][b] + cost[i-1][par][b];
-                }
-            }
-        }
-
-        auto lift = [&](int &u, int k, vector<int> &cnt) {
-            for (int i = 0; i < LOG; i++) {
-                if (k & (1 << i)) {
-                    for (int b = 0; b < 26; b++) {
-                        cnt[b] += cost[i][u][b];
-                    }
-                    u = up[i][u];
-                }
-            }
-        };
-
-        auto lca = [&](int u, int v, vector<int> &cntU, vector<int> &cntV) {
-            if (depth[u] < depth[v]) swap(u, v);
-            lift(u, depth[u] - depth[v], cntU);
-            if (u == v) return u;
-            for (int i = LOG - 1; i >= 0; i--) {
-                if (up[i][u] != up[i][v]) {
-                    for (int b = 0; b < 26; b++) {
-                        cntU[b] += cost[i][u][b];
-                        cntV[b] += cost[i][v][b];
-                    }
-                    u = up[i][u];
-                    v = up[i][v];
-                }
-            }
-            for (int b = 0; b < 26; b++) {
-                cntU[b] += cost[0][u][b];
-                cntV[b] += cost[0][v][b];
-            }
-            return up[0][u];
-        };
+        depth[0] = 0;
+        dfs(0, -1);
+        build_lca(n);
 
         vector<int> ans;
-        ans.reserve(queries.size());
-        for (auto &q : queries) {
-            vector<int> cntU(26, 0), cntV(26, 0);
-            lca(q[0], q[1], cntU, cntV);
-            vector<int> tot(26);
-            for (int i = 0; i < 26; i++) tot[i] = cntU[i] + cntV[i];
-            int sum = 0, mx = 0;
-            for (int i = 0; i < 26; i++) {
-                sum += tot[i];
-                mx = max(mx, tot[i]);
-            }
-            ans.push_back(sum - mx);
+        for(auto &q : queries) {
+            ans.push_back(minOperations(q[0], q[1]));
         }
+
         return ans;
     }
 };
