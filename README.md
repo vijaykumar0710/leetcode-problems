@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2904-sorting-three-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2915-count-of-interesting-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
+| [2915-count-of-interesting-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2915-count-of-interesting-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
