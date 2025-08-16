@@ -12,7 +12,7 @@ public:
            vector<int>dist(n,-1);
            queue<int>q;
            q.push(i);
-            dist[i]=0;
+            dist[i]=1;
            while(!q.empty()){
             int u=q.front();
             q.pop();
@@ -21,7 +21,7 @@ public:
                     dist[v]=dist[u]+1;
                     q.push(v);
                  }else if(dist[v]>=dist[u]){
-                    res=min(res,dist[u]+dist[v]+1);
+                    res=min(res,dist[u]+dist[v]-1);
                  }
              }
            }
