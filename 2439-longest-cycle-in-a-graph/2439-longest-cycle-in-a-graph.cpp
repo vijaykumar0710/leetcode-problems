@@ -2,7 +2,6 @@ class Solution {
 public:
 int res=-1;
 void dfs(int i,vector<int>& edges,vector<int>&count,vector<bool>&visited,vector<bool>&inRecursion){
-    if(i!=-1){
         visited[i]=true;
         inRecursion[i]=true;
         int v=edges[i];
@@ -15,7 +14,6 @@ void dfs(int i,vector<int>& edges,vector<int>&count,vector<bool>&visited,vector<
         }
         inRecursion[i]=false;
     }
-}
     int longestCycle(vector<int>& edges) {
         int n=edges.size();
         vector<int>count(n,1);
