@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -830,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
