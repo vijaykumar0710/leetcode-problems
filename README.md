@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2915-count-of-interesting-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
