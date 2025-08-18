@@ -1,22 +1,33 @@
 class Solution {
 public:
-    long long maximumSumOfHeights(vector<int>& heights) {
-        int n = heights.size();
-        long long res = -1;
-        for (int i = 0; i < n; i++) {
-            long long temp = heights[i];
-            int mini = heights[i];
-            for (int j = i - 1; j >= 0; j--) {
-                mini = min(heights[j], mini);
-                temp += mini;
+typedef long long ll;
+    long long maximumSumOfHeights(vector<int>& h) {
+        int n=h.size();
+        vector<ll>left(n),right(n);
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && h[st.top()]>h[i]) st.pop();
+            if(st.empty()) left[i]=(ll)h[i]*(i+1);
+            else{
+                int idx=st.top();
+                left[i]=left[idx]+(ll)h[i]*(i-idx);
             }
-            mini = heights[i];
-            for (int j = i + 1; j < n; j++) {
-                mini = min(heights[j], mini);
-                temp += mini;
+            st.push(i);
+        } 
+        st=stack<int>();
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() && h[st.top()]>h[i]) st.pop();
+            if(st.empty()) right[i]=(ll)h[i]*(n-i);
+            else{
+                int idx=st.top();
+                right[i]=right[idx]+(ll)h[i]*(idx-i);
             }
-            res = max(res, temp);
-        }
-        return res;
+            st.push(i);
+        } 
+        ll res=0;
+       for(int i=0;i<n;i++){
+        res=max(res,left[i]+right[i]-h[i]);
+       }
+       return res;
     }
 };
