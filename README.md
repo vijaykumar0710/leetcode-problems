@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3104-happy-students](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3104-happy-students) |
+| [3113-beautiful-towers-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3114-beautiful-towers-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
+| [3113-beautiful-towers-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3114-beautiful-towers-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
+| [3113-beautiful-towers-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3114-beautiful-towers-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
