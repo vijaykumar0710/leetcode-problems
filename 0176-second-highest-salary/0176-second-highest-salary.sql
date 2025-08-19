@@ -1,6 +1,6 @@
-# Write your MySQL query statement below
-select COALESCE( 
-(select distinct salary  
-from Employee 
-order by salary desc
-limit 1 offset 1),null) as SecondHighestSalary;
+select IFNULL(
+(select distinct salary 
+from Employee
+ORDER BY salary desc
+LIMIT 1 OFFSET 1),
+null ) as SecondHighestSalary
