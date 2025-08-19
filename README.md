@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1211,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
 | [3113-beautiful-towers-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3114-beautiful-towers-i) |
