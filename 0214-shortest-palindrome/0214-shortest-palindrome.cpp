@@ -35,8 +35,8 @@ public:
                 suffix_hash[i] = (suffix_hash[i + 1] * base + s[i]) % mod;
             }
 
-            for (int i = 1; i <= n; i++) {
-                power[i] = (power[i - 1] * base) % mod;
+            for (int i = 0; i < n; i++) {
+                power[i+1] = (power[i] * base) % mod;
             }
         }
 
