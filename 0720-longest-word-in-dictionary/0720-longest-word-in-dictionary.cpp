@@ -1,19 +1,17 @@
 class Solution {
 public:
 struct trieNode{
-  bool isEndofword;
   trieNode *children[26];
 };
 trieNode *get_node(){
     trieNode* new_node=new trieNode();
-    new_node->isEndofword=false;
     for(int i=0;i<26;i++){
         new_node->children[i]=NULL;
     }
     return new_node;
 }
 void formed(string &word,trieNode *root){
-    int n=word.size();
+int n=word.size();
 trieNode* crawler=root;
 for(int i=0;i<n;i++){
     int idx=word[i]-'a';
@@ -22,7 +20,6 @@ for(int i=0;i<n;i++){
     }
      crawler=crawler->children[idx];
   }
-  crawler->isEndofword=true;
 }
 
 bool prefix(string &word,trieNode *root){
