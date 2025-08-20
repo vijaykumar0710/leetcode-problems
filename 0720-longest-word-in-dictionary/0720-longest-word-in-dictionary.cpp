@@ -46,12 +46,10 @@ for(;i<n;i++){
              string temp=word.substr(0,word.size()-1);
             if(word.size()==1 || prefix(temp,root)){ 
             formed(word,root);
-             if(prefix(temp,root)){
-                if(res.size()<word.size())
+                 if(res.size()<word.size())
                   res=word;
-                else if(res.size()==word.size())
+                   else if(res.size()==word.size())
                     res=min(res,word);
-            }
           }
        }
        return res;
