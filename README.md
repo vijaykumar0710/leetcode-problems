@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
