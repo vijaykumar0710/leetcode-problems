@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0679-24-game) |
 | [0796-reaching-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0796-reaching-points) |
 | [0826-soup-servings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0826-soup-servings) |
