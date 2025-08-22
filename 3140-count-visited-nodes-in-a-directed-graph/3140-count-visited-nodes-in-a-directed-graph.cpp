@@ -27,7 +27,7 @@ public:
         }
 
         // Agar result already set nahi hai toh chain length compute karo
-        if (res[u] == 0) {
+        if (res[u] == 0 && visited[v] && !inRecursion[v]) {
             res[u] = 1 + res[v];
         }
 
