@@ -3,7 +3,7 @@ public:
 int t[501][501];
 int f(int l,int r,int x,vector<int>&pos){
     if(l>r) return 0;
-    if(r-l+1==2) return min(x,pos[r]-pos[l]);
+    if(r-l+1==2) return t[l][r]=min(x,pos[r]-pos[l]);
     if(t[l][r]!=-1) return t[l][r];
     
     int ans=INT_MAX;
