@@ -14,10 +14,10 @@ typedef long long ll;
                 }
             }
         }
-        int x1=min_row.first,y1=min_row.second;
-        int x2=max_row.first,y2=max_row.second;
-        int x3=max_col.first,y3=max_col.second;
-        int x4=min_col.first,y4=min_col.second;
+        int x1=min_row.first;
+        int x2=max_row.first;
+        int y3=max_col.second;
+        int y4=min_col.second;
         int height=x2-x1+1;
         int weight=y3-y4+1;
         return (ll)height*weight;
