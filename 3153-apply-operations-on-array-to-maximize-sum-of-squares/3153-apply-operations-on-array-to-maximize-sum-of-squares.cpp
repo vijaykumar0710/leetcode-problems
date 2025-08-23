@@ -5,9 +5,8 @@ public:
     int maxSum(vector<int>& nums, int k) {
         vector<int>bits_freq(32,0);
         for(auto &num:nums){
-           for(int i=0;i<32;i++){
+           for(int i=0;i<32;i++)
             if(num&(1<<i)) bits_freq[i]++;
-           }
         }
     
         ll ans=0;
