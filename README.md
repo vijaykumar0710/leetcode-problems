@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3113-beautiful-towers-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3114-beautiful-towers-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
 ## Memoization
