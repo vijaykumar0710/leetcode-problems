@@ -1,32 +1,27 @@
 class Solution {
 public:
+int t[501][501];
+int f(int l,int r,int x,vector<int>&pos){
+    if(l>r) return 0;
+    if(r-l+1==2) return min(x,pos[r]-pos[l]);
+    if(t[l][r]!=-1) return t[l][r];
+    
+    int ans=INT_MAX;
+    for(int k=l+1;k<=r;k+=2){
+        int pair_cost=min(x,pos[k]-pos[l]);
+        ans=min(ans,f(l+1,k-1,x,pos)+pair_cost+f(k+1,r,x,pos));
+    }
+    return t[l][r]=ans;
+}
     int minOperations(string s1, string s2, int x) {
-        vector<int> pos;
-        int n = s1.size();
-        for (int i = 0; i < n; i++) {
-            if (s1[i] != s2[i]) pos.push_back(i);
+        int n=s1.size();
+        vector<int>mismatch_pos;
+        for(int i=0;i<n;i++){
+            if(s1[i]!=s2[i]) mismatch_pos.push_back(i);
         }
-        if (pos.empty()) return 0;
-        if (pos.size() % 2 == 1) return -1; // impossible
-
-        int m = pos.size();
-        const int INF = 1e9;
-        vector<vector<int>> dp(m, vector<int>(m, 0));
-
-        // length of interval (must be even)
-        for (int len = 2; len <= m; len += 2) {
-            for (int l = 0; l + len - 1 < m; l++) {
-                int r = l + len - 1;
-                dp[l][r] = INF;
-                // try pairing pos[l] with some pos[k]
-                for (int k = l + 1; k <= r; k += 2) {
-                    int cost = min(x, pos[k] - pos[l]);
-                    int left = (l + 1 <= k - 1) ? dp[l + 1][k - 1] : 0;
-                    int right = (k + 1 <= r) ? dp[k + 1][r] : 0;
-                    dp[l][r] = min(dp[l][r], left + cost + right);
-                }
-            }
-        }
-        return dp[0][m - 1];
+        int m=mismatch_pos.size();
+        if(m%2==1) return -1;
+        memset(t,-1,sizeof(t));
+        return f(0,m-1,x,mismatch_pos);
     }
 };
