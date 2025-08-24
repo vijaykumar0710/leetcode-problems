@@ -1,29 +1,42 @@
 class Solution {
 public:
-int m,n;
 vector<vector<int>>directions={{0,1},{0,-1},{1,0},{-1,0}};
-vector<vector<int>>t;
-int dfs(vector<vector<int>>& grid,int i,int j){
-    if(t[i][j]!=-1) return t[i][j];
-    int len=1;
-    for(auto &dir:directions){
-        int r=dir[0]+i;
-        int c=dir[1]+j;
-        if(r<0 || c<0 || r==m || c==n || grid[r][c]<=grid[i][j]) continue;
-        len=max(len,1+dfs(grid,r,c));
-    }
-    return t[i][j]=len;
-}
     int longestIncreasingPath(vector<vector<int>>& grid) {
-         m=grid.size();
-         n=grid[0].size();
-        int len=0;
-        t.assign(m,vector<int>(n,-1));
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<vector<int>> inDegree(m, vector<int>(n, 0));
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-              len=max(len,dfs(grid,i,j));
+                for(auto &dir:directions){
+                    int r=i+dir[0],c=j+dir[1];
+                    if(r<0 || c<0 || r>=m || c>=n || grid[r][c]<=grid[i][j])continue;
+                    inDegree[r][c]++;
+                }
             }
         }
-        return len;
+        queue<pair<int,int>>q;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(inDegree[i][j]==0)
+                   q.push({i,j});
+            }
+        }
+
+      int max_len=0;
+        while(!q.empty()){
+            int sz=q.size();
+            max_len++;
+            while(sz--){ 
+            auto [i,j]=q.front();
+            q.pop();
+             for(auto &dir:directions){
+               int r=i+dir[0],c=j+dir[1];
+                if(r<0 || c<0 || r>=m || c>=n || grid[r][c]<=grid[i][j])continue;
+                inDegree[r][c]--;
+                if(inDegree[r][c]==0) q.push({r,c});
+              }
+            }
+        }
+        return max_len;
     }
 };
