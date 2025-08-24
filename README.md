@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0410-split-array-largest-sum) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0884-k-similar-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0884-k-similar-strings) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0332-reconstruct-itinerary) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0863-sum-of-distances-in-tree) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0386-lexicographical-numbers) |
@@ -832,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1131,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1184,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
