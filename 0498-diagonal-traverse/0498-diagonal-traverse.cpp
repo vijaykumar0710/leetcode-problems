@@ -8,7 +8,6 @@ public:
         for (int i = 0; i <= d; i++) {
             int j = d - i;
             if (i < row && j < col) {
-                int idx = i * col + j; 
                 temp.push_back(mat[i][j]);
             }
         }
