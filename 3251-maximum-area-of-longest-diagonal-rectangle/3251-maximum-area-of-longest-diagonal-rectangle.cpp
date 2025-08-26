@@ -5,18 +5,10 @@ public:
         int res=0;
         for(auto &dimen:dimensions){
             int l=dimen[0],w=dimen[1];
-            int x=l*l;
-            int y=w*w;
-            int z=x+y;
-            double diag=sqrt(z);
+            double diag=sqrt(l*l+w*w);
             int area=l*w;
-            if(diag>dia){
-              res=area;
-              dia=diag;
-            }
-            if(diag==dia){
-                res=max(res,area);
-            }
+            if(diag>dia) res=area,dia=diag;
+            if(diag==dia) res=max(res,area);
         }
         return res;
     }
