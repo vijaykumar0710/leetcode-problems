@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-inverse-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3919-network-recovery-pathways](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3919-network-recovery-pathways) |
+| [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Sorting
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-inverse-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3919-network-recovery-pathways](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3919-network-recovery-pathways) |
+| [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
+| [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1319,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-beautiful-towers-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3114-beautiful-towers-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
+| [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Binary Indexed Tree
 |  |
 | ------- |
