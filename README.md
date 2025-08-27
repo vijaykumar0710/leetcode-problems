@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3654-minimum-array-sum) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3654-minimum-array-sum) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
 | [3903-inverse-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bitmask
 |  |
 | ------- |
@@ -1181,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Database
 |  |
 | ------- |
