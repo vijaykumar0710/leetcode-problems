@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
