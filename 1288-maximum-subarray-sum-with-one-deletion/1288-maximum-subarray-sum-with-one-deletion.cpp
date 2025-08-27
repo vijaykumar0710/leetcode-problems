@@ -5,7 +5,7 @@ public:
         vector<int> dpNoDel(n), dpDel(n);
 
         dpNoDel[0] = arr[0];
-        dpDel[0] = arr[0];  // can't delete before start
+        dpDel[0] = arr[0]; 
 
         int ans = arr[0];
 
