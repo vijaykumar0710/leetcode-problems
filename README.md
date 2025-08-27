@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0720-longest-word-in-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0826-soup-servings) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
