@@ -4,7 +4,7 @@ public:
     vector<vector<int>> adj;
     int t[100001][15];
     int dfs(int u, int par, int halvedCount, vector<int>& coins, int k) {
-        if(halvedCount>=14) return 0;
+        if(halvedCount>14) return 0;
         if(t[u][halvedCount]!=-1) return t[u][halvedCount];
         int curVal = coins[u] >> halvedCount;
         int op1 = curVal - k;
