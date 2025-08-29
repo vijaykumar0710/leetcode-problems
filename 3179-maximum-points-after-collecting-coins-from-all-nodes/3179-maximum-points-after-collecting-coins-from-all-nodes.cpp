@@ -19,7 +19,7 @@ public:
 
     int maximumPoints(vector<vector<int>>& edges, vector<int>& coins, int k) {
         n = coins.size();
-        adj.assign(n, {});
+        adj.resize(n);
         for (auto &e : edges) {
             int u = e[0], v = e[1];
             adj[u].push_back(v);
