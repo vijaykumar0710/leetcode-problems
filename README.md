@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0911-profitable-schemes) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [0967-minimum-falling-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0977-distinct-subsequences-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
+| [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
+| [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
