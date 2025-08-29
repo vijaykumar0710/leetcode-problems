@@ -1045,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Queue
