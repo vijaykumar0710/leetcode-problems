@@ -22,13 +22,12 @@ unordered_map<int,vector<int>>mp;
                 visited[u-1]=true;
                 q.push({u-1,steps+1});
             }
-            auto &vec=mp[arr[u]];
-            for(auto &idx:vec){
+            for(auto &idx:mp[arr[u]]){
              if(u!=idx && idx<n && !visited[idx]){
                visited[idx]=true;
                 q.push({idx,steps+1});
                 }
-               vec.clear();
+               mp[arr[u]].clear();
              }
         }
         return -1;
