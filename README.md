@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0479-largest-palindrome-product) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0479-largest-palindrome-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0679-24-game) |
