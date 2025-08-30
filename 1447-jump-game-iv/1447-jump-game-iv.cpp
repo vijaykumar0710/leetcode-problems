@@ -4,9 +4,6 @@ int n;
 unordered_map<int,vector<int>>mp;
     int minJumps(vector<int>& arr) {
         n=arr.size();
-        if(n==1) return 0;
-        if(arr[0]==arr[n-1]) return 1;
-        if(arr[0]==arr[n-2]) return 2;
         for(int i=0;i<n;i++) mp[arr[i]].push_back(i);
         vector<bool>visited(n,false);
         queue<pair<int,int>>q;
