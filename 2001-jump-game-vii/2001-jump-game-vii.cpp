@@ -12,7 +12,6 @@ public:
             int mini=max(farthest_reach+1,u+minJump);
             int maxi=min(n-1,u+maxJump);
             for(int j=mini;j<=maxi;j++){
-               if(j==n-1) return true;
                if(s[j]=='0')q.push(j);
             }
             farthest_reach=maxi;
