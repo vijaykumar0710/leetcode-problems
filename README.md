@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2444-longest-ideal-subsequence) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2601-number-of-great-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2601-number-of-great-partitions) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
 | [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
