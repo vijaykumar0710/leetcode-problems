@@ -4,9 +4,7 @@ const int M=1e9+7;
     int countSubMultisets(vector<int>& arr, int L, int R) {
      int n = arr.size();
         sort(arr.begin(), arr.end());
-
-        // Compress duplicates
-        vector<pair<int,int>> vals; // {value, frequency}
+        vector<pair<int,int>> vals; 
         int cnt=1;
         int i=1;
         for (; i < n;i++) {
@@ -19,8 +17,7 @@ const int M=1e9+7;
         vals.push_back({arr[i-1],cnt});
 
         vector<int> dp(R+1, 0);
-        dp[0] = 1; // base case: 1 way to make sum 0
-
+        dp[0] = 1;
         for (auto [val, freq] : vals) {
             vector<int> newdp = dp;
             for (int sum = 0; sum <= R; sum++) {
