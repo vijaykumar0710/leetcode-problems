@@ -22,7 +22,8 @@ const int M=1e9+7;
             vector<int> newdp = dp;
             for (int sum = 0; sum <= R; sum++) {
                 if (dp[sum] == 0) continue;
-                for (int k = 1; k <= freq && sum + k*val <= R; k++) {
+                for (int k = 1; k <= freq; k++) {
+                    if(sum + k*val <= R)
                     newdp[sum + k*val] =(newdp[sum + k*val]+dp[sum])%M;
                 }
             }
