@@ -7,12 +7,16 @@ const int M=1e9+7;
 
         // Compress duplicates
         vector<pair<int,int>> vals; // {value, frequency}
-        for (int i = 0; i < n;) {
-            int j = i;
-            while (j < n && arr[j] == arr[i]) j++;
-            vals.push_back({arr[i], j - i});
-            i = j;
+        int cnt=1;
+        int i=1;
+        for (; i < n;i++) {
+            if(arr[i]==arr[i-1]) cnt++;
+            else{
+                vals.push_back({arr[i-1],cnt});
+                cnt=1;
+            }
         }
+        vals.push_back({arr[i-1],cnt});
 
         vector<int> dp(R+1, 0);
         dp[0] = 1; // base case: 1 way to make sum 0
