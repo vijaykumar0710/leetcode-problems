@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3104-happy-students](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3104-happy-students) |
 | [3113-beautiful-towers-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3113-beautiful-towers-ii) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3033-apply-operations-to-make-two-strings-equal) |
+| [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
