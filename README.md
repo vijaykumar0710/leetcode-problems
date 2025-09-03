@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
+| [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
