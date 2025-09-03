@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
+| [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
