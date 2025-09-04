@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
+| [1168-duplicate-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
+| [1168-duplicate-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
