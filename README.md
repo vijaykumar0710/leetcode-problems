@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1290-make-array-strictly-increasing) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1290-make-array-strictly-increasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1290-make-array-strictly-increasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
