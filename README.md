@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
+| [2887-sort-vowels-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-count-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
+| [2887-sort-vowels-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
