@@ -10,7 +10,6 @@ public:
             int max_val=pq.top();
             pq.pop();
             long long rem=sum-max_val;
-            if (max_val == 1 || rem == 1) return true; // base case
             if(rem==0 || rem>=max_val) return false;
             long long prev_val=max_val%rem;
             if(prev_val==0) prev_val=rem;
