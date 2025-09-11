@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
