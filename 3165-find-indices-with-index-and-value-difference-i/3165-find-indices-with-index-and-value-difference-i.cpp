@@ -6,14 +6,14 @@ public:
         mini[0] = maxi[0] = nums[0];
         minIdx[0] = maxIdx[0] = 0;
         for (int i = 1; i < n; i++) {
-            if (nums[i] <= mini[i-1]) {
+            if (nums[i] < mini[i-1]) {
                 mini[i] = nums[i];
                 minIdx[i] = i;
             } else {
                 mini[i] = mini[i-1];
                 minIdx[i] = minIdx[i-1];
             }
-            if (nums[i] >= maxi[i-1]) {
+            if (nums[i] > maxi[i-1]) {
                 maxi[i] = nums[i];
                 maxIdx[i] = i;
             } else {
