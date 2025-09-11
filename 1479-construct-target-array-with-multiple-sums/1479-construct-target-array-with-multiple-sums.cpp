@@ -5,7 +5,6 @@ public:
         long long sum=accumulate(target.begin(),target.end(),0LL);
         priority_queue<int>pq;
         for(auto x:target) pq.push(x);
-        if(pq.top()<n) return false;
         while(pq.top()!=1){
             int max_val=pq.top();
             pq.pop();
