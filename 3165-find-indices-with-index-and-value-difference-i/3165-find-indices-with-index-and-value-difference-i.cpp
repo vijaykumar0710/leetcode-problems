@@ -1,27 +1,30 @@
 class Solution {
 public:
-    vector<int> findIndices(vector<int>& nums, int indexDifference, int valueDifference) {
+    vector<int> findIndices(vector<int>& nums, int idx, int val) {
         int n = nums.size();
-        multiset<pair<int,int>> st;
-        for (int j = 0; j < n; j++) {
-            if (j >= indexDifference) {
-                st.insert({nums[j - indexDifference], j - indexDifference});
+        vector<int> mini(n), maxi(n), minIdx(n), maxIdx(n);
+        mini[0] = maxi[0] = nums[0];
+        minIdx[0] = maxIdx[0] = 0;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] <= mini[i-1]) {
+                mini[i] = nums[i];
+                minIdx[i] = i;
+            } else {
+                mini[i] = mini[i-1];
+                minIdx[i] = minIdx[i-1];
             }
-            if (!st.empty()) {
-                auto it1 = st.upper_bound({nums[j] - valueDifference, INT_MAX});
-                if (it1 != st.begin()) {
-                    --it1;
-                    if (abs(nums[j] - it1->first) >= valueDifference) {
-                        return {it1->second, j};
-                    }
-                }
-                auto it2 = st.lower_bound({nums[j] + valueDifference, INT_MIN});
-                if (it2 != st.end()) {
-                    if (abs(nums[j] - it2->first) >= valueDifference) {
-                        return {it2->second, j};
-                    }
-                }
+            if (nums[i] >= maxi[i-1]) {
+                maxi[i] = nums[i];
+                maxIdx[i] = i;
+            } else {
+                maxi[i] = maxi[i-1];
+                maxIdx[i] = maxIdx[i-1];
             }
+        }
+        for (int j = idx; j < n; j++) {
+            int i = j - idx;
+            if (abs(nums[j] - mini[i]) >= val) return {minIdx[i], j};
+            if (abs(nums[j] - maxi[i]) >= val) return {maxIdx[i], j};
         }
         return {-1, -1};
     }
