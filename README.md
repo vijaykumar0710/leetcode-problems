@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -1208,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -1409,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0909-stone-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
