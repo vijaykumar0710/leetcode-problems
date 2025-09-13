@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0403-frog-jump) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0648-replace-words) |
