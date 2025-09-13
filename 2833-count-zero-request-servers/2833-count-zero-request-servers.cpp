@@ -12,7 +12,6 @@ public:
         sort(q.begin(), q.end()); 
 
         unordered_map<int,int> freq; // server -> count in window
-        int active = 0;              // number of servers active in window
         int L = 0, R = 0;
         int logsN = logs.size();
 
@@ -20,21 +19,18 @@ public:
             // Expand window right bound (include logs with time ≤ t)
             while (R < logsN && logs[R][1] <= t) {
                 int server = logs[R][0];
-                if (freq[server] == 0) active++; // first occurrence of this server
                 freq[server]++;
                 R++;
             }
-
             // Shrink window left bound (exclude logs with time < t-x)
             while (L < logsN && logs[L][1] < t - x) {
                 int server = logs[L][0];
                 freq[server]--;
-                if (freq[server] == 0) active--; // server removed completely
+                if (freq[server] == 0) freq.erase(server);
                 L++;
             }
-
             // Active servers are "active"
-            ans[idx] = n - active; // inactive = total - active
+            ans[idx] = n - freq.size(); // inactive = total - active
         }
         return ans;
     }
