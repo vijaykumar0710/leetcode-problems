@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
+| [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1326,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
 | [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
