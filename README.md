@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-maximum-xor-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-maximum-xor-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2402-maximum-xor-after-operations) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
+| [2402-maximum-xor-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
