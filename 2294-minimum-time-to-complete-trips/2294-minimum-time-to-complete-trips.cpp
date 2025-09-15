@@ -11,7 +11,7 @@ bool isPossible(vector<int>& time,long long mid,long long totalTrips){
     long long minimumTime(vector<int>& time, int totalTrips) {
         int n=time.size();
         long long l=*min_element(time.begin(),time.end());
-        long long r=l*totalTrips;
+        long long r=1e15;
         long long res=1;
         while(l<=r){
             long long mid=(long long)l+(r-l)/2;
