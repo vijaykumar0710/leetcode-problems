@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1637-string-compression-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1637-string-compression-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
