@@ -5,9 +5,12 @@ public:
         for(int i=1;i<=n;i++){
             int sq=sqrt(i);
             for(int j=1;j<=sq;j++){
-                if(!t[i-(j*j)]) t[i]=true;
+                if(!t[i-(j*j)]){
+                    t[i]=true;
+                    break;
+                }
             }
         }
-        return t[n];
+        return t[n]; // O(n*sqrt(n))
     }
 };
