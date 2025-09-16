@@ -10,9 +10,9 @@ public:
         int m=arr.size();
         int res=INT_MAX;
         for(int i=0;i<m;i++){
-            int l=arr[i];
-            int r=l+(n-1);
-            int idx=upper_bound(arr.begin()+i,arr.end(),r)-arr.begin();
+            int mini=arr[i];
+            int maxi=mini+(n-1);
+            int idx=upper_bound(arr.begin()+i,arr.end(),maxi)-arr.begin();
             int opr=n-(idx-i);
             res=min(res,opr);
         }
