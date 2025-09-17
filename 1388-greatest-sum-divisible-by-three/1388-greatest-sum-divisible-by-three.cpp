@@ -1,24 +1,28 @@
 class Solution {
 public:
-int n;
-unordered_map<string,int>t;
-int f(int i,vector<int>& nums,int sum){
-    if(i>=n){
-        if(sum%3==0) return sum;
-        return INT_MIN;
-    }
-    string key=to_string(i)+"$"+to_string(sum);
-    if(t.count(key)) return t[key];
-    int skip=f(i+1,nums,sum);
-    int take=INT_MIN;
-    int new_sum=sum+nums[i];
-    if(new_sum%3==0) new_sum=0;
-    int next=f(i+1,nums,new_sum);
-    if(next!=INT_MIN) take=nums[i]+next;
-    return t[key]=max(skip,take);
-}
     int maxSumDivThree(vector<int>& nums) {
-      n=nums.size();
-      return f(0,nums,0);  
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+        
+        vector<int> r1, r2;
+        for (int x : nums) {
+            if (x % 3 == 1) r1.push_back(x);
+            else if (x % 3 == 2) r2.push_back(x);
+        }
+        
+        sort(r1.begin(), r1.end());
+        sort(r2.begin(), r2.end());
+
+        if (sum % 3 == 0) return sum;
+        if (sum % 3 == 1) {
+            int remove1 = r1.size() >= 1 ? r1[0] : INT_MAX;
+            int remove2 = r2.size() >= 2 ? r2[0] + r2[1] : INT_MAX;
+            int remove = min(remove1, remove2);
+            return remove == INT_MAX ? 0 : sum - remove;
+        } else { // sum % 3 == 2
+            int remove1 = r2.size() >= 1 ? r2[0] : INT_MAX;
+            int remove2 = r1.size() >= 2 ? r1[0] + r1[1] : INT_MAX;
+            int remove = min(remove1, remove2);
+            return remove == INT_MAX ? 0 : sum - remove;
+        }
     }
 };
