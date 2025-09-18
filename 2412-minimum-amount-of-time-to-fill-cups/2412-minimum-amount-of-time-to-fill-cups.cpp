@@ -10,10 +10,8 @@ public:
         int res=0;
         while(true){
            if(pq.size()<=2) return res+pq.top();
-           int x=pq.top();
-           pq.pop();
-           int y=pq.top();
-           pq.pop();
+           int x=pq.top();pq.pop();
+           int y=pq.top();pq.pop();
            x--,y--;
            res++;
            if(x!=0) pq.push(x);
