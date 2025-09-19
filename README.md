@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -1434,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Database
 |  |
 | ------- |
@@ -1517,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Rolling Hash
 |  |
 | ------- |
