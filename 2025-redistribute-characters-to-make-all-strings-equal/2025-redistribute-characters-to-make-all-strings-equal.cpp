@@ -6,11 +6,7 @@ public:
        for(auto w:words){
          for(auto ch:w) freq[ch-'a']++;
        } 
-       sort(freq.rbegin(),freq.rend());
-       for(auto &f:freq){
-        if(f==0) break;
-        if(f%n!=0) return false;
-       }
+       for(auto &f:freq) if(f%n!=0) return false;
        return true;
     }
 };
