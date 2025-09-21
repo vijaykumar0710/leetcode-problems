@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2601-number-of-great-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2601-number-of-great-partitions) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2833-count-zero-request-servers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2833-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
@@ -1145,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
