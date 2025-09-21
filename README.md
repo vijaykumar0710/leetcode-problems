@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3881-minimize-maximum-component-cost) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2444-longest-ideal-subsequence) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -993,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
@@ -1385,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
