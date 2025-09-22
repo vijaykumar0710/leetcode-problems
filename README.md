@@ -1248,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2402-maximum-xor-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2402-maximum-xor-after-operations) |
