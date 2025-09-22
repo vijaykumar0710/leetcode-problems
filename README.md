@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1652-minimum-suffix-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1652-minimum-suffix-flips) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1637-string-compression-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1637-string-compression-ii) |
+| [1652-minimum-suffix-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1652-minimum-suffix-flips) |
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
