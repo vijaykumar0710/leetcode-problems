@@ -1,24 +1,22 @@
 class Solution {
 public:
-int n;
-int t[101][101];
-bool f(int i,string &s,int cnt){
-  if(cnt<0) return false;
-  if(i>=n) return cnt==0;
-  if(t[i][cnt]!=-1) return t[i][cnt];
-  bool ans=false;
-  if(s[i]=='(')  ans|=f(i+1,s,cnt+1);
-  else if(s[i]==')') ans|=f(i+1,s,cnt-1);
-  else{
-    ans|=f(i+1,s,cnt);
-    ans|=f(i+1,s,cnt-1);
-    ans|=f(i+1,s,cnt+1);
-  }
-  return t[i][cnt]=ans;
-}
     bool checkValidString(string s) {
-        n=s.size();
-        memset(t,-1,sizeof(t));
-        return f(0,s,0);
+        int n=s.size();
+        stack<int>openSt,asterSt;
+        for(int i=0;i<n;i++){
+            if(s[i]=='(') openSt.push(i);
+            else if(s[i]=='*') asterSt.push(i);
+            else{
+                if(!openSt.empty()) openSt.pop();
+                else if(!asterSt.empty()) asterSt.pop();
+                else return false;
+            }
+        }
+        while(!openSt.empty() && !asterSt.empty()){
+            if(openSt.top()>asterSt.top()) return false;
+            openSt.pop();
+            asterSt.pop();
+        }
+        return openSt.empty();
     }
 };
