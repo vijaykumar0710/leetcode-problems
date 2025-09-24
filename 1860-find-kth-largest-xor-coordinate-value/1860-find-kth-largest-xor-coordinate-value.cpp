@@ -14,7 +14,7 @@ public:
                 res.push_back(t[i][j]);
             }
         }
-       sort(res.rbegin()+(k-1),res.rend());
+        nth_element(res.begin(), res.begin() + (k-1), res.end(), greater<int>());
        return res[k-1];
     }
 };
