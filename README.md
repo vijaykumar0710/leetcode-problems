@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1249,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -1489,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2722-prime-in-diagonal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
@@ -1682,8 +1688,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0968-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0968-beautiful-array) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1300-critical-connections-in-a-network) |
+## Quickselect
+|  |
+| ------- |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
