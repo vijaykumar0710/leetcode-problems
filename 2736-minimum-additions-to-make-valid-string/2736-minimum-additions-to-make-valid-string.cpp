@@ -1,28 +1,16 @@
 class Solution {
 public:
-    int addMinimum(string s) {
-        int n=s.size();
-        int cnt=0;
-        stack<char>st;
-        for(int i=0;i<n;i++){
-            if(s[i]=='a'){
-                if(!st.empty() && st.top()=='a'){ st.push('b');st.push('c');cnt+=2;}
-                else if( !st.empty() && st.top()=='b'){ st.push('c');cnt++;}
-                st.push(s[i]);
-            }else if(s[i]=='b'){
-                if(st.empty()){ st.push('a');cnt++; }
-                else if(st.top()=='b'){ st.push('c');st.push('a');cnt+=2; }
-                else if(st.top()=='c') { st.push('a');cnt++;}
-                st.push(s[i]);
-            }else{
-                if(st.empty()){ st.push('a');st.push('b');cnt+=2;}
-                else if(st.top()=='a'){ st.push('b'); cnt++;}
-                else if(st.top()=='c'){ st.push('a');st.push('b');cnt+=2;}
-                st.push(s[i]);
-            }
-        }
-        if(st.top()=='a') cnt+=2;
-        else if(st.top()=='b') cnt++;
-        return cnt;
+int n;
+int t[51][4];
+int f(int i,int expected,string &word){
+   if(i>=n) return (expected==0?0:(expected==1?2:1));
+   char need=(expected==0?'a':(expected==1?'b':'c'));
+   if(word[i]==need) return t[i][expected]=f(i+1,(expected+1)%3,word);
+   else return t[i][expected]=1+f(i,(expected+1)%3,word);
+}
+    int addMinimum(string word) {
+        n=word.size();
+        memset(t,-1,sizeof(t));
+        return f(0,0,word);
     }
 };
