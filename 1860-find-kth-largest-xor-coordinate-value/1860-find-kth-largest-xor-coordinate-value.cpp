@@ -14,7 +14,7 @@ public:
                 res.push_back(t[i][j]);
             }
         }
-       sort(res.rbegin(),res.rend());
+       sort(res.rbegin()+(k-1),res.rend());
        return res[k-1];
     }
 };
