@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
@@ -1279,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
