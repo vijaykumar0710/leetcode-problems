@@ -1,22 +1,20 @@
 class Solution {
 public:
     int kthLargestValue(vector<vector<int>>& matrix, int k) {
-        int m = matrix.size(), n = matrix[0].size();
-        vector<vector<int>> pref(m, vector<int>(n, 0));
-        vector<int> res;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                int val = matrix[i][j];
-                if (i > 0) val ^= pref[i-1][j];
-                if (j > 0) val ^= pref[i][j-1];
-                if (i > 0 && j > 0) val ^= pref[i-1][j-1];
-                pref[i][j] = val;
-                res.push_back(val);
+        int m=matrix.size(),n=matrix[0].size();
+        vector<vector<int>>t(m,vector<int>(n,0));
+        vector<int>res;
+        t[0][0]=matrix[0][0];
+        res.push_back(t[0][0]);
+        for(int j=1;j<n;j++) t[0][j]=matrix[0][j]^t[0][j-1],res.push_back(t[0][j]);
+        for(int i=1;i<m;i++) t[i][0]=matrix[i][0]^t[i-1][0],res.push_back(t[i][0]);
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                t[i][j]=matrix[i][j]^t[i-1][j]^t[i][j-1]^t[i-1][j-1];
+                res.push_back(t[i][j]);
             }
         }
-
-        nth_element(res.begin(), res.begin() + (k-1), res.end(), greater<int>());
-        return res[k-1];
+       sort(res.rbegin(),res.rend());
+       return res[k-1];
     }
 };
