@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-shortest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
