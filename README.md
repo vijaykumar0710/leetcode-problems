@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2444-longest-ideal-subsequence) |
@@ -1328,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2402-maximum-xor-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -1641,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Segment Tree
