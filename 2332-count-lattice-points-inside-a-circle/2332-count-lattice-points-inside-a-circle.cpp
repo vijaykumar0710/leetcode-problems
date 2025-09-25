@@ -7,8 +7,8 @@ public:
             int x=c[0],y=c[1],r=c[2];
             for(int i=x-r;i<=(x+r);i++){
                for(int j=y-r;j<=(y+r);j++){
-                double radius=(double)sqrt((x-i)*(x-i)+(j-y)*(j-y));
-                if(radius<=r) st.insert({i,j});
+                int radius=(x-i)*(x-i)+(j-y)*(j-y);
+                if(radius<=r*r) st.insert({i,j});
                }
             }
         }
