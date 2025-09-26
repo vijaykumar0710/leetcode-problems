@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
