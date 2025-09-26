@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0087-scramble-string) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
@@ -1580,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
