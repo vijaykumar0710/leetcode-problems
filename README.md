@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
+| [3999-minimum-operations-to-transform-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3999-minimum-operations-to-transform-string) |
 ## Sorting
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3999-minimum-operations-to-transform-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3999-minimum-operations-to-transform-string) |
 ## String Matching
 |  |
 | ------- |
