@@ -2,11 +2,18 @@ class Solution {
 public:
 int n;
 int t[51][4];
-int f(int i,int expected,string &word){
-   if(i>=n) return (expected==0?0:(expected==1?2:1));
-   char need=(expected==0?'a':(expected==1?'b':'c'));
-   if(word[i]==need) return t[i][expected]=f(i+1,(expected+1)%3,word);
-   else return t[i][expected]=1+f(i,(expected+1)%3,word);
+int f(int i,int expected,string &s){
+   if(i>=n){
+    if(expected==0) return 0;
+    if(expected==1) return 2;
+    if(expected==2) return 1;
+   }
+   if(t[i][expected]!=-1) return t[i][expected];
+   int cnt=0;
+   char expect_char=expected+'a';
+   if(s[i]==expect_char) cnt+=f(i+1,(expected+1)%3,s);
+   else cnt+=1+f(i,(expected+1)%3,s);
+   return t[i][expected]=cnt;
 }
     int addMinimum(string word) {
         n=word.size();
