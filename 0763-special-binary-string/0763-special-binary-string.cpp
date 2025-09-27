@@ -1,10 +1,11 @@
 class Solution {
 public:
 string f(string &s){
-    int n=s.size();
+int n=s.size();
+if(s.empty()) return "";
 int cnt=0,start=0;
 vector<string>block;
-for(int i=0;i<n;i++){
+for(int i=start;i<n;i++){
     if(s[i]=='1') cnt++;
     else cnt--;
     if(cnt==0){
