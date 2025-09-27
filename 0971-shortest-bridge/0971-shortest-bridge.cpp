@@ -37,8 +37,7 @@ int r=row+dir[0],c=col+dir[1];
             int n_r=r+dir[0],n_c=c+dir[1];
                if(n_r<0 || n_c<0 || n_r>=n || n_c>=n || vis[n_r][n_c]) continue;
                vis[n_r][n_c]=true;
-               int new_step=step+1;
-               q.push({n_r,n_c,new_step});
+               q.push({n_r,n_c,step+1});
              }
         }
         return -1;
