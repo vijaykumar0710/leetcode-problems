@@ -1,22 +1,40 @@
 class Solution {
 public:
+struct trieNode{
+trieNode *children[2];
+};
+trieNode* getNode(){
+    trieNode* newNode=new trieNode();
+    newNode->children[0]=NULL;
+    newNode->children[1]=NULL;
+    return newNode;
+}
+void insert(int num,trieNode* root){
+trieNode* crawler=root;
+for(int i=31;i>=0;i--){
+    int bit=(num>>i)&1;
+    if(!crawler->children[bit]) crawler->children[bit]=getNode();
+    crawler=crawler->children[bit];
+    }
+}
+int getMax(int num,trieNode* root){
+    trieNode* crawler=root;
+    int maxi=0;
+    for(int i=31;i>=0;i--){
+        int bit=(num>>i)&1;
+        if(crawler->children[1-bit]){
+            maxi|=(1<<i);
+            crawler=crawler->children[1-bit];
+        }else crawler=crawler->children[bit];
+    }
+    return maxi;
+}
     int findMaximumXOR(vector<int>& nums) {
-        int max_xor=0,mask=0;
-        for(int i=31;i>=0;i--){
-            mask|=(1<<i);
-            unordered_set<int>prefixes;
-        //    We are only interested in the bits up to the current position because 
-        //    we are building the maximum XOR bit by bit from MSB to LSB.
-        //    Lower bits (after i-th) don’t matter yet, so we ignore them.
-            for(auto &num:nums) prefixes.insert(num&mask);
-             int candidate=max_xor|(1<<i); // “Can I make the current bit 1 without violating what I already have in higher bits?”
-             for(auto p:prefixes){
-                if(prefixes.count(p^candidate)){
-                    max_xor=candidate;
-                    break;
-                }
-             }
-        }
-        return max_xor;
+        int n=nums.size();
+        trieNode* root=getNode();
+        for(auto &num:nums) insert(num,root);
+        int res=0;
+        for(auto &num:nums) res=max(res,getMax(num,root));
+        return res;
     }
 };
