@@ -7,7 +7,10 @@ public:
            for(int b:basis){
              x=min(x,b^x);
            }
-           if(x>0) basis.push_back(x);
+           if(x>0){
+            for(auto &b:basis) b=min(b,b^x);
+            basis.push_back(x);
+           }
         }
         for(auto b:basis) res=max(res,res^b);
         return res;
