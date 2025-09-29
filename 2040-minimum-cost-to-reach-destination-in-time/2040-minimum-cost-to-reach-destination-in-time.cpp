@@ -12,6 +12,7 @@ public:
         vector<int> time(n,INT_MAX);
         pq.push({passingFees[0],{0,0}});
         time[0]=0;
+        int res=INT_MAX;
         while(!pq.empty()){
             auto it=pq.top();
             pq.pop();
@@ -20,8 +21,7 @@ public:
             int node=it.second.second;
             
             if(t>maxTime) continue;
-            if(node==n-1) return price;
-            //if(time[node]<=t) continue;
+            if(node==n-1) res=min(price,res);
             
             for(auto &i:mp[node]){
                 int u=i.first;
@@ -32,6 +32,6 @@ public:
                 }
             }
         }
-        return -1;
+        return res==INT_MAX?-1:res;
     }
 };
