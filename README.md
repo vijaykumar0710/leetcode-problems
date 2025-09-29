@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3919-network-recovery-pathways](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3919-network-recovery-pathways) |
 | [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
+| [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
+| [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
 | [3999-minimum-operations-to-transform-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3999-minimum-operations-to-transform-string) |
 ## Sorting
 |  |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
+| [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -1405,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3830-find-closest-person) |
+| [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
 ## Brainteaser
 |  |
 | ------- |
