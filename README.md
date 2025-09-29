@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1087-longest-arithmetic-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1087-longest-arithmetic-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1220-smallest-sufficient-team](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1220-smallest-sufficient-team) |
