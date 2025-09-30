@@ -2,8 +2,8 @@ const int M=1e9+7;
 class Solution {
 public:
     int countPathsWithXorValue(vector<vector<int>>& grid, int k) {
-        int m=grid.size(),n=grid[0].size(),res=0;;
-       vector<vector<unordered_map<int,int>>> t(m, vector<unordered_map<int,int>>(n));
+       int m=grid.size(),n=grid[0].size(),res=0;;
+       vector<vector<unordered_map<int,int>>> t(m,vector<unordered_map<int,int>>(n));
         t[0][0][grid[0][0]]++;
         for(int j=1;j<n;j++){
             for(auto [x,cnt]:t[0][j-1]) t[0][j][grid[0][j]^x]=(t[0][j][grid[0][j]^x]+cnt)%M;
