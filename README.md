@@ -1330,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1378,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
+| [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
