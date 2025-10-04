@@ -10,7 +10,7 @@ public:
             return t[i][j];
         int take_i = nums[i] - solve(i + 1, j, nums);
         int take_j = nums[j] - solve(i, j - 1, nums);
-        return max(take_i, take_j);
+        return t[i][j]=max(take_i, take_j);
     }
     bool predictTheWinner(vector<int>& nums) {
         int n = nums.size();
