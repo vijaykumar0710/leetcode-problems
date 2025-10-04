@@ -1,20 +1,22 @@
 class Solution {
 public:
-    int t[21][21];
-    int solve(int i, int j, vector<int>& nums) {
-        if (i > j)
-            return 0;
-        if (i == j)
-            return nums[i];
-        if (t[i][j] != -1)
-            return t[i][j];
-        int take_i = nums[i] - solve(i + 1, j, nums);
-        int take_j = nums[j] - solve(i, j - 1, nums);
-        return t[i][j]=max(take_i, take_j);
-    }
     bool predictTheWinner(vector<int>& nums) {
-        int n = nums.size();
-        memset(t, -1, sizeof(t));
-        return solve(0, n - 1, nums) >= 0;
+        int n=nums.size();
+        int total=accumulate(nums.begin(),nums.end(),0);
+        vector<vector<int>> t(n,vector<int>(n, 0));
+        for(int g=0;g<n;g++){
+            for(int i=0,j=g;j<n;i++,j++){
+                if(g==0) t[i][j]=nums[i];
+                else if(g==1) t[i][j]=max(nums[i],nums[j]);
+                else{
+                    int val1=nums[i]+min(t[i+2][j],t[i+1][j-1]);
+                    int val2=nums[j]+min(t[i][j-2],t[i+1][j-1]);
+                    t[i][j]=max(val1,val2);
+                }
+            }
+        }
+        int p1=t[0][n-1];
+        int p2=total-t[0][n-1];
+        return p1>=p2;
     }
 };
