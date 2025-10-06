@@ -5,11 +5,9 @@ int m,n;
 bool bfs(vector<vector<int>>& grid,int mid){
   vector<vector<bool>>vis(m,vector<bool>(n,false));
   queue<pair<int,int>>q;
-  q.push({0,0});
-  vis[0][0]=true;
+  if(grid[0][0]<=mid){ q.push({0,0}); vis[0][0]=true; }
   while(!q.empty()){
-    int r=q.front().first,c=q.front().second;
-    q.pop();
+    int r=q.front().first,c=q.front().second; q.pop();
     if(r==m-1 && c==n-1) return true;
     for(auto &dir:directions){
         int n_r=r+dir[0],n_c=c+dir[1];
@@ -22,14 +20,11 @@ bool bfs(vector<vector<int>>& grid,int mid){
 }
     int swimInWater(vector<vector<int>>& grid) {
         m=grid.size(),n=grid[0].size();
-        int l=0,r=2500;
-        int res=INT_MAX;
+        int l=0,r=2500, res=INT_MAX;
         while(l<=r){
             int mid=l+(r-l)/2;
-            if(bfs(grid,mid)){
-                res=mid;
-                r=mid-1;
-            }else l=mid+1;
+            if(bfs(grid,mid)){ res=mid; r=mid-1;}
+             else l=mid+1;
         }
         return res;
     }
