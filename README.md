@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2504-find-all-good-indices) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2504-find-all-good-indices](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2504-find-all-good-indices) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2577-count-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 | [2601-number-of-great-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2601-number-of-great-partitions) |
@@ -1614,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2722-prime-in-diagonal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
