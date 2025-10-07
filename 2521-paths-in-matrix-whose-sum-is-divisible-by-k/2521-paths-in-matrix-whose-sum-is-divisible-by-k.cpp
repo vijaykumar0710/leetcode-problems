@@ -9,8 +9,8 @@ public:
             for(int j=0;j<n;j++){
                 for(int r=0;r<k;r++){
                     int new_r=(r+grid[i][j])%k;
-                    if(i>0) t[i][j][new_r]=(t[i][j][new_r]+t[i-1][j][r])%M;
-                    if(j>0) t[i][j][new_r]=(t[i][j][new_r]+t[i][j-1][r])%M;
+                    if(i>0 && t[i-1][j][r]>0) t[i][j][new_r]=(t[i][j][new_r]+t[i-1][j][r])%M;
+                    if(j>0 && t[i][j-1][r]>0) t[i][j][new_r]=(t[i][j][new_r]+t[i][j-1][r])%M;
                 }
             }
         }
