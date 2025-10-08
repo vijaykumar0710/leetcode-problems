@@ -1,19 +1,16 @@
 class Solution {
 public:
-int f(string &s1,string &s2){
-    int n=s1.size();
-    vector<vector<int>>t(n+1,vector<int>(n+1,0));
-    for(int i=1;i<=n;i++){
-     for(int j=1;j<=n;j++){
-        if(s1[i-1]==s2[j-1]) t[i][j]=1+t[i-1][j-1];
-         else t[i][j]=max(t[i-1][j],t[i][j-1]);
-       }
-    }
-    return t[n][n];
-}
     int longestPalindromeSubseq(string s) {
-        string rev=s;
-        reverse(rev.begin(),rev.end());
-        return f(s,rev);
+        int n=s.size();
+        vector<vector<int>>t(n,vector<int>(n,0));
+        for(int i=0;i<n;i++) t[i][i]=1;
+        for(int len=2;len<=n;len++){
+            for(int i=0;i<=n-len;i++){
+                int j=len+i-1;
+                if(s[i]==s[j]) t[i][j]=2+t[i+1][j-1];
+                else t[i][j]=max(t[i+1][j],t[i][j-1]);
+            }
+        }
+        return t[0][n-1];
     }
 };
