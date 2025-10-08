@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1897-maximize-palindrome-length-from-subsequences) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2023-design-movie-rental-system) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
