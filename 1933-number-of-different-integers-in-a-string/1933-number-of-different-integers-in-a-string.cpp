@@ -10,7 +10,7 @@ public:
             while(i<n && !isalpha(ch)){
                 flag=true;
                 num=1ll*num*10+(ch-'0');
-                if(num>100000000000) num=0;
+                if(num>1000000000000000) num=0;
                 i++;
                 ch=word[i];
             }
