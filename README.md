@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0498-diagonal-traverse) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0480-sliding-window-median](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0794-swim-in-rising-water) |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0867-new-21-game) |
