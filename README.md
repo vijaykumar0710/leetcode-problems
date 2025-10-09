@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0312-burst-balloons) |
@@ -1415,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
@@ -1703,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
