@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0911-profitable-schemes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0884-k-similar-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0884-k-similar-strings) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0977-distinct-subsequences-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0977-distinct-subsequences-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
 | [1006-vowel-spellchecker](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1006-vowel-spellchecker) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0911-profitable-schemes) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [0967-minimum-falling-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0977-distinct-subsequences-ii) |
@@ -1270,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
@@ -1442,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0909-stone-game) |
 | [0923-super-egg-drop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0923-super-egg-drop) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0956-number-of-music-playlists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0956-number-of-music-playlists) |
 | [0968-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1013-fibonacci-number) |
