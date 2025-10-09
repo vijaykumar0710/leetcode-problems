@@ -21,7 +21,7 @@ public:
                 double x = ((double)it1->first + it2->first) / 2;
                 if (k % 2 == 0) res.push_back(x);
                 else res.push_back(it1->first);
-                ost.erase(ost.find({nums[i], i}));
+                ost.erase({nums[i], i});
                 i++;
             }
         }
