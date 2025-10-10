@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
+| [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1466-jump-game-v](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
+| [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1468,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
