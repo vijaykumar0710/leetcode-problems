@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2340-total-appeal-of-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2340-total-appeal-of-a-string) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
@@ -1583,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
