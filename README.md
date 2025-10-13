@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1464-reduce-array-size-to-the-half](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1466-jump-game-v](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1466-jump-game-v) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1447-jump-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1447-jump-game-iv) |
