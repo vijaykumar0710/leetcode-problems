@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-count-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2904-sorting-three-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2904-sorting-three-groups) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2833-count-zero-request-servers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2833-count-zero-request-servers) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
