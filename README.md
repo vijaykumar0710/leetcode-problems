@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1880-largest-merge-of-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
+| [1880-largest-merge-of-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1880-largest-merge-of-two-strings) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1880-largest-merge-of-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1880-largest-merge-of-two-strings) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
