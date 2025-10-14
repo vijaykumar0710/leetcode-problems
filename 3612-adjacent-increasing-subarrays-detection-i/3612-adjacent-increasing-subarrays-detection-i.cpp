@@ -1,18 +1,10 @@
 class Solution {
 public:
-bool isValid(int i,int j,vector<int>&nums){
- if(j>=nums.size()) return false;
- for(int it=i+1;it<=j;it++){
-    if(nums[it]<=nums[it-1]) return false;
- }
- return true;
-}
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
         int n=nums.size();
-        if(k==1) return true;
-        for(int i=0;i<=n-k;i++){
-            if(isValid(i,i+k-1,nums)&&isValid(i+k,i+2*k-1,nums)) return true;
-        }
+        vector<int>t(n,1);
+        for(int i=1;i<n;i++) t[i]=nums[i-1]<nums[i]?t[i-1]+1:1;
+        for(int i=0;i+2*k<=n;i++) if(t[i+k-1]>=k && t[i+2*k-1]>=k) return true;
         return false;
     }
 };
