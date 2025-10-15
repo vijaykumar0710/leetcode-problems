@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1428-jump-game-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1447-jump-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1447-jump-game-iv) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -1387,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
