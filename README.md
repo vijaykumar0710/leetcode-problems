@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1168-duplicate-zeros) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1880-largest-merge-of-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1880-largest-merge-of-two-strings) |
@@ -1905,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Probability and Statistics
