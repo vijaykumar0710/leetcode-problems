@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
+| [4008-restore-finishing-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
 | ------- |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
+| [4008-restore-finishing-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4008-restore-finishing-order) |
 ## Stack
 |  |
 | ------- |
