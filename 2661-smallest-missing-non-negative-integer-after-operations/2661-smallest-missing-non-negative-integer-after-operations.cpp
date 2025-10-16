@@ -3,11 +3,10 @@ public:
     int findSmallestInteger(vector<int>& nums, int value) {
         unordered_map<int,int>mp;
         for(auto x:nums) mp[(x%value+value)%value]++;
-        int mex=0;
-        while(true){
-            if(mp[mex%value]==0) return mex;
-            else mp[mex%value]--;
-            mex++;
-        }
+        for(int i=0;i<=nums.size();i++){
+         if(mp[i%value]==0) return i;
+         else mp[i%value]--;
+       }
+       return 0;
     }
 };
