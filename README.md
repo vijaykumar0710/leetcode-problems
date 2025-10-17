@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2877-shortest-string-that-contains-three-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3104-happy-students) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
