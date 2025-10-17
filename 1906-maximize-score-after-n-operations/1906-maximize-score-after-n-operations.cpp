@@ -1,7 +1,7 @@
 class Solution {
 public:
 int N,n;
-int t[8][1<<15];
+int t[8][1<<14];
 int f(int idx,int mask,vector<int>&nums){
     if(idx>n) return 0;
     if(t[idx][mask]!=-1) return t[idx][mask];
