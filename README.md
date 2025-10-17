@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3223-count-complete-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3223-count-complete-substrings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
+| [3223-count-complete-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3223-count-complete-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1447,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3223-count-complete-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3223-count-complete-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
