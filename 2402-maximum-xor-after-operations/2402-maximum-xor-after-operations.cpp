@@ -7,7 +7,7 @@ public:
             if(x>0) basis.push_back(x);
         }
         int res=0;
-        for(auto &b:basis) res=max(res,b^res);
+        for(auto &b:nums) res=max(res,b^res);
         return res;
     }
 };
