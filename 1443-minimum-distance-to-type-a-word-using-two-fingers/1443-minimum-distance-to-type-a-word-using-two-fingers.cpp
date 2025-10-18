@@ -4,7 +4,7 @@ public:
     unordered_map<string, int> dp; 
     int n;
     int dist(char a,char b) {
-        if (a == '#' || b == '#') return 0;
+        if (a == '$' || b == '$') return 0;
         auto [x1, y1] = mp[a];
         auto [x2, y2] = mp[b];
         return abs(x1-x2) + abs(y1-y2);
@@ -27,6 +27,6 @@ public:
         mp['Y']={4,0}; mp['Z']={4,1};
 
         dp.clear();
-        return f(0,'#','#',word);
+        return f(0,'$','$',word);
     }
 };
