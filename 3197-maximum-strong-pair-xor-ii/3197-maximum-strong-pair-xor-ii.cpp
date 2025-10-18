@@ -14,7 +14,7 @@ trieNode* getNode(){
 void insert(int num,trieNode* root){
 trieNode* cr=root;
 for(int i=31;i>=0;i--){
-    int bit=(num&(1<<i))?1:0;
+    int bit=(num>>i)&1;
     if(!cr->children[bit]) cr->children[bit]=getNode();
     cr=cr->children[bit];
     cr->cnt++;
@@ -41,7 +41,7 @@ int get_max(int num,trieNode* root){
 trieNode* crawler=root;
  int maxi=0;
  for(int i=31;i>=0;i--){
- int bit=num&(1<<i)?1:0;
+ int bit=(num>>i)&1;
  if(crawler->children[1-bit] && crawler->children[1-bit]->cnt>0){
   maxi|=(1<<i);
   crawler=crawler->children[1-bit];
