@@ -5,9 +5,9 @@ public:
         sort(nums.begin(),nums.end());
         int next_avail=INT_MIN,cnt=0;
         for(int i=0;i<n;i++){
-            if(next_avail<nums[i]+k){
+            if(next_avail<=nums[i]+k){
                 cnt++;
-                next_avail=max(nums[i]-k,next_avail+1);
+                next_avail=max(nums[i]-k+1,next_avail+1);
             } 
         }
         return cnt;
