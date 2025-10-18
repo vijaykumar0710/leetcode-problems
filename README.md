@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
