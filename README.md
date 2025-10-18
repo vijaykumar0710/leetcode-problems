@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
