@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -1287,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-maximum-xor-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2402-maximum-xor-after-operations) |
@@ -1336,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
