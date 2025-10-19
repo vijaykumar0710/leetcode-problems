@@ -27,6 +27,7 @@ void f(int idx,string &s,string &st){
 }
     vector<string> removeInvalidParentheses(string s) {
         n=s.size();
+        if(isValid(s)) return {s};
         string st="";
         f(0,s,st);
         vector<string>res;
