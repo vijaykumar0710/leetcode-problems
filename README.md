@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0526-beautiful-arrangement) |
