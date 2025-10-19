@@ -1,29 +1,45 @@
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp>
-using namespace std;
-using namespace __gnu_pbds;
-template <typename T>
-using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
 class Solution {
 public:
+void rebalance(multiset<int>&mst1,multiset<int>&mst2){
+    if(mst1.size()<mst2.size()){
+        mst1.insert(*mst2.begin());
+        mst2.erase(mst2.find(*mst2.begin()));
+    }
+    if(mst1.size()-mst2.size()>1){
+        mst2.insert(*mst1.rbegin());
+        mst1.erase(mst1.find(*mst1.rbegin()));
+    }
+}
     vector<double> medianSlidingWindow(vector<int>& nums, int k) {
-        int n = nums.size();
-        ordered_set<pair<int, int>> ost;
-        vector<double> res;
-        int i = 0;
-        for (int j = 0; j < n; j++) {
-            ost.insert({nums[j], j});
-            if (j - i + 1 == k) {
-                int target_rank1 = (k - 1) / 2;
-                int target_rank2 = k / 2;
-                auto it1 = ost.find_by_order(target_rank1);
-                auto it2 = ost.find_by_order(target_rank2); 
-                double x = ((double)it1->first + it2->first) / 2;
-                if (k % 2 == 0) res.push_back(x);
-                else res.push_back(it1->first);
-                ost.erase({nums[i], i});
-                i++;
-            }
+        multiset<int>mst1,mst2;
+        vector<double>res;
+        int n=nums.size();
+        for(int i=0;i<k;i++){
+            if(mst1.empty() || nums[i]<*mst1.rbegin()) mst1.insert(nums[i]);
+            else mst2.insert(nums[i]);
+            rebalance(mst1,mst2);
+        }
+
+        if(k%2!=0) res.push_back(*mst1.rbegin());
+            else{
+                double x=((double)*mst1.rbegin()+*mst2.begin())/2.0;
+                res.push_back(x);
+            } 
+
+        for(int i=k;i<n;i++){
+            if(mst1.count(nums[i-k])!=0) mst1.erase(mst1.find(nums[i-k]));
+            else mst2.erase(mst2.find(nums[i-k]));
+
+            if(mst1.empty() || nums[i]<*mst1.rbegin()) mst1.insert(nums[i]);
+            else mst2.insert(nums[i]);
+
+            rebalance(mst1,mst2);
+
+            if(k%2!=0) res.push_back(*mst1.rbegin());
+            else{
+                double x=((double)*mst1.rbegin()+*mst2.begin())/2.0;
+                res.push_back(x);
+            } 
         }
         return res;
     }
