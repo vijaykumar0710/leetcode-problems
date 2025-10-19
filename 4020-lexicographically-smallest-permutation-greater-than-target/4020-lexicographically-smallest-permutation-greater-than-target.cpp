@@ -4,7 +4,7 @@ int n;
 string res="";
 bool isFound=false;
 void f(int pos,vector<int>&freq,string &s,string &target,string &curr,bool isgreater){
-   // if(isFound) return;
+    if(isFound) return;
    if(curr.size()==n){
      if(isgreater){
         res=curr;
