@@ -15,20 +15,18 @@ int cal_minLen(vector<pair<int,int>>&intervals){
     if (n < 2) return -1;
     vector<pair<int,int>>start=intervals;
     sort(start.begin(),start.end());
-    vector<pair<int,int>>end=start;
-    sort(end.begin(),end.end(),[](auto &a,auto &b){
-       return a.second<b.second;
-    });
+    priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
     int res=INT_MAX;
-    int min_len=INT_MAX,i=0;
+    int min_len=INT_MAX;
     for(int j=0;j<n;j++){
-        while(i<n && end[i].second<start[j].first){
-            min_len=min(min_len,end[i].second-end[i].first+1);
-            i++;
+        while(!pq.empty() && pq.top().first<start[j].first){
+            min_len=min(min_len,pq.top().second);
+            pq.pop();
         }
         if(min_len!=INT_MAX){
             res=min(res,min_len+start[j].second-start[j].first+1);
         }
+         pq.push({start[j].second,start[j].second-start[j].first+1});
     }
     return res==INT_MAX?-1:res;
 }
