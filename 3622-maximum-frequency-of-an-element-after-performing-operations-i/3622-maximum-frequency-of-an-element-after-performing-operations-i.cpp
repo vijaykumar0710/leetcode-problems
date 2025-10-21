@@ -19,14 +19,9 @@ int f(vector<int>&start,vector<int>&endi,int &target,int op){
         start.push_back(nums[i]-k);
         endi.push_back(nums[i]+k);
        }
-       vector<int>candi;
-       for(int i=0;i<n;i++){
-        candi.push_back(nums[i]-k);
-        candi.push_back(nums[i]+k);
-        candi.push_back(nums[i]);
-       }
-        for(int t=0;t<candi.size();t++){
-            res=max(res,f(start,endi,candi[t],numOperations));
+        int l=nums[0]-k,r=nums[n-1]+k;
+        for(int t=l;t<=r;t++){
+            res=max(res,f(start,endi,t,numOperations));
         }
         return res;
     }
