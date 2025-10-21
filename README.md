@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2462-find-the-k-sum-of-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2462-find-the-k-sum-of-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2429-design-a-food-rating-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [2462-find-the-k-sum-of-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2549-next-greater-element-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2549-next-greater-element-iv) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2590-maximum-star-sum-of-a-graph) |
