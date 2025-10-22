@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
+| [0730-count-different-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
