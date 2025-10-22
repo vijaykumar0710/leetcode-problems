@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2340-total-appeal-of-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2340-total-appeal-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2340-total-appeal-of-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
