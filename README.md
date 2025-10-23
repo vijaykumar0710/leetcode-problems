@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3999-minimum-operations-to-transform-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3999-minimum-operations-to-transform-string) |
@@ -1581,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -1674,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1734,6 +1737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Tree
 |  |
@@ -1798,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
