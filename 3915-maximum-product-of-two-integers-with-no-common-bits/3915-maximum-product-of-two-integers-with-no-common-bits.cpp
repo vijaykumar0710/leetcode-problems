@@ -17,26 +17,25 @@ for(int i=31;i>=0;i--){
     cr=cr->children[bit];
 }
 }
-int f(trieNode* cr,int mask,int i,int num){
-    if(!cr) return -1;
+void f(trieNode* cr,int mask,int i,long long &maxi,int num){
+    if(!cr) return;
     if(i<0){
-        return mask;
+        maxi=max(maxi,(long long)mask);
+        return;
         }
     int bit=(num>>i)&1;
     if(bit==1){
-        return f(cr->children[0],mask,i-1,num);
+       if(cr->children[0]) f(cr->children[0],mask,i-1,maxi,num);
     }else{
-        int left,right;
-        left=f(cr->children[1],mask|(1<<i),i-1,num);
-        if(left!=-1) return left;
-        right=f(cr->children[0],mask,i-1,num);
-        return right;
+        if(cr->children[1]) f(cr->children[1],mask|(1<<i),i-1,maxi,num);
+        if(cr->children[0]) f(cr->children[0],mask,i-1,maxi,num);
     }
 }
 long long get_max(int num,trieNode* root){
 trieNode* cr=root;
 int mask=0;
-int maxi=f(cr,mask,31,num);
+long long maxi=0;
+f(cr,mask,31,maxi,num);
 return (long long)maxi*num;
 }
     long long maxProduct(vector<int>& nums) {
