@@ -1,39 +1,31 @@
 class Solution {
 public:
-    int n;
-    vector<int> prefix;
-    int t[31][31][31];
-    int rangeSum(int i, int j) { return prefix[j + 1] - prefix[i]; }
-    int solve(int i, int j, int k, int piles) {
-        if ((j - i + 1 - piles) % (k - 1) != 0)
-            return INT_MAX;
-        if (i == j)
-            return (piles == 1) ? 0 : INT_MAX;
-        if(t[i][j][piles]!=-1) return t[i][j][piles];
-        int res = INT_MAX;
-        if (piles == 1) {
-            int temp = solve(i, j, k, k);
-            if (temp != INT_MAX)
-                res = temp + rangeSum(i, j);
-        } else {
-            for (int p = i; p < j; p += (k - 1)) {
-                int left = solve(i, p, k, 1);
-                int right = solve(p + 1, j, k, piles - 1);
-                if (left != INT_MAX && right != INT_MAX)
-                    res = min(res, left + right);
+    int mergeStones(vector<int>& stones, int K) {
+        int n = stones.size();
+        if ((n - 1) % (K - 1) != 0) return -1;
+
+        vector<int> prefix(n + 1, 0);
+        for (int i = 0; i < n; i++) prefix[i + 1] = prefix[i] + stones[i];
+        auto sum = [&](int i, int j) { return prefix[j + 1] - prefix[i]; };
+
+        const int INF = 1e9;
+        vector<vector<vector<int>>> dp(n, vector<vector<int>>(n, vector<int>(K + 1, INF)));
+
+        for (int i = 0; i < n; i++) dp[i][i][1] = 0;
+
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i + len - 1 < n; i++) {
+                int j = i + len - 1;
+                for (int m = 2; m <= K; m++) {
+                    for (int mid = i; mid < j; mid += K - 1) {  // optimization: skip redundant mid
+                        dp[i][j][m] = min(dp[i][j][m], dp[i][mid][1] + dp[mid + 1][j][m - 1]);
+                    }
+                }
+                if (dp[i][j][K] < INF)
+                    dp[i][j][1] = dp[i][j][K] + sum(i, j);
             }
         }
-        return t[i][j][piles]=res;
+
+        return dp[0][n - 1][1];
     }
-    int mergeStones(vector<int>& stones, int k) {
-        n = stones.size();
-        prefix.resize(n+1, 0);
-        for (int i = 0; i < n; i++) 
-            prefix[i+1] = prefix[i] + stones[i];
-            if ((n - 1) % (k - 1) != 0)
-                return -1;
-            int i = 0, j = n - 1;
-            memset(t,-1,sizeof(t));
-            return solve(i, j, k, 1);
-        }
-    };
+};
