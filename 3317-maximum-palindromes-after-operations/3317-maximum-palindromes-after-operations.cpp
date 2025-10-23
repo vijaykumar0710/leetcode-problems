@@ -2,7 +2,9 @@ class Solution {
 public:
     int maxPalindromesAfterOperations(vector<string>& words) {
         int n=words.size();
-        //sort(words.begin(),words.end());
+        sort(words.begin(),words.end(),[](auto &a,auto &b){
+            return (int)a.size()<(int)b.size();
+        });
         vector<int>fr(26,0);
         for(auto &word:words){
             for(auto ch:word)
@@ -21,7 +23,7 @@ public:
             pairs-=need_pairs;
             if(sz%2==1){
                 if(singles>0) singles--;
-                else if(pairs>0) pairs--; 
+                else if(pairs>0) pairs--,singles++; 
                 else continue;  
             }
             cnt++;
