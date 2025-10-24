@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Hash Table
 |  |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -1407,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1646,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
