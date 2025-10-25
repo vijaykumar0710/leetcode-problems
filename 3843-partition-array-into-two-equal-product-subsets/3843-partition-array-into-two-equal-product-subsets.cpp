@@ -1,7 +1,7 @@
 class Solution {
 public:
 int n;
-bool f(int i,vector<int>&nums,long double target,long double s1,long double s2){
+bool f(int i,vector<int>&nums, double target, double s1, double s2){
 if(i>=n){
     return (s1==target && s2==target);
    }
