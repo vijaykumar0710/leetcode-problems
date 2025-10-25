@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3797-design-spreadsheet) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3827-implement-router) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Union Find
 |  |
 | ------- |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
 | [3915-maximum-product-of-two-integers-with-no-common-bits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3915-maximum-product-of-two-integers-with-no-common-bits) |
@@ -1932,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0763-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Game Theory
 |  |
 | ------- |
