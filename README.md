@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1652-minimum-suffix-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1652-minimum-suffix-flips) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
