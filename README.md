@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
