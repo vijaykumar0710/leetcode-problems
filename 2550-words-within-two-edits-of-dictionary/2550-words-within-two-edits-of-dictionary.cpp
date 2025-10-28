@@ -1,6 +1,5 @@
 class Solution {
 public:
-unordered_set<string>st;
     vector<string> twoEditWords(vector<string>& queries, vector<string>& dictionary) {
         int n=queries.size();
         vector<string>res;
