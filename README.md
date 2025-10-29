@@ -1380,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -1717,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
