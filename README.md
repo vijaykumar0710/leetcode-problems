@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1508-longest-happy-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [1517-restore-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
@@ -1997,6 +1999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
+| [1508-longest-happy-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
 ## Suffix Array
@@ -2010,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
+| [1508-longest-happy-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
