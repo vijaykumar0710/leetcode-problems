@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-count-all-possible-routes) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-minimum-suffix-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1652-minimum-suffix-flips) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-string-compression-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1637-string-compression-ii) |
 | [1652-minimum-suffix-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1652-minimum-suffix-flips) |
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-string-compression-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1637-string-compression-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-count-all-possible-routes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
