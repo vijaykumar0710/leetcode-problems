@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1880-largest-merge-of-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
