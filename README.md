@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2577-count-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-minimum-additions-to-make-valid-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2808-painting-the-walls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2808-painting-the-walls) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
