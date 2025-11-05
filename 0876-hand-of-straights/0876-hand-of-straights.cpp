@@ -4,7 +4,6 @@ public:
       int n=hand.size();
       if(n%k!=0) return false;
       map<int,int>mp;
-      int group=0;
       for(auto num:hand) mp[num]++;
       while(!mp.empty()){
         int num=mp.begin()->first;
@@ -19,7 +18,6 @@ public:
                 x++;
             }else return false;
          }
-         if(sz==0) group++;
       }
       return true;
     }
