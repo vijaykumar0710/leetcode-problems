@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1018-largest-perimeter-triangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
+| [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0941-sort-array-by-parity) |
@@ -1101,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0940-fruit-into-baskets) |
