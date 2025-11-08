@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-count-all-possible-routes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-count-all-possible-routes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
@@ -1399,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
@@ -1439,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-count-all-possible-routes) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
