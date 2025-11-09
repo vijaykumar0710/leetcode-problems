@@ -16,9 +16,9 @@ public:
         }
 
         // coordinate compress prefix
-        vector<int> all = pref;
-        sort(all.begin(), all.end());
-        all.erase(unique(all.begin(), all.end()), all.end());
+        vector<int> all;
+        set<int>st(pref.begin(),pref.end());
+        for(auto x:st) all.push_back(x);
 
         auto getID=[&](int x){
             return (int)(lower_bound(all.begin(),all.end(),x)-all.begin());
