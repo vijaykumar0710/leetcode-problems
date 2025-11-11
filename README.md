@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1522-stone-game-iii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
 | [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -1671,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
