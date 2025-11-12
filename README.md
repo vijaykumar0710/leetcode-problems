@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
 | [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1580-shuffle-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
