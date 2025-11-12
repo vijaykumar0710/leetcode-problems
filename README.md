@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2023-design-movie-rental-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2023-design-movie-rental-system) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2058-concatenation-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -1677,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
