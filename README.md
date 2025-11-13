@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
 | [4008-restore-finishing-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4008-restore-finishing-order) |
+| [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3915-maximum-product-of-two-integers-with-no-common-bits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3915-maximum-product-of-two-integers-with-no-common-bits) |
 | [3919-network-recovery-pathways](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3919-network-recovery-pathways) |
 | [3954-maximum-balanced-shipments](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3954-maximum-balanced-shipments) |
+| [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Breadth-First Search
 |  |
 | ------- |
