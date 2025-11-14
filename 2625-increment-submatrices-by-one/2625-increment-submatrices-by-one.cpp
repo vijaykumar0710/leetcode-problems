@@ -5,10 +5,14 @@ public:
         for(auto &q:queries){
             int r1=q[0],c1=q[1];
             int r2=q[2],c2=q[3];
-            for(int i=min(r1,r2);i<=max(r1,r2);i++){
-                for(int j=min(c1,c2);j<=max(c1,c2);j++){
-                    grid[i][j]+=1;
-                }
+            for(int i=r1;i<=r2;i++){
+                grid[i][c1]+=1;
+                if(c2+1<n) grid[i][c2+1]-=1;
+            }
+        }
+        for(int i=0;i<n;i++){
+            for(int j=1;j<n;j++){
+                grid[i][j]+=grid[i][j-1];
             }
         }
         return grid;
