@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1633,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
