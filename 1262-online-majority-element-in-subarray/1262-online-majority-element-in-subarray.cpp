@@ -9,7 +9,9 @@ unordered_map<int,vector<int>>pos;
     
     int query(int left, int right, int threshold) {
         for(auto &[num,vec]:pos){
-            int freq=(upper_bound(vec.begin(),vec.end(),right)-vec.begin())-(lower_bound(vec.begin(),vec.end(),left)-vec.begin());
+            int lower_idx=lower_bound(vec.begin(),vec.end(),left)-vec.begin();
+            int upper_idx=upper_bound(vec.begin(),vec.end(),right)-vec.begin();
+            int freq=upper_idx-lower_idx;
             if(freq>=threshold) return num;
         }
         return -1;
