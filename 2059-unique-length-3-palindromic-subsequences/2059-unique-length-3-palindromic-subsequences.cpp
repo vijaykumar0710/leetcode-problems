@@ -12,7 +12,7 @@ public:
             int first=ind[i].first;
             int last=ind[i].second;
             if(first==last || first==1e6) continue;
-            set<char>st;
+            unordered_set<char>st;
             for(int j=first+1;j<last;j++){
                 st.insert(s[j]);
             }
