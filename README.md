@@ -1058,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0479-largest-palindrome-product) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1952-three-divisors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1952-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1782,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
+| [1952-three-divisors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1952-three-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1885,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
+| [1952-three-divisors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1952-three-divisors) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
