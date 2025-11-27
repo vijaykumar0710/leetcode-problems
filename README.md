@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -1734,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1821,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
@@ -2016,6 +2019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2722-prime-in-diagonal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
