@@ -6,16 +6,15 @@ public:
         pref[0]=nums[0];
         for(int i=1;i<n;i++) pref[i]=(long long)pref[i-1]+nums[i];
         long long res=LLONG_MIN;
-        for(int st=0;st<k;st++){
-            long long currSum=0;
-            int i=st;
-            while(i<n && i+k-1<n){
-                int j=i+k-1;
-                long long subSum=pref[j]-(i>0?pref[i-1]:0);
-                currSum=max(subSum,subSum+currSum);
-                res=max(res,currSum);
-                i+=k;
+        unordered_map<int,long long>mp;
+        mp[0]=0;
+        for(int i=1;i<=n;i++){
+            int r=i%k;
+            if(mp.count(r)){
+                res=max(res,pref[i-1]-mp[r]);
             }
+            if(!mp.count(r)) mp[r]=pref[i-1];
+            mp[r]=min(mp[r],pref[i-1]);
         }
         return res;
     }
