@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 | [3376-longest-common-suffix-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3376-longest-common-suffix-queries) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-maximum-palindromes-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1705,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
