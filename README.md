@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3104-happy-students) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2915-count-of-interesting-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -1699,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2915-count-of-interesting-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1814,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -1898,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2873-prime-pairs-with-target-sum) |
+| [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
