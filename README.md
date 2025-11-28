@@ -1393,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
@@ -1942,6 +1943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
