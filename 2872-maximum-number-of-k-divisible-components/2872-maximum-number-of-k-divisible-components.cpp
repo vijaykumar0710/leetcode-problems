@@ -9,7 +9,7 @@ long long f(int u,int p,vector<vector<int>>&adj,vector<int>&values,int k,int &cn
     }
     if(sum%k==0){
        cnt++;
-       sum=0LL;
+       return 0LL;
     }
     return sum;
 }
