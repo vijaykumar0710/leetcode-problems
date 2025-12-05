@@ -8,7 +8,7 @@ public:
             pre+=nums[i];
             if(pre==k) cnt++;
             if(mp.find(pre-k)!=mp.end()){
-                cnt++;
+                cnt+=mp[pre-k];
             }
             mp[pre]++;
         }
