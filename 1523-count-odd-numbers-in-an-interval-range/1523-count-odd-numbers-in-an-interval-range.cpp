@@ -1,7 +1,6 @@
 class Solution {
 public:
     int countOdds(int low, int high) {
-        high++;
-        return (high/2-low/2);
+        return (ceil(high/2.0)-low/2);
     }
 };
