@@ -2083,6 +2083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1182-game-play-analysis-iv) |
+| [1211-queries-quality-and-percentage](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1211-queries-quality-and-percentage) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1251-average-selling-price) |
 | [1278-product-price-at-a-given-date](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1278-product-price-at-a-given-date) |
