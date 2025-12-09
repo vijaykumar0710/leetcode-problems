@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1261,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -1558,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
