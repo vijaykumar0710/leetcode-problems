@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3771-total-score-of-dungeon-runs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3771-total-score-of-dungeon-runs) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1636,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+| [3771-total-score-of-dungeon-runs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3771-total-score-of-dungeon-runs) |
 | [3791-fruits-into-baskets-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3827-implement-router) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3881-minimize-maximum-component-cost) |
@@ -1745,6 +1747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3771-total-score-of-dungeon-runs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
