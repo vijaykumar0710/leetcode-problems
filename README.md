@@ -2109,6 +2109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1084-sales-analysis-iii) |
 | [1135-customers-who-bought-all-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
