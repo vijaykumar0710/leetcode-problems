@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2078-maximum-compatibility-score-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-maximum-compatibility-score-sum) |
 | [2086-count-number-of-special-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2086-count-number-of-special-subsequences) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-number-of-unique-good-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2115-number-of-unique-good-subsequences) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -1837,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [1925-count-square-sum-triples](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1952-three-divisors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
