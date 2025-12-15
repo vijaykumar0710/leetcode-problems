@@ -2135,6 +2135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
