@@ -2141,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1480-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1517-find-users-with-valid-e-mails) |
 | [1523-capital-gainloss](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
