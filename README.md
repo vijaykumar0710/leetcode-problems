@@ -2139,6 +2139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1480-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1527-patients-with-a-condition) |
