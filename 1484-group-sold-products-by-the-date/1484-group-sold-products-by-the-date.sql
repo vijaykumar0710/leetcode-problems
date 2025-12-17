@@ -8,4 +8,4 @@ SELECT sell_date,
        ) AS products
 FROM Activities
 GROUP BY sell_date
-ORDER BY sell_date,product
+ORDER BY sell_date
