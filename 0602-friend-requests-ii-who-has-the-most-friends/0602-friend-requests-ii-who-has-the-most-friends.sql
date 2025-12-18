@@ -1,9 +1,11 @@
 # Write your MySQL query statement below
-WITH cte AS((SELECT requester_id AS id
-FROM RequestAccepted)
+WITH cte AS(
+SELECT requester_id AS id
+FROM RequestAccepted
 UNION ALL
-(SELECT accepter_id 
-FROM RequestAccepted))
+SELECT accepter_id 
+FROM RequestAccepted
+)
 
 SELECT id,COUNT(id) AS num
 FROM cte
