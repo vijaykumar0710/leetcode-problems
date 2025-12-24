@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3074-apple-redistribution-into-boxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3104-happy-students](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3104-happy-students) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3214-maximize-area-of-square-hole-in-grid) |
