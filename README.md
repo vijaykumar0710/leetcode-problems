@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0796-rotate-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0884-k-similar-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0884-k-similar-strings) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
