@@ -4,7 +4,7 @@ public:
         int n=ha.size();
         long long res=0;
         sort(ha.rbegin(),ha.rend());
-        for(int i=0;i<k;i++) res=(long long)res+((ha[i]-i>0)?ha[i]-i:0);
+        for(int i=0;i<k;i++) res=(long long)res+max(ha[i]-i,0);
         return res;
     }
 };
