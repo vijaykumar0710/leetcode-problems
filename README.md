@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [1508-longest-happy-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
