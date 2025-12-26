@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2444-longest-ideal-subsequence) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1769,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2504-find-all-good-indices](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
