@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0085-maximal-rectangle) |
@@ -1834,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
