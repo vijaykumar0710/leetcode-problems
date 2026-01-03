@@ -1,6 +1,6 @@
+const int M=1e9+7;
 class Solution {
 public:
-const int M=1e9+7;
     int numOfWays(int n) {
         long long two=6,three=6;
         n--;
