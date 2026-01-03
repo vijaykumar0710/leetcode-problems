@@ -2177,6 +2177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1158-market-analysis-i) |
 | [1161-project-employees-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1179-reformat-department-table) |
