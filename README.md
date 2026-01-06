@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0971-shortest-bridge) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1445,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0971-shortest-bridge](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0971-shortest-bridge) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1300-critical-connections-in-a-network](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
@@ -2040,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0863-sum-of-distances-in-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -2081,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
