@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0730-count-different-palindromic-subsequences) |
