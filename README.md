@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1262-online-majority-element-in-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1290-make-array-strictly-increasing) |
@@ -1881,6 +1882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1038-number-of-squareful-arrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1057-numbers-with-repeated-digits) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -2342,6 +2344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2206-detonate-the-maximum-bombs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2332-count-lattice-points-inside-a-circle) |
