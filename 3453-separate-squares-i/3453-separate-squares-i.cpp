@@ -24,9 +24,9 @@ bool cal_area(vector<vector<int>>& squares,double mid){
         while((r-l)>1e-5){
             double mid=l+(r-l)/2.0;
             if(cal_area(squares,mid)){
-                res=mid;
                 l=mid;
             }else{
+                res=mid;
                 r=mid;
             }
         }
