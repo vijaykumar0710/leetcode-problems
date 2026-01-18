@@ -1056,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1451,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1871,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
