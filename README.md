@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3373-maximum-prime-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3373-maximum-prime-difference) |
@@ -1572,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
