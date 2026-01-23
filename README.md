@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -1334,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1864,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2027,6 +2031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3827-implement-router) |
@@ -2315,6 +2320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -2468,4 +2474,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
