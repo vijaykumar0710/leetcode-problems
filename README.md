@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
@@ -1761,6 +1763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
