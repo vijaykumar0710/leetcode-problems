@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [2953-count-pairs-of-points-with-distance-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2884-length-of-the-longest-valid-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2947-count-beautiful-substrings-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3024-string-transformation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3024-string-transformation) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3033-apply-operations-to-make-two-strings-equal) |
@@ -1447,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -1532,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3376-longest-common-suffix-queries) |
@@ -2481,4 +2486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
