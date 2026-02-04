@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3618-find-the-original-typed-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3638-minimum-operations-to-make-character-frequencies-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3638-minimum-operations-to-make-character-frequencies-equal) |
+| [3640-trionic-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-array-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3654-minimum-array-sum) |
