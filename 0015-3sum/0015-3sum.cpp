@@ -1,22 +1,26 @@
 class Solution {
 public:
+vector<vector<int>>res;
+void two_sum(vector<int>& nums,int target,int i,int j){
+    while(i<j){ 
+    if(nums[i]+nums[j]>target) j--;
+    else if(nums[i]+nums[j]<target) i++;
+    else{
+      while(i<j && nums[i]==nums[i+1]) i++;
+      while(i<j && nums[j]==nums[j-1]) j--;
+      res.push_back({-target,nums[i],nums[j]});
+      i++,j--;
+      }
+    }
+}
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n=nums.size();
-        set<vector<int>>st;
-        vector<pair<int,int>>pairs;
-        for(int i=0;i<n;i++)pairs.push_back({nums[i],i});
-        sort(pairs.begin(),pairs.end());
+        sort(nums.begin(),nums.end());
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                int target=-1*(pairs[i].first+pairs[j].first);
-                int it=lower_bound(pairs.begin()+j+1,pairs.end(),make_pair(target,-1))-pairs.begin();
-                if(it>=0 && it<n && pairs[it].first==target){
-                    st.insert({pairs[i].first,pairs[j].first,pairs[it].first});
-                }
-            }
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            int target=-nums[i];
+            two_sum(nums,target,i+1,n-1);
         }
-        vector<vector<int>>res;
-        for(auto &vec:st) res.push_back(vec);
         return res;
     }
 };
