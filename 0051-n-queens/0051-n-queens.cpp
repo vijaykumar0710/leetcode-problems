@@ -12,15 +12,15 @@ void solve(int n,int row,vector<string>&curr,vector<vector<string>>&ans){
         if(cols.find(col)==cols.end() && dia.find(diag)==dia.end() && antidia.find(antidiag)==antidia.end()){
             curr[row][col]='Q';
             cols.insert(col);
-            dia.insert(row+col);
-            antidia.insert(row-col);
+            dia.insert(diag);
+            antidia.insert(antidiag);
 
             solve(n,row+1,curr,ans);
 
-             curr[row][col]='.';
+            curr[row][col]='.';
             cols.erase(col);
-            dia.erase(row+col);
-            antidia.erase(row-col);
+            dia.erase(diag);
+            antidia.erase(antidiag);
         }
     }
 }
