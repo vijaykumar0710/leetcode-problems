@@ -37,7 +37,7 @@ bool helper(int row,int col,vector<vector<char>>& board){
        board[row][col]='.';
      }
    }
-//    board[row][col]='.';
+    //board[row][col]='.';
    return false;
 }
     void solveSudoku(vector<vector<char>>& board) {
