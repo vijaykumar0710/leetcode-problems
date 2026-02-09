@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -1508,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1428-jump-game-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1428-jump-game-iii) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -2124,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -2168,6 +2171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -2494,6 +2498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0968-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0968-beautiful-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Biconnected Component
 |  |
@@ -2508,6 +2513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
