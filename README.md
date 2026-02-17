@@ -1394,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
@@ -2058,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -2381,6 +2383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [1262-online-majority-element-in-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
