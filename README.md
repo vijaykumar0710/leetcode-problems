@@ -1221,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0679-24-game) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0526-beautiful-arrangement) |
