@@ -4,10 +4,8 @@ int dp[1001][1001];
 int lcs(int i,int j,string &s1,string &s2,int m){
     if(i>=m || j>=m) return 0;
     if(dp[i][j]!=-1) return dp[i][j];
-    int res=INT_MIN;
-    if(s1[i]==s2[j]) res=max(res,1+lcs(i+1,j+1,s1,s2,m));
-    else res=max({res,lcs(i+1,j,s1,s2,m),lcs(i,j+1,s1,s2,m)});
-    return dp[i][j]=res;
+    if(s1[i]==s2[j]) return dp[i][j]=1+lcs(i+1,j+1,s1,s2,m);
+    else return dp[i][j]=max(lcs(i+1,j,s1,s2,m),lcs(i,j+1,s1,s2,m));
 }
     int longestPalindromeSubseq(string s) {
         int m=s.size();
