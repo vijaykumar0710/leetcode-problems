@@ -9,7 +9,7 @@ public:
             flag1=!flag1;
             flag2=!flag2;
            }
-           if(i>=5 && (i+1)%6==0){
+           if((i+1)%6==0){
             flag1=!flag1;
             flag2=!flag2;
            }
