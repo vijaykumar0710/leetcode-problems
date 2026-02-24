@@ -7,7 +7,7 @@ int sum = 0;
         if (root->right) f(root->right,binary_string);
         if (!root->left && !root->right){
             sum += stoi(binary_string, nullptr, 2);
-            return;
+            //return;
         }
     }
     int sumRootToLeaf(TreeNode* root) {
