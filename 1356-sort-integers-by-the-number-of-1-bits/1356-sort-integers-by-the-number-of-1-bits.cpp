@@ -2,18 +2,12 @@ class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
         int n=arr.size();
+        vector<pair<int,int>>p;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n-i-1;j++){
-                if(__builtin_popcount(arr[j])>__builtin_popcount(arr[j+1])){
-                    swap(arr[j],arr[j+1]);
-                }
-                 if(__builtin_popcount(arr[j])==__builtin_popcount(arr[j+1])){
-                    if(arr[j]>arr[j+1]){
-                        swap(arr[j],arr[j+1]);
-                    }
-                 }
-            }
+            p.push_back({__builtin_popcount(arr[i]),arr[i]});
         }
+        sort(p.begin(),p.end());
+        for(int i=0;i<n;i++) arr[i]=p[i].second;
         return arr;
     }
 };
