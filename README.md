@@ -1124,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -1543,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -2171,6 +2173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -2564,5 +2567,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
