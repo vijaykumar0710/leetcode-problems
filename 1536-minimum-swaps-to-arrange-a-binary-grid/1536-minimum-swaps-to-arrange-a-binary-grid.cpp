@@ -2,19 +2,6 @@ class Solution {
 public:
     int minSwaps(vector<vector<int>>& grid) {
         int n=grid.size();
-        vector<int>zero(n,0);
-        int temp=n-1;
-        while(temp>0){
-          zero[temp]=temp;
-          temp--;
-        }
-        for(int j=1;j<n;j++){
-            int cnt=0;
-            for(int i=0;i<n;i++){
-               if(grid[i][j]==0) cnt++;
-            }
-            if(cnt<zero[j]) return -1;
-        }
         vector<int>row_zero(n);
         for(int r=0;r<n;r++){
             int j=n-1,zero_cnt=0;
