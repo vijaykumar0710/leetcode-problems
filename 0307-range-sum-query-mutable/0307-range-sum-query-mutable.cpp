@@ -1,48 +1,32 @@
 class NumArray {
 public:
+vector<int>BIT,vec;
 int n;
-vector<int>segTree;
-
- void buildSegTree(int i,int l,int r,vector<int>&nums){
-    if(l==r){
-        segTree[i]=nums[l];
-        return;
+void updateBIT(int i,int val){
+    for(;i<=n;i+=(i&-i)) BIT[i]+=val;
+}
+int query(int i){
+    int sum=0;
+    for(;i>0;i-=(i&-i)){
+        sum+=BIT[i];
     }
-    int mid=l+(r-l)/2;
-    buildSegTree(2*i+1,l,mid,nums);
-    buildSegTree(2*i+2,mid+1,r,nums);
-    segTree[i]=segTree[2*i+1]+segTree[2*i+2];
- }
-
-void update_query(int i,int l,int r,int idx,int val){
-if(l==r){
-    segTree[i]=val;
-    return;
+    return sum;
 }
-int mid=l+(r-l)/2;
-if(idx<=mid) update_query(2*i+1,l,mid,idx,val);
-else update_query(2*i+2,mid+1,r,idx,val);
-segTree[i]=segTree[2*i+1]+segTree[2*i+2];
-}
-
-int range_sum(int i,int l,int r,int start,int end){
-    if(start>r || end<l) return 0;
-    if(l>=start && r<=end) return segTree[i];
-    int mid=l+(r-l)/2;
-    return range_sum(2*i+1,l,mid,start,end)+range_sum(2*i+2,mid+1,r,start,end);
-}
-
     NumArray(vector<int>& nums) {
         n=nums.size();
-        segTree.resize(4*n);
-        buildSegTree(0,0,n-1,nums);
+        BIT.assign(n+1,0);
+        vec.resize(n+1,0);
+        for(int i=1;i<=n;i++) vec[i]=nums[i-1],updateBIT(i,nums[i-1]);
     }
     
     void update(int index, int val) {
-        update_query(0,0,n-1,index,val);
+        index++;
+        updateBIT(index,val-vec[index]);
+        vec[index]=val;
     }
     
     int sumRange(int left, int right) {
-        return range_sum(0,0,n-1,left,right);
+        left++,right++;
+        return query(right)-query(left-1);
     }
 };
