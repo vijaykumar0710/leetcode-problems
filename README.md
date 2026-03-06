@@ -2547,6 +2547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0968-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0968-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
