@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-split-two-strings-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1871-palindrome-partitioning-iv) |
 | [1880-largest-merge-of-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1880-largest-merge-of-two-strings) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
+| [1763-longest-nice-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -1621,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1668-find-longest-awesome-substring) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1763-longest-nice-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
@@ -1828,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1763-longest-nice-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1813-maximum-erasure-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -2554,6 +2558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0968-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0968-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1763-longest-nice-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1763-longest-nice-substring) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Biconnected Component
