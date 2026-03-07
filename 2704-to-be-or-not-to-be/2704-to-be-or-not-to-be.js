@@ -6,11 +6,11 @@ var expect = function(val) {
     var obj={
         toBe(x){
           if(val===x) return true;
-          else throw new Error("Not Equal");
+          else throw Error("Not Equal");
         },
         notToBe(x){
             if(x!==val) return true;
-            else throw new Error("Equal");
+            else throw Error("Equal");
         }
     }
     return obj;
