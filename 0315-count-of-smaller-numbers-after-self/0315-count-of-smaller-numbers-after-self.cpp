@@ -1,6 +1,6 @@
 class Solution {
 public:
-vector<int>res,BIT;
+vector<int>BIT;
 int m;
 void update(int i){
 for(;i<=m;i+=i&-i) BIT[i]+=1;
@@ -14,14 +14,16 @@ for(;i>0;i-=(i&-i)){
 }
     vector<int> countSmaller(vector<int>& nums) {
         int n=nums.size();
-        res.resize(n);
-        int maxi=10001;
-        BIT.assign(2*maxi+5,0);
-        m=BIT.size();
+        vector<int>res(n);
+        vector<int>temp=nums;
+        sort(temp.begin(),temp.end());
+        temp.erase(unique(temp.begin(),temp.end()),temp.end());
+        m=temp.size();
+        BIT.assign(m+1,0);
         for(int i=n-1;i>=0;i--){
-            int x=query(nums[i]+maxi);
-            res[i]=x;
-            update(nums[i]+maxi+1);
+            int rank=lower_bound(temp.begin(),temp.end(),nums[i])-temp.begin()+1;
+            res[i]=query(rank-1);
+            update(rank);
         }
         return res;
     }
