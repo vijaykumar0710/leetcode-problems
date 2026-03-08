@@ -12,11 +12,8 @@ int query(int i){
 }
     int countRangeSum(vector<int>& nums, int lower, int upper) {
         int n=nums.size();
-        vector<int>vec(n+1);
-        for(int i=0;i<n;i++) vec[i+1]=nums[i];
         vector<long long>pre(n+1,0);
-        pre[1]=vec[1];
-        for(int i=2;i<=n;i++) pre[i]=pre[i-1]+vec[i];
+        for(int i=0;i<n;i++) pre[i+1]=pre[i]+nums[i];
         vector<long long>temp=pre;
         for(auto p:pre){
             temp.push_back(p-lower);
