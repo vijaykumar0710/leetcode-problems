@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1736,6 +1737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
