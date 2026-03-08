@@ -17,9 +17,8 @@ int query(int i){
         vector<long long>pre(n+1,0);
         pre[1]=vec[1];
         for(int i=2;i<=n;i++) pre[i]=pre[i-1]+vec[i];
-        vector<long long>temp;
+        vector<long long>temp=pre;
         for(auto p:pre){
-            temp.push_back(p);
             temp.push_back(p-lower);
             temp.push_back(p-upper);
         }
