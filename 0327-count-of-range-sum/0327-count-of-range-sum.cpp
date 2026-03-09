@@ -1,36 +1,37 @@
 class Solution {
 public:
-long long maxn;
-vector<long long>BIT;
-void update(int i,int val){
-for(;i<=maxn;i+=(i&-i)) BIT[i]+=val;
+void merge(int l,int r,int mid,vector<long long>&nums){
+    int i=l,j=mid+1;
+    vector<long long>res;
+    while(i<=mid && j<=r){
+        if(nums[i]<nums[j]){
+            res.push_back(nums[i++]);
+        }else{
+            res.push_back(nums[j++]);
+        }
+    }
+    while(i<=mid) res.push_back(nums[i++]);
+    while(j<=r)  res.push_back(nums[j++]);
+    for(int k=0;k<res.size();k++) nums[k+l]=res[k];
 }
-int query(int i){
-    long long res=0;
-    for(;i>0;i-=(i&-i)) res+=BIT[i];
-    return res;
+int f(int l,int r,int lower,int upper,vector<long long>&prefix){
+    if(l>=r) return 0;
+    int mid=l+(r-l)/2;
+    int cnt=f(l,mid,lower,upper,prefix)+f(mid+1,r,lower,upper,prefix);
+    int j=mid+1;
+    int k=mid+1;
+    for(int i=l;i<=mid;i++){
+    while(j<=r && prefix[j]-prefix[i]<lower) j++;
+    while(k<=r && prefix[k]-prefix[i]<=upper) k++;
+    cnt+=(k-j);
+    }
+    merge(l,r,mid,prefix);
+    return cnt;
 }
     int countRangeSum(vector<int>& nums, int lower, int upper) {
         int n=nums.size();
-        vector<long long>pre(n+1,0);
-        for(int i=0;i<n;i++) pre[i+1]=pre[i]+nums[i];
-        vector<long long>temp=pre;
-        for(auto p:pre){
-            temp.push_back(p-lower);
-            temp.push_back(p-upper);
-        }
-        sort(temp.begin(),temp.end());
-        temp.erase(unique(temp.begin(),temp.end()),temp.end());
-        maxn=temp.size()+5;
-        BIT.assign(maxn+1,0);
-        int res=0;
-        for(auto p:pre){
-            int up=lower_bound(temp.begin(),temp.end(),p-lower)-temp.begin()+1;
-            int lo=lower_bound(temp.begin(),temp.end(),p-upper)-temp.begin()+1;
-            int rank=lower_bound(temp.begin(),temp.end(),p)-temp.begin()+1;
-            res+=query(up)-query(lo-1);
-            update(rank,1);
-        }
-        return res;
+        vector<long long>prefix(n+1,0);
+        for(int i=0;i<n;i++) prefix[i+1]=prefix[i]+nums[i];
+        return f(0,n,lower,upper,prefix);
     }
 };
