@@ -17,16 +17,18 @@ void merge(int l,int r,int mid,vector<long long>&nums){
 int f(int l,int r,int lower,int upper,vector<long long>&prefix){
     if(l>=r) return 0;
     int mid=l+(r-l)/2;
-    int cnt=f(l,mid,lower,upper,prefix)+f(mid+1,r,lower,upper,prefix);
+    int left_cnt=f(l,mid,lower,upper,prefix);
+    int right_cnt=f(mid+1,r,lower,upper,prefix);
     int j=mid+1;
     int k=mid+1;
+    int cross_cnt=0;
     for(int i=l;i<=mid;i++){
     while(j<=r && prefix[j]-prefix[i]<lower) j++;
     while(k<=r && prefix[k]-prefix[i]<=upper) k++;
-    cnt+=(k-j);
+    cross_cnt+=(k-j);
     }
     merge(l,r,mid,prefix);
-    return cnt;
+    return cross_cnt+left_cnt+right_cnt;
 }
     int countRangeSum(vector<int>& nums, int lower, int upper) {
         int n=nums.size();
