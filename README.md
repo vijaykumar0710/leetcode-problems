@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0911-profitable-schemes) |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -1455,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
 | [1464-reduce-array-size-to-the-half](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -2555,6 +2558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -2564,6 +2568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0327-count-of-range-sum) |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0968-beautiful-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0968-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1763-longest-nice-substring) |
@@ -2588,6 +2593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0327-count-of-range-sum) |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2599,4 +2605,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
