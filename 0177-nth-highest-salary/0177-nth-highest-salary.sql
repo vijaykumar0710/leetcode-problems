@@ -1,11 +1,13 @@
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
-DECLARE offset_val INT;
-SET offset_val=N-1;
   RETURN (
-SELECT IFNULL((SELECT DISTINCT salary
+WITH cte AS(
+SELECT salary, 
+DENSE_RANK() OVER(ORDER BY salary DESC) AS "dr"
 FROM Employee
-ORDER BY salary DESc
-LIMIT 1 OFFSET offset_val),NULL) AS 'getNthHighestSalary'
+) 
+SELECT DISTINCT MAX(salary)
+FROM cte 
+WHERE dr=N
   );
 END
