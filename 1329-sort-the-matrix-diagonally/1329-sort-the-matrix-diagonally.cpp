@@ -11,7 +11,7 @@ public:
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
             mat[i][j]=*mp[j-i].begin();
-            mp[j-i].erase(mp[j-i].begin());
+            mp[j-i].erase(mp[j-i].find(mat[i][j]));
             }
         }
         return mat;
