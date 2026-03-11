@@ -3,20 +3,22 @@ public:
 const int M=1e9+7;
     int countPalindromicSubsequences(string s) {
         int n=s.size();
-        vector<vector<long long>>t(n,vector<long long>(n,0));
-        for(int i=0;i<n;i++) t[i][i]=1;
-        for(int len=2;len<=n;len++){
-            for(int i=0;i<=n-len;i++){
-                int j=len+i-1;
-                if(s[i]!=s[j]) t[i][j]=(t[i+1][j]+t[i][j-1]-t[i+1][j-1]+M)%M;
-                else{
+        vector<vector<int>>t(n,vector<int>(n,0));
+        for(int g=0;g<n;g++){
+            for(int i=0,j=g;j<n;i++,j++){
+               if(g==0) t[i][j]=1;
+               else if(g==1) t[i][j]=2;
+               else{
+                 if(s[i]!=s[j]) t[i][j]=((t[i+1][j]%M+t[i][j-1]%M)%M-t[i+1][j-1]%M+M)%M;
+                 else{
                     int l=i+1,r=j-1;
                     while(l<=j && s[l]!=s[i]) l++;
                     while(r>=i && s[r]!=s[j]) r--;
-                    if(l==j && r==i) t[i][j]=(2*t[i+1][j-1]+2)%M;
-                    else if(l==r) t[i][j]=(2*t[i+1][j-1]+1)%M;
-                    else t[i][j]=(2*t[i+1][j-1]-t[l+1][r-1]+M)%M;
-                }
+                    if(l==r) t[i][j]=(2*t[i+1][j-1]+1)%M;
+                    else if(l==j && r==i) t[i][j]=(2*t[i+1][j-1]+2)%M;
+                    else t[i][j]=(2*t[i+1][j-1]%M-t[l+1][r-1]%M+M)%M;
+                 }
+               }
             }
         }
         return t[0][n-1];
