@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1918-maximum-score-of-a-good-subarray) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -1488,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1814-jump-game-vi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1814-jump-game-vi) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2023-design-movie-rental-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2023-design-movie-rental-system) |
@@ -1924,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1985-maximum-subarray-min-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -2053,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [1925-count-square-sum-triples](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1952-three-divisors) |
@@ -2323,6 +2328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
