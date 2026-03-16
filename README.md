@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2577-count-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 | [2601-number-of-great-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2601-number-of-great-partitions) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -1662,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2848-special-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
