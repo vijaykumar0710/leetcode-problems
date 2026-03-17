@@ -9,10 +9,10 @@ public:
             }
         }
         int area=0;
-        for(auto &row:mat){
-            sort(row.rbegin(),row.rend());
+        for(int i=0;i<m;i++){
+            sort(mat[i].rbegin(),mat[i].rend());
             for(int j=0;j<n;j++){
-                area=max(area,(j+1)*row[j]);
+                area=max(area,(j+1)*mat[i][j]);
             }
         }
         return area;
