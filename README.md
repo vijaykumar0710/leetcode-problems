@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -2336,6 +2337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2722-prime-in-diagonal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2722-prime-in-diagonal) |
