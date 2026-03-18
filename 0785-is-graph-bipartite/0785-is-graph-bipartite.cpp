@@ -3,7 +3,7 @@ public:
 bool f(int u,int col,vector<int>&color,vector<vector<int>>& graph){
     color[u]=col;
     for(auto &v:graph[u]){
-        if(color[v]==color[u]) return false;
+        if(color[v]==col) return false;
         if(color[v]==-1){
             if(f(v,1-col,color,graph)==false) return false;
         }
