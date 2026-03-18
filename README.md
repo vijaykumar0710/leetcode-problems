@@ -1141,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -1565,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0863-sum-of-distances-in-tree) |
@@ -2667,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
+| [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -2681,5 +2684,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
