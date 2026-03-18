@@ -13,12 +13,11 @@ bool f(int u,int col,vector<int>&color,vector<vector<int>>& graph){
     bool isBipartite(vector<vector<int>>& graph) {
         int n=graph.size();
          vector<int>color(n,-1);
-         bool res=true;
          for(int i=0;i<n;i++){
             if(color[i]==-1){
-            res&=f(i,1,color,graph);
+            if(!f(i,1,color,graph)) return false;
             }
          }
-         return res;
+         return true;
     }
 };
