@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3866-first-unique-even-element) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
 | [3903-inverse-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -1438,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3827-implement-router) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3866-first-unique-even-element) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4008-restore-finishing-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4008-restore-finishing-order) |
 ## Stack
@@ -1763,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3848-check-digitorial-permutation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3848-check-digitorial-permutation) |
+| [3866-first-unique-even-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3866-first-unique-even-element) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Binary Search
 |  |
