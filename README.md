@@ -1174,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -1603,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -2677,6 +2679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0886-possible-bipartition) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bucket Sort
@@ -2692,5 +2695,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0886-possible-bipartition) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
