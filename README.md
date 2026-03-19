@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-maximum-strong-pair-xor-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3212-count-the-number-of-good-partitions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-the-number-of-good-partitions) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1970,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -2362,6 +2364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3031-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
