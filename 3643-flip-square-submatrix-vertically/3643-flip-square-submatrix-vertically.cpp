@@ -1,8 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> reverseSubmatrix(vector<vector<int>>& grid, int x, int y, int k) {
-        int m=grid.size();
-        int n=grid[0].size();
         for(int j=y;j<y+k;j++){
             vector<int>temp;
             for(int i=x;i<x+k;i++){
