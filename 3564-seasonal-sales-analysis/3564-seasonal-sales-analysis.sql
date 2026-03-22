@@ -14,7 +14,7 @@ WITH cte As(
    ),
    cte2 AS(
     SELECT season,category,total_quantity,total_revenue,
-    ROW_NUMBER() OVER(
+    DENSE_RANK() OVER(
         PARTITION BY season
         ORDER BY 
           total_quantity DESC,
