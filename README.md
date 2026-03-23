@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1617-stone-game-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -2356,6 +2358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
