@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0164-maximum-gap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -2701,10 +2703,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
