@@ -20,12 +20,6 @@ public:
         }
         if (c > 'z') return ""; 
         s[i] = c;
-        for (int j = i + 1; j < n; j++) {
-            if (lcp[i][j] > 0) {
-                if (s[j] != ' ' && s[j] != c) return ""; 
-                s[j] = c;
-            }
-        }
     }
     vector<vector<int>> actual_lcp(n + 1, vector<int>(n + 1, 0));    
     for (int i = n - 1; i >= 0; i--) {
