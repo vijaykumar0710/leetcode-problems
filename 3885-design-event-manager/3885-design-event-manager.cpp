@@ -1,6 +1,6 @@
 class EventManager {
 public:
-map<int,int>keyVal;
+unordered_map<int,int>keyVal;
 set<pair<int,int>>valKey;
     EventManager(vector<vector<int>>& events) {
         for(auto e:events){
