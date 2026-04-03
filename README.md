@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-array-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-array-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3840-house-robber-v](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3840-house-robber-v) |
@@ -1881,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3771-total-score-of-dungeon-runs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3771-total-score-of-dungeon-runs) |
 | [3791-fruits-into-baskets-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
