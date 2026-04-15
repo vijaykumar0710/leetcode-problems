@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2504-find-all-good-indices) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2510-maximum-deletions-on-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2510-maximum-deletions-on-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
