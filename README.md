@@ -1337,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
@@ -2551,6 +2552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -2558,6 +2560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
@@ -2728,6 +2731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
