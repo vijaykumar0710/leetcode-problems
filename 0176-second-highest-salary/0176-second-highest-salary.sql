@@ -1,7 +1,9 @@
-WITH cte AS (SELECT salary,
-DENSE_RANK() OVER(ORDER BY salary DESC) AS rank_num
-FROM Employee
-) 
-SELECT distinct MAX(salary) as SecondHighestSalary 
+# Write your MySQL query statement below
+WITH cte as(
+    select *,
+      DENSE_RANK() OVER(ORDER BY salary DESC) as "rnk"
+      FROM Employee
+)
+SELECT MAX(salary) as "SecondHighestSalary"
 FROM cte
-WHERE rank_num=2;
+WHERE rnk=2;
