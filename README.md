@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -1635,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -2767,6 +2769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0886-possible-bipartition) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2573-find-the-string-with-lcp](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
