@@ -1172,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
@@ -1603,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0332-reconstruct-itinerary) |
@@ -2527,6 +2529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -2747,6 +2750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0886-possible-bipartition) |
