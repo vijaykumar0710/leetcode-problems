@@ -21,7 +21,7 @@ public:
                 if(inde[v]==0) q.push(v);
             }
         }
-        //for(auto in:inde) if(in!=0) return {};
+        for(auto in:inde) if(in!=0) return {};
         return res;
     }
 };
