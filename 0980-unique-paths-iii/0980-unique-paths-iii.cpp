@@ -7,7 +7,6 @@ public:
     void solve(int r, int c, int& res, vector<vector<int>>& grid,int &count) {
         if (r == en_r && c == en_c) {
            if(cnt==count) res++;
-            return;
         }
         for (auto dir : directions) {
             int n_r = r + dir[0], n_c = c + dir[1];
