@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0971-shortest-bridge) |
 | [0978-valid-mountain-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0978-valid-mountain-array) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1006-vowel-spellchecker](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
@@ -1326,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
+| [0980-unique-paths-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1038-number-of-squareful-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1038-number-of-squareful-arrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1418-fair-distribution-of-cookies) |
@@ -1713,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1038-number-of-squareful-arrays) |
@@ -2400,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0971-shortest-bridge) |
+| [0980-unique-paths-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
