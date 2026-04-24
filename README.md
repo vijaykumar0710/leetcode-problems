@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0475-heaters) |
 | [0556-next-greater-element-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -1842,6 +1845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
