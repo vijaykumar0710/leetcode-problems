@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2023-design-movie-rental-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2058-concatenation-of-array) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
@@ -2157,6 +2159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1906-maximize-score-after-n-operations) |
 | [1925-count-square-sum-triples](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1952-three-divisors) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2187-vowels-of-all-substrings) |
@@ -2435,6 +2438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
