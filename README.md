@@ -1010,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
@@ -2125,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0796-reaching-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0796-reaching-points) |
 | [0826-soup-servings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0830-largest-triangle-area) |
