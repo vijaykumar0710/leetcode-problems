@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2577-count-palindromic-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
