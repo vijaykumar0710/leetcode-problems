@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2751-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2784-check-if-array-is-good](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2808-painting-the-walls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2808-painting-the-walls) |
 | [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2833-count-zero-request-servers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2833-count-zero-request-servers) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2833-count-zero-request-servers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2833-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2846-robot-collisions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2846-robot-collisions) |
@@ -1460,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2647-split-the-array-to-make-coprime-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2832-find-the-longest-equal-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [2833-count-zero-request-servers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2833-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
