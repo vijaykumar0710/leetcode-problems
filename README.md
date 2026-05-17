@@ -1878,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0704-binary-search) |
@@ -2141,6 +2142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0479-largest-palindrome-product) |
