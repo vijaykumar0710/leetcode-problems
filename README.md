@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0475-heaters) |
@@ -2143,6 +2144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0479-largest-palindrome-product) |
