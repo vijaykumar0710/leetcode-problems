@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2689-rearranging-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2717-collect-coins-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2717-collect-coins-in-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1605,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2549-next-greater-element-iv) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2868-continuous-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1628,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -2827,6 +2830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0886-possible-bipartition) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bucket Sort
