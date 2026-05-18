@@ -16,7 +16,6 @@ public:
             pq.pop();
             int cost = vec[0];
             int x = vec[1], y = vec[2];
-            if(cost > t[{x,y}]) continue;
             res = min(res, cost+abs(x - target[0]) + abs(y - target[1]));
             for (auto r : specialRoads) {
                 int x1 = r[0];
