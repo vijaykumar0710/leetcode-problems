@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2540-minimum-common-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2549-next-greater-element-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2549-next-greater-element-iv) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -1464,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2455-node-with-highest-edge-score) |
 | [2479-meeting-rooms-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -1928,6 +1931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2540-minimum-common-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2549-next-greater-element-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2549-next-greater-element-iv) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2618-maximize-the-minimum-powered-city) |
