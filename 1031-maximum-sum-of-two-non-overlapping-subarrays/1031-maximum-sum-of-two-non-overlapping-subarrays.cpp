@@ -12,12 +12,21 @@ void f(vector<int>&nums,vector<int>&res,int len){
         vector<int>first(n,0),second(n,0);
         f(nums,first,firstLen);
         f(nums,second,secondLen);
+        vector<int>left_maxi(n,INT_MIN),right_maxi(n,INT_MIN);
+        for(int i=0;i<n;i++){
+            left_maxi[i]=second[i];
+            right_maxi[i]=second[i];
+        }
+        for(int i=1;i<n;i++){
+            left_maxi[i]=max(left_maxi[i-1],second[i]);
+            right_maxi[n-i-1]=max(right_maxi[n-i],second[n-i-1]);
+        }
         int res=INT_MIN;
         for(int i=n-1;i>=0;i--){
             int left=INT_MIN;
-            if(i-firstLen>=0)left=*max_element(second.begin(),second.begin()+i-firstLen);
+            if(i-firstLen>=0)left=left_maxi[i-firstLen];
             int right=INT_MIN;
-            if(i+secondLen<n) right=*max_element(second.begin()+i+secondLen,second.end());
+            if(i+secondLen<n) right=right_maxi[i+secondLen];
             res=max(res,first[i]+max(left,right));
         } 
         return res;
