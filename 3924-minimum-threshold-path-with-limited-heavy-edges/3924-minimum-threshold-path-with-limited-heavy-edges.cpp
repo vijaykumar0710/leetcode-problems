@@ -10,6 +10,7 @@ while(!pq.empty()){
     pq.pop();
     int u=node[2],lmt=node[1];
     if(lmt>k) continue;
+    if(u==tar && t[tar]<=k) return true;
     for(auto &v:adj[u]){
         if(v.second>mid){
             if(t[v.first]>lmt+1){
