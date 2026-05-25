@@ -7,11 +7,11 @@ public:
     void addNum(int num) {
        if(pq2.empty() || num<pq2.top()) pq2.push(num);
        else pq1.push(num);
-       if(pq2.size()>pq1.size()+1){
+       if(((int)pq2.size()-(int)pq1.size())>1){
         pq1.push(pq2.top());
         pq2.pop();
        }
-       if(pq1.size()>pq2.size()+1){
+       if(((int)pq1.size()-(int)pq2.size())>1){
         pq2.push(pq1.top());
         pq1.pop();
        }
