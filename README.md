@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3223-count-complete-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3223-count-complete-substrings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -1496,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3197-maximum-strong-pair-xor-ii) |
