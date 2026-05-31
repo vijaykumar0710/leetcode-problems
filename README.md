@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2126-destroying-asteroids](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2126-destroying-asteroids](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2118-maximum-earnings-from-taxi](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2118-maximum-earnings-from-taxi) |
+| [2126-destroying-asteroids](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-find-all-people-with-secret](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2213-find-all-people-with-secret) |
