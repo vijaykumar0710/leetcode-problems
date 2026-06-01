@@ -2,7 +2,6 @@ class Solution {
 public:
     int minimumCost(vector<int>& cost) {
         int n=cost.size(),res=0;
-        if(n==1) return cost[0];
         sort(cost.rbegin(),cost.rend());
         for(int i=0;i<n;i+=3){
             res+=cost[i];
