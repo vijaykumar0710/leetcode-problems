@@ -9,11 +9,13 @@ public:
             while(freq[c]>=1){
                 if(cnt==2){
                     cnt=0;
+                    freq[c]--;
+                    continue;
                 }else{
                     cnt++;
                     res+=c;
+                    freq[c]--;
                 }
-                freq[c]--;
             }
         }
         return res;
