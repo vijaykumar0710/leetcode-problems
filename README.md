@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [0853-car-fleet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0808-number-of-matching-subsequences) |
+| [0853-car-fleet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0853-car-fleet) |
 | [0876-hand-of-straights](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0900-reordered-power-of-2](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0900-reordered-power-of-2) |
@@ -1566,6 +1568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0853-car-fleet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0975-odd-even-jump) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -2771,6 +2774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
+| [0853-car-fleet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0975-odd-even-jump) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
