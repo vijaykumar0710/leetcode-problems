@@ -2,11 +2,13 @@ class Solution {
 public:
     long long maximumTotalCost(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<long long>> dp(n + 1, vector<long long>(2, 0));
+        long long nextPos=0,nextNeg=0;
         for(int i=n-1;i>=0;i--){
-            dp[i][1]=nums[i]+max(dp[i+1][1],dp[i+1][0]);
-            dp[i][0]=-nums[i]+dp[i+1][1];
+           long long curr1=nums[i]+max(nextPos,nextNeg);
+           long long curr2=-nums[i]+nextPos;
+           nextPos=curr1;
+           nextNeg=curr2;
         }
-        return dp[0][1];
+        return nextPos;
     }
 };
