@@ -2,19 +2,21 @@ class Solution {
 public:
     int earliestFinishTime(vector<int>& ls, vector<int>& ld, vector<int>& ws, vector<int>& wd) {
         int m=ls.size(),n=ws.size();
-        vector<pair<int,int>>lt,wt;
-        for(int i=0;i<m;i++) lt.push_back({ls[i],ls[i]+ld[i]});
-        for(int i=0;i<n;i++) wt.push_back({ws[i],ws[i]+wd[i]});
-        sort(lt.begin(),lt.end(),[](auto &a,auto &b){
-            if(a.second==b.second) return a.first<b.first;
-            return a.second<b.second;
-        });
-        sort(wt.begin(),wt.end(),[](auto &a,auto &b){
-            if(a.second==b.second) return a.first<b.first;
-            return a.second<b.second;
-        });
-        if(lt[0].second<wt[0].first) return wt[0].second;
-        else if(wt[0].second<lt[0].first) return lt[0].second;
-        return min(wt[0].second+lt[0].second-lt[0].first,lt[0].second+wt[0].second-wt[0].first);
+       int mini=INT_MAX;
+       for(int i=0;i<m;i++){
+        int d1=ls[i]+ld[i];
+        for(int j=0;j<n;j++){
+            if(ws[j]<=d1) mini=min(mini,d1+wd[j]);
+            else mini=min(mini,d1+wd[j]+ws[j]-d1);
+        }
+       }
+       for(int i=0;i<n;i++){
+        int d1=ws[i]+wd[i];
+        for(int j=0;j<m;j++){
+            if(ls[j]<=d1) mini=min(mini,d1+ld[j]);
+            else mini=min(mini,d1+ld[j]+ls[j]-d1);
+        }
+       }
+       return mini;
     } 
 };
