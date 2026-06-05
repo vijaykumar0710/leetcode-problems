@@ -1892,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -2149,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
@@ -2701,6 +2703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-online-majority-element-in-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1603-design-parking-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2023-design-movie-rental-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
