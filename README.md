@@ -1568,6 +1568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3945-digit-frequency-score) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4008-restore-finishing-order](https://github.com/vijaykumar0710/leetcode-problems/tree/master/4008-restore-finishing-order) |
 ## Stack
@@ -2319,6 +2320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3848-check-digitorial-permutation](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3848-check-digitorial-permutation) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3945-digit-frequency-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3945-digit-frequency-score) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3990-maximum-xor-of-subsequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3990-maximum-xor-of-subsequences) |
 ## Brainteaser
