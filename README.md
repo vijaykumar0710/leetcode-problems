@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3738-make-array-non-decreasing](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1671,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3919-network-recovery-pathways](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3919-network-recovery-pathways) |
@@ -2802,6 +2805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
