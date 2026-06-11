@@ -1760,6 +1760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -2314,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2456,6 +2458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-count-valid-paths-in-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3875-maximum-good-subtree-score](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3875-maximum-good-subtree-score) |
