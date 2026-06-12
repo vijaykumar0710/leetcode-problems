@@ -16,26 +16,27 @@ void dfs(int node,int par, unordered_map<int, vector<int>>& adj){
      }
     }
 }
+
 int LCA(int u,int v){
-    if(depth[u]<depth[v]) swap(u,v);
-    for(int i=LOG-1;i>=0;i--){
-        if(depth[u]-(1<<i)>=depth[v])
+if(depth[u]<depth[v]) swap(u,v);
+for(int i=LOG-1;i>=0;i--){
+    if(depth[u]-(1<<i)>=depth[v]) u=up[u][i];
+}
+if(u==v) return u;
+for(int i=LOG-1;i>=0;i--){
+    if(up[u][i]!=up[v][i]){
         u=up[u][i];
+        v=up[v][i];
     }
-    if(u==v) return u;
-    for(int i=LOG-1;i>=0;i--){
-        if(up[u][i]!=up[v][i]){
-            u=up[u][i];
-            v=up[v][i];
-        }
-    }
-    return up[u][0];
+}
+return up[u][0];
 }
 
 int get_dist(int u,int v){
     int lca=LCA(u,v);
     return depth[u]+depth[v]-2*depth[lca];
 }
+
 long long mod_pow(long long b,long long e){
     long long res=1;
     b%=M;
