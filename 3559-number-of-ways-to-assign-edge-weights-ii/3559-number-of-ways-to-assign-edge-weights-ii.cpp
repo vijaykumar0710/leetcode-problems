@@ -4,7 +4,7 @@ const int M=1e9+7;
 const int LOG=20;
 vector<int>depth;
 vector<vector<int>>up;
-void dfs(int node,int par, vector<vector<int>>&adj){
+void dfs(int node,int par, unordered_map<int, vector<int>>& adj){
     depth[node]=depth[par]+1;
     up[node][0]=par;
     for(int i=1;i<LOG;i++){
@@ -48,7 +48,7 @@ long long mod_pow(long long b,long long e){
 }
     vector<int> assignEdgeWeights(vector<vector<int>>& edges, vector<vector<int>>& queries) {
         int n=edges.size()+1;
-       vector<vector<int>>adj(n+1);
+        unordered_map<int, vector<int>>adj;
         depth.resize(n+1);
         up.resize(n+1,vector<int>(LOG));
         for(auto &e:edges){
