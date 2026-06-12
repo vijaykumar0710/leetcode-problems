@@ -18,18 +18,18 @@ void dfs(int node,int par, unordered_map<int, vector<int>>& adj){
 }
 
 int LCA(int u,int v){
-if(depth[u]<depth[v]) swap(u,v);
-for(int i=LOG-1;i>=0;i--){
-    if(depth[u]-(1<<i)>=depth[v]) u=up[u][i];
-}
-if(u==v) return u;
-for(int i=LOG-1;i>=0;i--){
-    if(up[u][i]!=up[v][i]){
-        u=up[u][i];
-        v=up[v][i];
+    if(depth[u]<depth[v]) swap(u,v);
+    for(int i=LOG-1;i>=0;i--){
+        if(depth[u]-(1<<i)>=depth[v]) u=up[u][i];
     }
-}
-return up[u][0];
+    if(u==v) return u;
+    for(int i=LOG-1;i>=0;i--){
+        if(up[u][i]!=up[v][i]){
+            u=up[u][i];
+            v=up[v][i];
+        }
+    }
+    return up[u][0];
 }
 
 int get_dist(int u,int v){
@@ -48,7 +48,7 @@ long long mod_pow(long long b,long long e){
     return res;
 }
     vector<int> assignEdgeWeights(vector<vector<int>>& edges, vector<vector<int>>& queries) {
-        int n=edges.size()+1;
+       int n=edges.size()+1;
         unordered_map<int, vector<int>>adj;
         depth.resize(n+1);
         up.resize(n+1,vector<int>(LOG));
