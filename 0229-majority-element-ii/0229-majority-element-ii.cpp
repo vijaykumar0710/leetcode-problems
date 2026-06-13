@@ -23,8 +23,8 @@ public:
             if(num==majority1) cnt1++;
             else if(num==majority2) cnt2++;
         }
-        if(cnt1>floor(n/3)) res.push_back(majority1);
-        if(cnt2>floor(n/3)) res.push_back(majority2);
+        if(cnt1>(n/3)) res.push_back(majority1);
+        if(cnt2>(n/3)) res.push_back(majority2);
         return res;
     }
 };
