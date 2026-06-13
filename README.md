@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1466-jump-game-v](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1571-allocate-mailboxes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1571-allocate-mailboxes) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -1970,6 +1972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
