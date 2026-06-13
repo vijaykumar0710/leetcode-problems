@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0556-next-greater-element-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -1444,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+| [0535-encode-and-decode-tinyurl](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -2736,6 +2738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0706-design-hashmap) |
 | [1262-online-majority-element-in-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
@@ -2769,6 +2772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
