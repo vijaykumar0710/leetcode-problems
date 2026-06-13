@@ -1627,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -2712,6 +2713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0146-lru-cache) |
@@ -2870,6 +2872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
@@ -2900,6 +2903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0327-count-of-range-sum) |
 | [0912-sort-an-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0912-sort-an-array) |
