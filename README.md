@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0482-license-key-formatting) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1726,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -2447,6 +2450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -2502,6 +2506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -2749,6 +2754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0706-design-hashmap) |
@@ -2920,6 +2926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
