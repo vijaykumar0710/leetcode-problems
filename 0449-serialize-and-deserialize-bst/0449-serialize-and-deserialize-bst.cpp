@@ -1,40 +1,38 @@
 class Codec {
 public:
-    string s;
-    void preorder(TreeNode* root){
-        if(root==NULL){
-            s+="#,";
-            return;
-        }
-        s+=to_string(root->val)+",";
-        preorder(root->left);
-        preorder(root->right);
+    void preorder(TreeNode* root, string& s) {
+        if(root == NULL) return;
+        s += to_string(root->val) + ",";
+        preorder(root->left, s);
+        preorder(root->right, s);
     }
     string serialize(TreeNode* root) {
-        preorder(root);
+        string s = "";
+        preorder(root, s);
         return s;
     }
-TreeNode* build(vector<string>&s,int &idx){
-    if(s[idx]=="#"){
-        idx++;
-        return NULL;
-    }
-    TreeNode* root=new TreeNode(stoi(s[idx]));
-    idx++;
-    root->left=build(s,idx);
-    root->right=build(s,idx);
-    return root;
-}
-    TreeNode* deserialize(string data) {
-        vector<string>s;
-        string temp="";
-        for(auto ch:data){
-            if(ch==','){
-                s.push_back(temp);
-                temp="";
-            }else temp+=ch;
+    TreeNode* build(vector<int>& v, int& idx, int bound) {
+        if(idx == v.size() || v[idx] > bound) {
+            return NULL;
         }
-        int idx=0;
-        return build(s,idx);
+        TreeNode* root = new TreeNode(v[idx]);
+        idx++;
+        root->left = build(v, idx, v[idx-1]);
+        root->right = build(v, idx, bound);
+        return root;
+    }
+    TreeNode* deserialize(string data) {
+        vector<int> v;
+        string temp = "";
+        for(char ch : data) {
+            if(ch == ',') {
+                v.push_back(stoi(temp));
+                temp = "";
+            } else {
+                temp += ch;
+            }
+        }
+        int idx = 0;
+        return build(v, idx, INT_MAX);
     }
 };
