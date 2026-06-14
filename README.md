@@ -2698,6 +2698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0326-power-of-three) |
@@ -2724,6 +2725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0706-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
