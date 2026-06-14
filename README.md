@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0336-palindrome-pairs) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0322-coin-change) |
@@ -1714,6 +1716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0332-reconstruct-itinerary) |
@@ -2440,6 +2443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0437-path-sum-iii) |
@@ -2494,6 +2498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0437-path-sum-iii) |
@@ -2742,6 +2747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0705-design-hashset) |
