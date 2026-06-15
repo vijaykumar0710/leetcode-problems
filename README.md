@@ -1719,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -2447,6 +2448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
@@ -2503,6 +2505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
