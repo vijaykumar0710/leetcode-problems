@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0213-house-robber-ii) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
@@ -1718,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -2552,6 +2555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -2974,6 +2978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/vijaykumar0710/leetcode-problems/tree/master/0886-possible-bipartition) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
