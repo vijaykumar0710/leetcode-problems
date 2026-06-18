@@ -2269,6 +2269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1057-numbers-with-repeated-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
