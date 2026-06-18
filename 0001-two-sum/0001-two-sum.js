@@ -5,10 +5,11 @@
  */
 var twoSum = function(nums, target) {
     let n=nums.length;
+    let map=new Map();
     for(let i=0;i<n;i++){
-        for(let j=i+1;j<n;j++){
-            if(nums[i]+nums[j]==target) return [i,j];
-        }
+       let need=target-nums[i];
+       if(map.has(need)) return [i,map.get(need)];
+       map.set(nums[i],i);
     }
-    return {};
+    return [];
 };
