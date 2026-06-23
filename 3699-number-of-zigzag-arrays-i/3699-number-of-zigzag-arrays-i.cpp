@@ -1,20 +1,12 @@
 class Solution {
     int MOD = 1e9 + 7;
     int N,L,R;
-    
-    // Sirf ek 1D Vector allocate karenge. Super fast!
     vector<int> memo;
-
     int dfs(int idx, int val, int dir) {
         if (idx == N) return 1;
-
-        // 3D coordinates ko 1D index mein convert karne ka formula
         int memo_idx = (idx * (R + 1) + val) * 2 + dir;
-
         if (memo[memo_idx] != -1) return memo[memo_idx];
-
         long long ways = 0;
-        
         if (dir == 1) { 
             if (val < R) {
                 ways = (dfs(idx + 1, val + 1, 0) + dfs(idx, val + 1, 1)) % MOD;
@@ -25,7 +17,6 @@ class Solution {
                 ways = (dfs(idx + 1, val - 1, 1) + dfs(idx, val - 1, 0)) % MOD;
             }
         }
-
         return memo[memo_idx] = ways;
     }
 public:
