@@ -1,11 +1,10 @@
+int MOD = 1e9 + 7;
+int t[2005][2005][2];
 class Solution {
-    int MOD = 1e9 + 7;
-    int N,L,R;
-    vector<int> memo;
+    int N, L, R;
     int dfs(int idx, int val, int dir) {
         if (idx == N) return 1;
-        int memo_idx = (idx * (R + 1) + val) * 2 + dir;
-        if (memo[memo_idx] != -1) return memo[memo_idx];
+        if (t[idx][val][dir] != -1) return t[idx][val][dir];
         long long ways = 0;
         if (dir == 1) { 
             if (val < R) {
@@ -17,14 +16,14 @@ class Solution {
                 ways = (dfs(idx + 1, val - 1, 1) + dfs(idx, val - 1, 0)) % MOD;
             }
         }
-        return memo[memo_idx] = ways;
+        return t[idx][val][dir] = ways;
     }
 public:
     int zigZagArrays(int n, int l, int r) {
         N = n;
-        L=l,R=r;
-        if (n == 1) return  r - l + 1;
-        memo.assign((N + 1) * (r + 1) * 2, -1);
+        L = l, R = r;
+        if (n == 1) return r - l + 1;
+        memset(t, -1, sizeof(t));
         long long total_ways = 0;
         for (int first_val = l; first_val <= r; first_val++) {
             total_ways = (total_ways + dfs(1, first_val, 1)) % MOD;
