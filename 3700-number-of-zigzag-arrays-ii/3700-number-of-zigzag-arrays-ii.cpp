@@ -1,6 +1,6 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
+    const int MOD = 1e9 + 7;
     using Matrix = vector<vector<long long>>;
     Matrix multiply(const Matrix& A, const Matrix& B) {
         int n = A.size();
