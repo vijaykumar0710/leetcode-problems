@@ -10,7 +10,7 @@ const int M=1e9+7;
             for(int j=0;j<n;j++){
                 C[i][j]=(C[i][j]+A[i][k]*B[k][j])%M;
             }
-         }
+        }
        }
        return C;
    }
