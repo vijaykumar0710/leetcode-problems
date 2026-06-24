@@ -1,6 +1,6 @@
 class Solution {
 public:
-    const long long MOD = 1000000007;
+    long long MOD = 1000000007;
     vector<vector<long long>> multiply(vector<vector<long long>>& A, vector<vector<long long>>& B) {
         int n = A.size();
         vector<vector<long long>> C(n, vector<long long>(n, 0));
