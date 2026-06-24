@@ -1,10 +1,9 @@
 class Solution {
 public:
     const int MOD = 1e9 + 7;
-    using Matrix = vector<vector<long long>>;
-    Matrix multiply(const Matrix& A, const Matrix& B) {
+    vector<vector<long long>> multiply(const vector<vector<long long>>& A, const vector<vector<long long>>& B) {
         int n = A.size();
-        Matrix C(n, vector<long long>(n, 0));
+        vector<vector<long long>> C(n, vector<long long>(n, 0));
         for (int i = 0; i < n; i++) {
             for (int k = 0; k < n; k++) {
                 if (A[i][k] == 0) continue;
@@ -15,7 +14,7 @@ public:
         }
         return C;
     }
-    vector<long long> multiplyMatrixVector(const Matrix& A, const vector<long long>& v) {
+    vector<long long> multiplyMatrixVector(vector<vector<long long>>& A, vector<long long>& v) {
         int n = A.size();
         vector<long long> res(n, 0);
         for (int i = 0; i < n; i++) {
@@ -43,7 +42,7 @@ public:
             }
             return ans;
         }
-        Matrix T(S, vector<long long>(S, 0));
+        vector<vector<long long>> T(S, vector<long long>(S, 0));
         for (int x = 0; x < K; x++) {
             for (int y = 0; y < x; y++) {
                 T[x][K + y] = 1;
