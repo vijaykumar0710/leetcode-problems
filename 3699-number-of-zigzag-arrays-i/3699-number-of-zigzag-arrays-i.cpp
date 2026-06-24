@@ -1,28 +1,29 @@
-int t[2005][2005][3];
-const int M=1e9+7;
+int dp[2005][2005][3];
+const int M = 1e9 + 7;
 class Solution {
 public:
-int N,L,R;
-int f(int len,int num,int flag){
- if(len==N) return 1;
- if(t[len][num][flag]!=-1) return t[len][num][flag];
- int ans=0;
- if(flag){
-    if(num<R)
-    ans=(ans+f(len+1,num+1,0)+f(len,num+1,1))%M;
- }else{
-    if(num>L)
-    ans=(ans+f(len+1,num-1,1)+f(len,num-1,0))%M;
- }
- return t[len][num][flag]=ans;
-}
     int zigZagArrays(int n, int l, int r) {
-        N=n,L=l,R=r;
-        int res=0;
-        memset(t,-1,sizeof(t));
-        for(int i=l;i<=r;i++){
-            res=(res+f(1,i,1))%M;
-            res=(res+f(1,i,0))%M;
+        int N = n, L = l, R = r;
+        memset(dp, 0, sizeof(dp));
+        for (int num = L; num <= R; num++) {
+            dp[N][num][0] = 1;
+            dp[N][num][1] = 1;
+        }
+        for (int len = N - 1; len >= 1; len--) {
+            dp[len][R][1] = 0;
+            for (int num = R - 1; num >= L; num--) {
+                dp[len][num][1] =
+                    (dp[len + 1][num + 1][0] + dp[len][num + 1][1]) % M;
+            }
+            dp[len][L][0] = 0;
+            for (int num = L + 1; num <= R; num++) {
+                dp[len][num][0] =(dp[len + 1][num - 1][1] + dp[len][num - 1][0]) % M;
+            }
+        }
+        int res = 0;
+        for (int i = L; i <= R; i++) {
+            res = (res + dp[1][i][1]) % M;
+            res = (res + dp[1][i][0]) % M;
         }
         return res;
     }
