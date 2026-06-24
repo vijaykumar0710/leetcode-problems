@@ -10,12 +10,10 @@ public:
             dp[N][num][1] = 1;
         }
         for (int len = N - 1; len >= 1; len--) {
-            dp[len][R][1] = 0;
             for (int num = R - 1; num >= L; num--) {
                 dp[len][num][1] =
                     (dp[len + 1][num + 1][0] + dp[len][num + 1][1]) % M;
             }
-            dp[len][L][0] = 0;
             for (int num = L + 1; num <= R; num++) {
                 dp[len][num][0] =(dp[len + 1][num - 1][1] + dp[len][num - 1][0]) % M;
             }
