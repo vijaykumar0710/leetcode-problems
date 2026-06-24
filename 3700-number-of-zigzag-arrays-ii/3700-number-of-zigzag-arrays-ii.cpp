@@ -4,14 +4,14 @@ const int M=1e9+7;
    vector<vector<long long>>multiply(vector<vector<long long>>&A,vector<vector<long long>>&B){
        int n=A.size();
        vector<vector<long long>>C(n,vector<long long>(n,0));
-       for (int i = 0; i < n; i++) {
-            for (int k = 0; k < n; k++) {
-                if (A[i][k] == 0) continue;
-                for (int j = 0; j < n; j++) {
-                    C[i][j] = (C[i][j] + A[i][k] * B[k][j]) % M;
-                }
+       for(int i=0;i<n;i++){
+        for(int k=0;k<n;k++){
+            if(A[i][k]==0) continue;
+            for(int j=0;j<n;j++){
+                C[i][j]=(C[i][j]+A[i][k]*B[k][j])%M;
             }
-        }
+         }
+       }
        return C;
    }
    vector<long long>multiplyMatVec(vector<vector<long long>>&A,vector<long long>&B){
