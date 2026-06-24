@@ -60,7 +60,7 @@ public:
                 state = multiplyMatrixVector(T, state);
             }
             T = multiply(T, T);
-            power >>= 1;
+            power/=2;
         }
         long long ans = 0;
         for (int v = 0; v <S; v++) {
