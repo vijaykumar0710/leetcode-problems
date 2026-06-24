@@ -1,12 +1,13 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-    vector<vector<long long>> multiply(const vector<vector<long long>>& A, const vector<vector<long long>>& B) {
+    const long long MOD = 1000000007;
+    vector<vector<long long>> multiply(vector<vector<long long>>& A, vector<vector<long long>>& B) {
         int n = A.size();
         vector<vector<long long>> C(n, vector<long long>(n, 0));
-       for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                for (int k = 0; k < n; k++) {
+        for (int i = 0; i < n; i++) {
+            for (int k = 0; k < n; k++) {
+                if (A[i][k] == 0) continue;
+                for (int j = 0; j < n; j++) {
                     C[i][j] = (C[i][j] + A[i][k] * B[k][j]) % MOD;
                 }
             }
@@ -26,30 +27,33 @@ public:
         return res;
     }
     int zigZagArrays(int n, int l, int r) {
-        int K = r - l + 1;
-        if (n == 1) return K;
-        int S = 2 * K;
+        int valueCount = r - l + 1;
+        if (n == 1) {
+            return valueCount;
+        }
+        int S = 2 * (r + 1);
         vector<long long> state(S, 0);
-        for (int x = 0; x < K; x++) {
-            state[x] = x;              
-            state[K + x] = K - 1 - x;  
+        for (int v = l; v <= r; v++) {
+            state[v] = v - l;
+            state[r + 1+v] = r - v;
         }
         if (n == 2) {
             long long ans = 0;
-            for (int i = 0; i < S; i++) {
-                ans = (ans + state[i]) % MOD;
+            for (int v = l; v <= r; v++) {
+                ans = (ans + state[v]) % MOD;
+                ans = (ans + state[r + 1+v]) % MOD;
             }
             return ans;
         }
-        vector<vector<long long>> T(S, vector<long long>(S, 0));
-        for (int x = 0; x < K; x++) {
-            for (int y = 0; y < x; y++) {
-                T[x][K + y] = 1;
+        vector<vector<long long>>T(S, vector<long long>(S, 0));
+        for (int v = l; v <= r; v++) {
+            for (int x = l; x < v; x++) {
+                T[v][r+ 1+x] = 1;
             }
         }
-        for (int x = 0; x < K; x++) {
-            for (int y = x + 1; y < K; y++) {
-                T[K + x][y] = 1;
+        for (int v = l; v <= r; v++) {
+            for (int x = v + 1; x <= r; x++) {
+                T[r + 1+v][x] = 1;
             }
         }
         long long power = n - 2;
@@ -61,8 +65,9 @@ public:
             power >>= 1;
         }
         long long ans = 0;
-        for (int i = 0; i < S; i++) {
-            ans = (ans + state[i]) % MOD;
+        for (int v = l; v <= r; v++) {
+            ans = (ans + state[v]) % MOD;
+            ans = (ans + state[r + 1+v]) % MOD;
         }
         return ans;
     }
