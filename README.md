@@ -1249,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-count-paths-with-the-given-xor-value](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -2372,6 +2373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
