@@ -27,9 +27,8 @@ public:
         return res;
     }
     int zigZagArrays(int n, int l, int r) {
-        int valueCount = r - l + 1;
         if (n == 1) {
-            return valueCount;
+            return r - l + 1;
         }
         int S = 2 * (r + 1);
         vector<long long> state(S, 0);
@@ -39,9 +38,8 @@ public:
         }
         if (n == 2) {
             long long ans = 0;
-            for (int v = l; v <= r; v++) {
+            for (int v = 0; v <S; v++) {
                 ans = (ans + state[v]) % MOD;
-                ans = (ans + state[r + 1+v]) % MOD;
             }
             return ans;
         }
@@ -65,9 +63,8 @@ public:
             power >>= 1;
         }
         long long ans = 0;
-        for (int v = l; v <= r; v++) {
+        for (int v = 0; v <S; v++) {
             ans = (ans + state[v]) % MOD;
-            ans = (ans + state[r + 1+v]) % MOD;
         }
         return ans;
     }
