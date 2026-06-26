@@ -1,30 +1,52 @@
 class Solution {
 public:
-long long f(int l,int r,vector<int>&nums,int tar){
-if(l==r) return nums[l]>0?1:0;
-int mid=l+(r-l)/2;
-long long left_cnt=f(l,mid,nums,tar);
-long long right_cnt=f(mid+1,r,nums,tar);
-vector<int>left_suffix,right_prefix;
-long long curr=0LL;
-for(int i=mid;i>=l;i--){
-    curr+=nums[i];
-    left_suffix.push_back(curr);
-}
-curr=0LL;
-for(int i=mid+1;i<=r;i++){
-    curr+=nums[i];
-    right_prefix.push_back(curr);
-}
-sort(right_prefix.begin(),right_prefix.end());
-long long cnt=0;
-for(auto x:left_suffix){
-    cnt+=right_prefix.end()-upper_bound(right_prefix.begin(),right_prefix.end(),-x);
-}
-return cnt+left_cnt+right_cnt;
-}
+    int query(int qs, int qe, int idx, int l, int r,
+              unordered_map<int, int>& seg) {
+        if (qe < l || qs > r)
+            return 0;
+        if (qs <= l && r <= qe)
+            return seg[idx];
+        int mid = l + (r - l) / 2;
+        return query(qs, qe, idx * 2 + 1, l, mid, seg) +
+               query(qs, qe, idx * 2 + 2, mid + 1, r, seg);
+    }
+    void update(int pos, int idx, int l, int r, unordered_map<int, int>& seg) {
+        if (l == r) {
+            seg[idx]++;
+            return;
+        }
+        int mid = l + (r - l) / 2;
+        if (pos <= mid)
+            update(pos, idx * 2 + 1, l, mid, seg);
+        else
+            update(pos, idx * 2 + 2, mid + 1, r, seg);
+        seg[idx] = seg[idx * 2 + 1] + seg[idx * 2 + 2];
+    }
+    long long countSmaller(vector<int>& nums) {
+        int n = nums.size();
+        unordered_map<int, int> seg;
+        long long res = 0;
+        for (int i = 0; i < n; i++) {
+            long long ans = 0;
+            ans = query(0, nums[i] - 1 + 1e5, 0, 0, 1e9, seg);
+            res += ans;
+            update(nums[i] + 1e5, 0, 0, 1e9, seg);
+        }
+        return res;
+    }
     long long countMajoritySubarrays(vector<int>& nums, int target) {
-        for(int i=0;i<nums.size();i++) nums[i]==target?nums[i]=1:nums[i]=-1;
-        return f(0,nums.size()-1,nums,target);
+        int n = nums.size();
+        vector<int> vec;
+        vec.push_back(0);
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == target)
+                vec.push_back(1);
+            else
+                vec.push_back(-1);
+        }
+        for (int i = 1; i < vec.size(); i++) {
+            vec[i] = vec[i] + vec[i - 1];
+        }
+        return countSmaller(vec);
     }
 };
