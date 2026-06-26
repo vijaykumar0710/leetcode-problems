@@ -26,11 +26,13 @@ public:
         int n = nums.size();
         unordered_map<int, int> seg;
         long long res = 0;
+        int mini=*min_element(nums.begin(),nums.end());
+        int maxi=*max_element(nums.begin(),nums.end());
         for (int i = 0; i < n; i++) {
             long long ans = 0;
-            ans = query(0, nums[i] - 1 + 1e5, 0, 0, 1e9, seg);
+            ans = query(mini, nums[i] - 1, 0, mini, maxi, seg);
             res += ans;
-            update(nums[i] + 1e5, 0, 0, 1e9, seg);
+            update(nums[i], 0, mini, maxi, seg);
         }
         return res;
     }
