@@ -23,7 +23,6 @@ public:
             }
             res=max(res,sz);
         }
-        if(res==0) return 1;
         if(res%2==0) res--;
         return res;
     }
