@@ -3,25 +3,25 @@ public:
     int maximumLength(vector<int>& nums) {
         unordered_map<int,int>mp;
         vector<int>vec;
-        for(auto x:nums){
-            if(!mp.count(x)) vec.push_back(x);
-            mp[x]++;
+        for(auto num:nums){
+            if(!mp.count(num)) vec.push_back(num);
+            mp[num]++;
         }
         int n=vec.size(),res=mp[1];
         for(int i=0;i<n;i++){
-            long long num=vec[i];
-            if(num==1) continue;
-            int sz=0; 
-            while(num<=1e9){
-              if(mp[num]>=2) sz+=2;
+            long long x=vec[i];
+            if(x==1) continue;
+            int len=0;
+            while(x<=1e9){
+              if(mp[x]>=2) len+=2;
               else{
-                if(mp[num]==1) 
-                res=max(res,sz+1);
+                if(mp[x]==1) len++;
+                res=max(res,len);
                 break;
               }
-              num*=num;
+              x*=x;
             }
-            res=max(res,sz);
+            res=max(res,len);
         }
         if(res%2==0) res--;
         return res;
