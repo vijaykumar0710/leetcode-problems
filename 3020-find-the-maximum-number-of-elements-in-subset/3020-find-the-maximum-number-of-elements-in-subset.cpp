@@ -16,7 +16,7 @@ public:
               if(mp[num]>=2) sz+=2;
               else{
                 if(mp[num]==1) 
-                res=max(res,sz+2);
+                res=max(res,sz+1);
                 break;
               }
               num*=num;
