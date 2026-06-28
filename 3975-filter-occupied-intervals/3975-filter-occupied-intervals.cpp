@@ -17,7 +17,6 @@ public:
         }
         res.push_back({prev_st,prev_end});
         int m=res.size();
-        int idx1=m,idx2=-1;
         for(int i=0;i<m;i++){
            if(res[i][0]<freeStart && res[i][1]>freeEnd){
               res.push_back({freeEnd+1,res[i][1]});
