@@ -20,7 +20,7 @@ public:
         for(int i=0;i<m;i++){
            if(res[i][0]<freeStart && res[i][1]>freeEnd){
               res.push_back({freeEnd+1,res[i][1]});
-              res[i][1]=freeStart+1;
+              res[i][1]=freeStart-1;
            }
            if(res[i][0]>=freeStart && res[i][1]<=freeEnd){
             res[i][0]=0;
