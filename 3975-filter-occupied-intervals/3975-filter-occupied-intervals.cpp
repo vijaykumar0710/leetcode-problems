@@ -26,8 +26,8 @@ public:
             res[i][0]=0;
             res[i][1]=0;
            }
-           else if(res[i][0]<freeStart && res[i][1]>=freeStart) res[i][1]=freeStart-1;
-           else if(res[i][0]<=freeEnd && res[i][1]>freeEnd) res[i][0]=freeEnd+1;
+           if(res[i][0]<freeStart && res[i][1]>=freeStart) res[i][1]=freeStart-1;
+           if(res[i][0]<=freeEnd && res[i][1]>freeEnd) res[i][0]=freeEnd+1;
         }
         sort(res.begin(),res.end());
         vector<vector<int>>ans;
