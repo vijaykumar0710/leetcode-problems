@@ -1,15 +1,18 @@
 class Solution {
 public:
     int numOfStrings(vector<string>& patterns, string word) {
-        set<string>st;
+        unordered_map<string,int>mp;
+        for(auto str:patterns) mp[str]++;
+        int res=0;
         for(int i=0;i<word.size();i++){
-            for(int j=1;j<=word.size();j++){
-                string str=word.substr(i,j);
-                st.insert(str);
+            for(int j=i;j<word.size();j++){
+                string str=word.substr(i,j-i+1);
+                if(mp.count(str)){
+                  res+=mp[str];
+                  mp.erase(str);
+                }
             }
         }
-        int res=0;
-        for(auto &w:patterns) if(st.count(w)) res++;
-        return  res;
+        return res;
     }
 };
