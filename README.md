@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1505,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1308-smallest-string-with-swaps) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -2096,6 +2098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-longest-duplicate-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1122-longest-duplicate-substring) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1286-constrained-subsequence-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
