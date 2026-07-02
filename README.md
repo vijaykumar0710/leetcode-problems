@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3317-maximum-palindromes-after-operations) |
@@ -1329,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3863-power-grid-maintenance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3863-power-grid-maintenance) |
@@ -1708,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1728,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vijaykumar0710/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -2641,6 +2645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -3005,6 +3010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vijaykumar0710/leetcode-problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vijaykumar0710/leetcode-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bucket Sort
 |  |
